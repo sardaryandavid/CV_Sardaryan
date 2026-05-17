@@ -1,0 +1,5009 @@
+===========================
+File valve_0001_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01952
+  Segment 1: type=complex, RMSE=0.01737
+  Segment 2: type=complex, RMSE=0.02223
+  Segment 3: type=tube, RMSE=0.01386
+  Segment 5: type=complex, RMSE=0.02274
+  Segment 6: type=complex, RMSE=0.02535
+  Segment 7: type=tube, RMSE=0.01188
+  Segment 9: type=sphere, RMSE=0.01522
+File valve_0002_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01932
+  Segment 1: type=complex, RMSE=0.02382
+  Segment 2: type=complex, RMSE=0.02543
+  Segment 3: type=plane, RMSE=0.01329
+  Segment 5: type=tube, RMSE=0.02089
+  Segment 6: type=complex, RMSE=0.02885
+  Segment 7: type=tube, RMSE=0.02315
+  Segment 9: type=complex, RMSE=0.01824
+File valve_0003_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01803
+  Segment 1: type=complex, RMSE=0.02336
+  Segment 2: type=tube, RMSE=0.01377
+  Segment 3: type=plane, RMSE=0.01658
+  Segment 4: type=plane, RMSE=0.01645
+  Segment 5: type=complex, RMSE=0.02016
+  Segment 6: type=complex, RMSE=0.02868
+  Segment 7: type=tube, RMSE=0.02461
+  Segment 9: type=complex, RMSE=0.01732
+File valve_0004_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01802
+  Segment 1: type=complex, RMSE=0.02036
+  Segment 2: type=tube, RMSE=0.01218
+  Segment 3: type=plane, RMSE=0.01667
+  Segment 5: type=complex, RMSE=0.01957
+  Segment 6: type=complex, RMSE=0.02554
+  Segment 7: type=tube, RMSE=0.01602
+  Segment 9: type=sphere, RMSE=0.01579
+File valve_0005_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01652
+  Segment 1: type=complex, RMSE=0.01951
+  Segment 2: type=tube, RMSE=0.01387
+  Segment 3: type=tube, RMSE=0.01324
+  Segment 4: type=complex, RMSE=0.01808
+  Segment 6: type=complex, RMSE=0.02508
+  Segment 7: type=tube, RMSE=0.01479
+  Segment 8: type=plane, RMSE=0.01143
+  Segment 9: type=complex, RMSE=0.01484
+File valve_0006_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01828
+  Segment 1: type=complex, RMSE=0.02004
+  Segment 2: type=complex, RMSE=0.02085
+  Segment 3: type=tube, RMSE=0.01997
+  Segment 4: type=plane, RMSE=0.01869
+  Segment 5: type=complex, RMSE=0.02371
+  Segment 6: type=complex, RMSE=0.02792
+  Segment 7: type=tube, RMSE=0.02220
+  Segment 9: type=sphere, RMSE=0.01583
+File valve_0007_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01889
+  Segment 1: type=complex, RMSE=0.02422
+  Segment 2: type=tube, RMSE=0.01588
+  Segment 3: type=plane, RMSE=0.01555
+  Segment 4: type=complex, RMSE=0.03006
+  Segment 5: type=complex, RMSE=0.02539
+  Segment 6: type=complex, RMSE=0.03559
+  Segment 7: type=tube, RMSE=0.01845
+  Segment 9: type=complex, RMSE=0.01703
+File valve_0008_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01867
+  Segment 1: type=complex, RMSE=0.01695
+  Segment 2: type=tube, RMSE=0.01388
+  Segment 3: type=tube, RMSE=0.01338
+  Segment 4: type=complex, RMSE=0.01791
+  Segment 5: type=complex, RMSE=0.02219
+  Segment 6: type=complex, RMSE=0.02797
+  Segment 7: type=complex, RMSE=0.01907
+  Segment 8: type=complex, RMSE=0.01319
+  Segment 9: type=sphere, RMSE=0.01536
+File valve_0009_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01645
+  Segment 1: type=complex, RMSE=0.02058
+  Segment 2: type=complex, RMSE=0.02396
+  Segment 3: type=tube, RMSE=0.01323
+  Segment 4: type=complex, RMSE=0.01815
+  Segment 5: type=complex, RMSE=0.02131
+  Segment 6: type=complex, RMSE=0.02566
+  Segment 7: type=tube, RMSE=0.01866
+  Segment 8: type=plane, RMSE=0.01380
+  Segment 9: type=complex, RMSE=0.01477
+File valve_0010_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01665
+  Segment 1: type=complex, RMSE=0.02107
+  Segment 2: type=tube, RMSE=0.01360
+  Segment 3: type=complex, RMSE=0.01418
+  Segment 4: type=complex, RMSE=0.01912
+  Segment 5: type=complex, RMSE=0.01526
+  Segment 6: type=complex, RMSE=0.02631
+  Segment 7: type=tube, RMSE=0.01259
+  Segment 8: type=complex, RMSE=0.01429
+  Segment 9: type=complex, RMSE=0.01603
+File valve_0011_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01713
+  Segment 1: type=complex, RMSE=0.02011
+  Segment 2: type=tube, RMSE=0.01374
+  Segment 3: type=tube, RMSE=0.01336
+  Segment 5: type=complex, RMSE=0.02648
+  Segment 6: type=complex, RMSE=0.02512
+  Segment 7: type=tube, RMSE=0.01191
+  Segment 9: type=sphere, RMSE=0.01517
+File valve_0012_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01706
+  Segment 1: type=complex, RMSE=0.02240
+  Segment 2: type=complex, RMSE=0.02323
+  Segment 3: type=plane, RMSE=0.01652
+  Segment 4: type=complex, RMSE=0.01756
+  Segment 5: type=complex, RMSE=0.02143
+  Segment 6: type=complex, RMSE=0.02402
+  Segment 7: type=tube, RMSE=0.01587
+  Segment 9: type=sphere, RMSE=0.01633
+File valve_0013_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01710
+  Segment 1: type=complex, RMSE=0.02078
+  Segment 2: type=complex, RMSE=0.02070
+  Segment 3: type=complex, RMSE=0.01537
+  Segment 4: type=complex, RMSE=0.01809
+  Segment 5: type=complex, RMSE=0.02086
+  Segment 6: type=complex, RMSE=0.02468
+  Segment 7: type=tube, RMSE=0.01346
+  Segment 9: type=complex, RMSE=0.01747
+File valve_0014_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01637
+  Segment 1: type=complex, RMSE=0.01912
+  Segment 2: type=complex, RMSE=0.02044
+  Segment 3: type=complex, RMSE=0.02119
+  Segment 5: type=complex, RMSE=0.01728
+  Segment 6: type=complex, RMSE=0.02635
+  Segment 7: type=tube, RMSE=0.01223
+  Segment 9: type=complex, RMSE=0.01537
+File valve_0015_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01654
+  Segment 1: type=complex, RMSE=0.01871
+  Segment 2: type=complex, RMSE=0.02283
+  Segment 3: type=plane, RMSE=0.01891
+  Segment 4: type=complex, RMSE=0.01677
+  Segment 5: type=complex, RMSE=0.02090
+  Segment 6: type=complex, RMSE=0.02585
+  Segment 7: type=tube, RMSE=0.01644
+  Segment 9: type=sphere, RMSE=0.01658
+File valve_0016_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01664
+  Segment 1: type=complex, RMSE=0.01823
+  Segment 2: type=complex, RMSE=0.01954
+  Segment 3: type=complex, RMSE=0.01498
+  Segment 4: type=plane, RMSE=0.02007
+  Segment 5: type=tube, RMSE=0.01784
+  Segment 6: type=complex, RMSE=0.02312
+  Segment 7: type=tube, RMSE=0.01637
+  Segment 8: type=plane, RMSE=0.01172
+  Segment 9: type=complex, RMSE=0.01524
+File valve_0017_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02681
+  Segment 1: type=complex, RMSE=0.01941
+  Segment 2: type=complex, RMSE=0.02005
+  Segment 3: type=tube, RMSE=0.01439
+  Segment 4: type=complex, RMSE=0.02103
+  Segment 5: type=complex, RMSE=0.02147
+  Segment 6: type=complex, RMSE=0.02916
+  Segment 7: type=tube, RMSE=0.01185
+  Segment 9: type=sphere, RMSE=0.01546
+File valve_0018_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02335
+  Segment 1: type=complex, RMSE=0.01987
+  Segment 2: type=complex, RMSE=0.02143
+  Segment 3: type=tube, RMSE=0.01510
+  Segment 5: type=complex, RMSE=0.01904
+  Segment 6: type=complex, RMSE=0.02663
+  Segment 7: type=tube, RMSE=0.01115
+  Segment 9: type=sphere, RMSE=0.01497
+File valve_0019_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01764
+  Segment 1: type=complex, RMSE=0.01975
+  Segment 2: type=tube, RMSE=0.01349
+  Segment 3: type=plane, RMSE=0.01573
+  Segment 4: type=complex, RMSE=0.02151
+  Segment 5: type=complex, RMSE=0.02033
+  Segment 6: type=complex, RMSE=0.02728
+  Segment 7: type=tube, RMSE=0.01849
+  Segment 9: type=complex, RMSE=0.01556
+File valve_0020_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01755
+  Segment 1: type=complex, RMSE=0.01795
+  Segment 2: type=tube, RMSE=0.01412
+  Segment 3: type=complex, RMSE=0.02208
+  Segment 4: type=complex, RMSE=0.01984
+  Segment 5: type=plane, RMSE=0.01435
+  Segment 6: type=complex, RMSE=0.02253
+  Segment 7: type=tube, RMSE=0.01504
+  Segment 9: type=complex, RMSE=0.01428
+File valve_0021_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01810
+  Segment 1: type=complex, RMSE=0.01842
+  Segment 2: type=complex, RMSE=0.02212
+  Segment 3: type=complex, RMSE=0.01720
+  Segment 4: type=plane, RMSE=0.02302
+  Segment 5: type=complex, RMSE=0.02105
+  Segment 6: type=complex, RMSE=0.02775
+  Segment 7: type=tube, RMSE=0.02671
+  Segment 9: type=complex, RMSE=0.01710
+File valve_0022_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01626
+  Segment 1: type=complex, RMSE=0.01730
+  Segment 2: type=tube, RMSE=0.01314
+  Segment 3: type=complex, RMSE=0.02434
+  Segment 4: type=complex, RMSE=0.01729
+  Segment 5: type=complex, RMSE=0.01760
+  Segment 6: type=complex, RMSE=0.02286
+  Segment 7: type=tube, RMSE=0.01647
+  Segment 9: type=complex, RMSE=0.01480
+File valve_0023_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01583
+  Segment 1: type=complex, RMSE=0.02077
+  Segment 2: type=tube, RMSE=0.01351
+  Segment 3: type=tube, RMSE=0.01305
+  Segment 4: type=complex, RMSE=0.02402
+  Segment 5: type=complex, RMSE=0.02042
+  Segment 6: type=complex, RMSE=0.02494
+  Segment 7: type=tube, RMSE=0.01685
+  Segment 8: type=plane, RMSE=0.01223
+  Segment 9: type=complex, RMSE=0.01489
+File valve_0024_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01677
+  Segment 1: type=complex, RMSE=0.02228
+  Segment 2: type=complex, RMSE=0.02712
+  Segment 3: type=plane, RMSE=0.01455
+  Segment 4: type=plane, RMSE=0.01688
+  Segment 5: type=complex, RMSE=0.01911
+  Segment 6: type=complex, RMSE=0.02526
+  Segment 7: type=tube, RMSE=0.01473
+  Segment 9: type=complex, RMSE=0.01602
+File valve_0025_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01561
+  Segment 1: type=complex, RMSE=0.02108
+  Segment 2: type=tube, RMSE=0.01308
+  Segment 3: type=complex, RMSE=0.01634
+  Segment 4: type=complex, RMSE=0.01841
+  Segment 5: type=complex, RMSE=0.01796
+  Segment 6: type=complex, RMSE=0.02315
+  Segment 7: type=tube, RMSE=0.02443
+  Segment 8: type=complex, RMSE=0.01481
+  Segment 9: type=complex, RMSE=0.01558
+File valve_0026_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01605
+  Segment 1: type=complex, RMSE=0.01899
+  Segment 2: type=tube, RMSE=0.01332
+  Segment 3: type=complex, RMSE=0.01953
+  Segment 4: type=plane, RMSE=0.01642
+  Segment 5: type=complex, RMSE=0.02099
+  Segment 6: type=complex, RMSE=0.02704
+  Segment 7: type=tube, RMSE=0.01382
+  Segment 8: type=plane, RMSE=0.01081
+  Segment 9: type=complex, RMSE=0.01451
+File valve_0027_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01482
+  Segment 1: type=complex, RMSE=0.01876
+  Segment 2: type=tube, RMSE=0.01392
+  Segment 3: type=tube, RMSE=0.01235
+  Segment 4: type=complex, RMSE=0.01856
+  Segment 5: type=tube, RMSE=0.01754
+  Segment 6: type=complex, RMSE=0.02577
+  Segment 7: type=tube, RMSE=0.01546
+  Segment 8: type=plane, RMSE=0.01182
+  Segment 9: type=complex, RMSE=0.01586
+File valve_0028_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01900
+  Segment 1: type=complex, RMSE=0.02102
+  Segment 2: type=tube, RMSE=0.01582
+  Segment 3: type=plane, RMSE=0.01521
+  Segment 4: type=plane, RMSE=0.01971
+  Segment 5: type=complex, RMSE=0.01992
+  Segment 6: type=complex, RMSE=0.02730
+  Segment 7: type=tube, RMSE=0.02498
+  Segment 9: type=complex, RMSE=0.01886
+File valve_0029_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01785
+  Segment 1: type=complex, RMSE=0.01747
+  Segment 2: type=complex, RMSE=0.02146
+  Segment 3: type=complex, RMSE=0.01606
+  Segment 4: type=plane, RMSE=0.01737
+  Segment 5: type=complex, RMSE=0.01731
+  Segment 6: type=complex, RMSE=0.02654
+  Segment 7: type=tube, RMSE=0.02279
+  Segment 9: type=complex, RMSE=0.01734
+File valve_0030_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01659
+  Segment 1: type=complex, RMSE=0.02157
+  Segment 2: type=tube, RMSE=0.01380
+  Segment 3: type=plane, RMSE=0.01550
+  Segment 5: type=complex, RMSE=0.01664
+  Segment 6: type=complex, RMSE=0.02371
+  Segment 7: type=tube, RMSE=0.01595
+  Segment 9: type=complex, RMSE=0.01655
+File valve_0031_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01818
+  Segment 1: type=complex, RMSE=0.02029
+  Segment 2: type=tube, RMSE=0.01421
+  Segment 3: type=tube, RMSE=0.01295
+  Segment 4: type=complex, RMSE=0.02348
+  Segment 5: type=tube, RMSE=0.02403
+  Segment 6: type=complex, RMSE=0.02859
+  Segment 7: type=tube, RMSE=0.01446
+  Segment 8: type=plane, RMSE=0.01179
+  Segment 9: type=complex, RMSE=0.01555
+File valve_0032_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02016
+  Segment 1: type=complex, RMSE=0.02206
+  Segment 2: type=complex, RMSE=0.02713
+  Segment 3: type=plane, RMSE=0.01663
+  Segment 4: type=complex, RMSE=0.02191
+  Segment 5: type=complex, RMSE=0.01784
+  Segment 6: type=complex, RMSE=0.02477
+  Segment 7: type=tube, RMSE=0.02012
+  Segment 9: type=complex, RMSE=0.01712
+File valve_0033_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02739
+  Segment 1: type=complex, RMSE=0.02043
+  Segment 2: type=plane, RMSE=0.02047
+  Segment 3: type=tube, RMSE=0.01479
+  Segment 4: type=complex, RMSE=0.01633
+  Segment 5: type=plane, RMSE=0.01591
+  Segment 6: type=complex, RMSE=0.02557
+  Segment 7: type=tube, RMSE=0.01226
+  Segment 9: type=complex, RMSE=0.01576
+File valve_0034_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01464
+  Segment 1: type=complex, RMSE=0.01760
+  Segment 2: type=tube, RMSE=0.01283
+  Segment 3: type=tube, RMSE=0.01292
+  Segment 4: type=complex, RMSE=0.01774
+  Segment 5: type=complex, RMSE=0.01884
+  Segment 6: type=complex, RMSE=0.02524
+  Segment 7: type=tube, RMSE=0.01389
+  Segment 9: type=complex, RMSE=0.01417
+File valve_0035_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01441
+  Segment 1: type=complex, RMSE=0.01907
+  Segment 2: type=complex, RMSE=0.01867
+  Segment 3: type=tube, RMSE=0.01207
+  Segment 4: type=complex, RMSE=0.01719
+  Segment 5: type=tube, RMSE=0.01822
+  Segment 6: type=complex, RMSE=0.02377
+  Segment 7: type=tube, RMSE=0.01553
+  Segment 8: type=plane, RMSE=0.01080
+  Segment 9: type=complex, RMSE=0.01413
+File valve_0036_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01795
+  Segment 1: type=complex, RMSE=0.01776
+  Segment 2: type=complex, RMSE=0.02086
+  Segment 3: type=tube, RMSE=0.01487
+  Segment 5: type=complex, RMSE=0.01517
+  Segment 6: type=complex, RMSE=0.02614
+  Segment 7: type=tube, RMSE=0.01096
+  Segment 9: type=complex, RMSE=0.01563
+File valve_0037_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01927
+  Segment 1: type=complex, RMSE=0.02254
+  Segment 2: type=tube, RMSE=0.01386
+  Segment 3: type=complex, RMSE=0.01877
+  Segment 5: type=complex, RMSE=0.01885
+  Segment 6: type=complex, RMSE=0.02785
+  Segment 7: type=tube, RMSE=0.02466
+  Segment 9: type=complex, RMSE=0.01859
+File valve_0038_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01784
+  Segment 1: type=complex, RMSE=0.01974
+  Segment 2: type=tube, RMSE=0.01396
+  Segment 3: type=complex, RMSE=0.01809
+  Segment 4: type=plane, RMSE=0.01652
+  Segment 5: type=complex, RMSE=0.02400
+  Segment 6: type=complex, RMSE=0.02462
+  Segment 7: type=tube, RMSE=0.02090
+  Segment 9: type=complex, RMSE=0.01683
+File valve_0039_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.02048
+  Segment 2: type=tube, RMSE=0.01440
+  Segment 3: type=tube, RMSE=0.01433
+  Segment 4: type=complex, RMSE=0.01885
+  Segment 5: type=complex, RMSE=0.02168
+  Segment 6: type=complex, RMSE=0.02567
+  Segment 7: type=tube, RMSE=0.01771
+  Segment 8: type=plane, RMSE=0.01185
+  Segment 9: type=complex, RMSE=0.01493
+File valve_0040_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02007
+  Segment 1: type=complex, RMSE=0.02354
+  Segment 2: type=complex, RMSE=0.02313
+  Segment 3: type=plane, RMSE=0.01448
+  Segment 4: type=complex, RMSE=0.02402
+  Segment 5: type=tube, RMSE=0.01791
+  Segment 6: type=complex, RMSE=0.02892
+  Segment 7: type=tube, RMSE=0.01688
+  Segment 9: type=complex, RMSE=0.01868
+File valve_0041_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01846
+  Segment 1: type=complex, RMSE=0.01805
+  Segment 2: type=tube, RMSE=0.01274
+  Segment 3: type=complex, RMSE=0.01744
+  Segment 4: type=complex, RMSE=0.02131
+  Segment 5: type=complex, RMSE=0.02090
+  Segment 6: type=complex, RMSE=0.02470
+  Segment 7: type=tube, RMSE=0.02314
+  Segment 9: type=complex, RMSE=0.01722
+File valve_0042_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01845
+  Segment 1: type=complex, RMSE=0.01953
+  Segment 2: type=complex, RMSE=0.02444
+  Segment 3: type=tube, RMSE=0.01270
+  Segment 4: type=complex, RMSE=0.02078
+  Segment 5: type=complex, RMSE=0.01753
+  Segment 6: type=complex, RMSE=0.02643
+  Segment 7: type=tube, RMSE=0.01258
+  Segment 9: type=complex, RMSE=0.01523
+File valve_0043_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01756
+  Segment 1: type=complex, RMSE=0.02081
+  Segment 2: type=tube, RMSE=0.01339
+  Segment 3: type=tube, RMSE=0.01252
+  Segment 4: type=complex, RMSE=0.01994
+  Segment 5: type=complex, RMSE=0.02099
+  Segment 6: type=complex, RMSE=0.02461
+  Segment 7: type=tube, RMSE=0.01714
+  Segment 8: type=plane, RMSE=0.01142
+  Segment 9: type=complex, RMSE=0.01539
+File valve_0044_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01749
+  Segment 1: type=complex, RMSE=0.02040
+  Segment 2: type=complex, RMSE=0.02110
+  Segment 3: type=plane, RMSE=0.01781
+  Segment 4: type=plane, RMSE=0.01629
+  Segment 5: type=plane, RMSE=0.01477
+  Segment 6: type=complex, RMSE=0.02452
+  Segment 7: type=tube, RMSE=0.02318
+  Segment 9: type=complex, RMSE=0.01552
+File valve_0045_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01548
+  Segment 1: type=complex, RMSE=0.01986
+  Segment 2: type=complex, RMSE=0.01947
+  Segment 3: type=complex, RMSE=0.01437
+  Segment 4: type=plane, RMSE=0.01494
+  Segment 5: type=complex, RMSE=0.01914
+  Segment 6: type=complex, RMSE=0.02480
+  Segment 7: type=tube, RMSE=0.01355
+  Segment 9: type=complex, RMSE=0.01623
+File valve_0046_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01551
+  Segment 1: type=complex, RMSE=0.01650
+  Segment 2: type=tube, RMSE=0.01275
+  Segment 3: type=complex, RMSE=0.01443
+  Segment 4: type=plane, RMSE=0.01647
+  Segment 5: type=complex, RMSE=0.01749
+  Segment 6: type=complex, RMSE=0.02255
+  Segment 7: type=tube, RMSE=0.01461
+  Segment 8: type=plane, RMSE=0.01251
+  Segment 9: type=complex, RMSE=0.01556
+File valve_0047_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01515
+  Segment 1: type=complex, RMSE=0.01713
+  Segment 2: type=tube, RMSE=0.01284
+  Segment 3: type=tube, RMSE=0.01225
+  Segment 4: type=complex, RMSE=0.02375
+  Segment 5: type=tube, RMSE=0.01907
+  Segment 6: type=complex, RMSE=0.02258
+  Segment 7: type=tube, RMSE=0.01339
+  Segment 8: type=plane, RMSE=0.01110
+  Segment 9: type=complex, RMSE=0.01420
+File valve_0048_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02282
+  Segment 1: type=complex, RMSE=0.02025
+  Segment 2: type=plane, RMSE=0.02455
+  Segment 3: type=tube, RMSE=0.01424
+  Segment 5: type=complex, RMSE=0.02140
+  Segment 6: type=complex, RMSE=0.02690
+  Segment 7: type=tube, RMSE=0.01132
+  Segment 9: type=sphere, RMSE=0.01559
+File valve_0049_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01642
+  Segment 1: type=complex, RMSE=0.02184
+  Segment 2: type=complex, RMSE=0.01949
+  Segment 3: type=plane, RMSE=0.02027
+  Segment 4: type=complex, RMSE=0.02187
+  Segment 5: type=complex, RMSE=0.02395
+  Segment 6: type=complex, RMSE=0.02493
+  Segment 7: type=tube, RMSE=0.02674
+  Segment 9: type=complex, RMSE=0.01507
+File valve_0050_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01680
+  Segment 1: type=complex, RMSE=0.02034
+  Segment 2: type=tube, RMSE=0.01405
+  Segment 3: type=tube, RMSE=0.01394
+  Segment 4: type=complex, RMSE=0.01901
+  Segment 5: type=complex, RMSE=0.02259
+  Segment 6: type=complex, RMSE=0.02646
+  Segment 7: type=tube, RMSE=0.01415
+  Segment 8: type=plane, RMSE=0.01302
+  Segment 9: type=complex, RMSE=0.01492
+File valve_0051_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01552
+  Segment 1: type=complex, RMSE=0.01956
+  Segment 2: type=complex, RMSE=0.02405
+  Segment 3: type=complex, RMSE=0.01958
+  Segment 5: type=complex, RMSE=0.02023
+  Segment 6: type=complex, RMSE=0.02616
+  Segment 7: type=tube, RMSE=0.01287
+  Segment 8: type=plane, RMSE=0.01025
+  Segment 9: type=complex, RMSE=0.01502
+File valve_0052_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02024
+  Segment 1: type=complex, RMSE=0.02597
+  Segment 2: type=complex, RMSE=0.02427
+  Segment 3: type=plane, RMSE=0.01456
+  Segment 5: type=tube, RMSE=0.01862
+  Segment 6: type=complex, RMSE=0.02974
+  Segment 7: type=tube, RMSE=0.01988
+  Segment 9: type=complex, RMSE=0.01789
+File valve_0053_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01970
+  Segment 1: type=complex, RMSE=0.02094
+  Segment 2: type=complex, RMSE=0.02372
+  Segment 3: type=plane, RMSE=0.01709
+  Segment 4: type=complex, RMSE=0.02198
+  Segment 5: type=tube, RMSE=0.02375
+  Segment 6: type=complex, RMSE=0.02814
+  Segment 7: type=tube, RMSE=0.01820
+  Segment 9: type=complex, RMSE=0.01772
+File valve_0054_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01625
+  Segment 1: type=complex, RMSE=0.01712
+  Segment 2: type=complex, RMSE=0.02125
+  Segment 3: type=complex, RMSE=0.01521
+  Segment 4: type=complex, RMSE=0.02468
+  Segment 5: type=complex, RMSE=0.01758
+  Segment 6: type=complex, RMSE=0.02587
+  Segment 7: type=tube, RMSE=0.01310
+  Segment 9: type=complex, RMSE=0.01998
+File valve_0055_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01778
+  Segment 1: type=complex, RMSE=0.02027
+  Segment 2: type=tube, RMSE=0.01622
+  Segment 3: type=tube, RMSE=0.01336
+  Segment 4: type=complex, RMSE=0.01871
+  Segment 5: type=complex, RMSE=0.02068
+  Segment 6: type=complex, RMSE=0.02717
+  Segment 7: type=tube, RMSE=0.02012
+  Segment 8: type=plane, RMSE=0.01247
+  Segment 9: type=complex, RMSE=0.01520
+File valve_0056_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01893
+  Segment 1: type=complex, RMSE=0.01987
+  Segment 2: type=tube, RMSE=0.01512
+  Segment 3: type=complex, RMSE=0.01810
+  Segment 4: type=complex, RMSE=0.01916
+  Segment 5: type=complex, RMSE=0.02081
+  Segment 6: type=complex, RMSE=0.02596
+  Segment 7: type=tube, RMSE=0.02463
+  Segment 9: type=complex, RMSE=0.01750
+File valve_0057_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02595
+  Segment 1: type=complex, RMSE=0.02147
+  Segment 2: type=tube, RMSE=0.01407
+  Segment 3: type=tube, RMSE=0.01457
+  Segment 4: type=complex, RMSE=0.02235
+  Segment 5: type=complex, RMSE=0.01938
+  Segment 6: type=complex, RMSE=0.02884
+  Segment 7: type=tube, RMSE=0.01132
+  Segment 9: type=sphere, RMSE=0.01550
+File valve_0058_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01568
+  Segment 1: type=complex, RMSE=0.01739
+  Segment 2: type=tube, RMSE=0.01305
+  Segment 3: type=complex, RMSE=0.01775
+  Segment 4: type=plane, RMSE=0.01360
+  Segment 5: type=complex, RMSE=0.01920
+  Segment 6: type=complex, RMSE=0.02369
+  Segment 7: type=tube, RMSE=0.02533
+  Segment 9: type=complex, RMSE=0.01516
+File valve_0059_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01816
+  Segment 1: type=complex, RMSE=0.02118
+  Segment 2: type=complex, RMSE=0.02148
+  Segment 3: type=complex, RMSE=0.01681
+  Segment 4: type=plane, RMSE=0.02311
+  Segment 5: type=plane, RMSE=0.01922
+  Segment 6: type=complex, RMSE=0.02540
+  Segment 7: type=tube, RMSE=0.02001
+  Segment 9: type=complex, RMSE=0.01751
+File valve_0060_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01590
+  Segment 1: type=complex, RMSE=0.02168
+  Segment 2: type=complex, RMSE=0.02068
+  Segment 3: type=complex, RMSE=0.01807
+  Segment 4: type=complex, RMSE=0.01618
+  Segment 5: type=complex, RMSE=0.02109
+  Segment 6: type=complex, RMSE=0.02354
+  Segment 7: type=tube, RMSE=0.02697
+  Segment 9: type=complex, RMSE=0.01490
+File valve_0061_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01578
+  Segment 1: type=complex, RMSE=0.01888
+  Segment 2: type=tube, RMSE=0.01320
+  Segment 3: type=complex, RMSE=0.01549
+  Segment 4: type=plane, RMSE=0.01672
+  Segment 5: type=complex, RMSE=0.01715
+  Segment 6: type=complex, RMSE=0.02431
+  Segment 7: type=tube, RMSE=0.01313
+  Segment 8: type=plane, RMSE=0.01318
+  Segment 9: type=complex, RMSE=0.01500
+File valve_0062_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01646
+  Segment 1: type=complex, RMSE=0.01669
+  Segment 2: type=tube, RMSE=0.01267
+  Segment 3: type=complex, RMSE=0.01426
+  Segment 4: type=complex, RMSE=0.01908
+  Segment 5: type=complex, RMSE=0.02861
+  Segment 6: type=complex, RMSE=0.02585
+  Segment 7: type=tube, RMSE=0.02948
+  Segment 9: type=complex, RMSE=0.01594
+File valve_0063_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01827
+  Segment 1: type=complex, RMSE=0.02121
+  Segment 2: type=tube, RMSE=0.01370
+  Segment 3: type=plane, RMSE=0.01708
+  Segment 5: type=complex, RMSE=0.01857
+  Segment 6: type=complex, RMSE=0.02837
+  Segment 7: type=tube, RMSE=0.01923
+  Segment 9: type=complex, RMSE=0.01725
+File valve_0064_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01829
+  Segment 1: type=complex, RMSE=0.02247
+  Segment 2: type=tube, RMSE=0.01406
+  Segment 3: type=plane, RMSE=0.01620
+  Segment 4: type=complex, RMSE=0.02045
+  Segment 5: type=complex, RMSE=0.02095
+  Segment 6: type=complex, RMSE=0.02657
+  Segment 7: type=tube, RMSE=0.02505
+  Segment 9: type=complex, RMSE=0.01718
+File valve_0065_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02020
+  Segment 1: type=complex, RMSE=0.02205
+  Segment 2: type=complex, RMSE=0.02211
+  Segment 3: type=plane, RMSE=0.01581
+  Segment 4: type=plane, RMSE=0.01838
+  Segment 5: type=complex, RMSE=0.02300
+  Segment 6: type=complex, RMSE=0.02934
+  Segment 7: type=tube, RMSE=0.01745
+  Segment 9: type=complex, RMSE=0.01731
+File valve_0066_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02768
+  Segment 1: type=complex, RMSE=0.02025
+  Segment 2: type=complex, RMSE=0.02035
+  Segment 3: type=tube, RMSE=0.01553
+  Segment 5: type=complex, RMSE=0.02250
+  Segment 6: type=complex, RMSE=0.02922
+  Segment 7: type=tube, RMSE=0.01219
+  Segment 9: type=complex, RMSE=0.01603
+File valve_0067_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.02006
+  Segment 2: type=tube, RMSE=0.01480
+  Segment 3: type=plane, RMSE=0.01471
+  Segment 4: type=complex, RMSE=0.02223
+  Segment 5: type=complex, RMSE=0.01766
+  Segment 6: type=complex, RMSE=0.02866
+  Segment 7: type=tube, RMSE=0.01684
+  Segment 9: type=sphere, RMSE=0.01537
+File valve_0068_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01716
+  Segment 1: type=complex, RMSE=0.01833
+  Segment 2: type=tube, RMSE=0.01308
+  Segment 3: type=tube, RMSE=0.01264
+  Segment 6: type=complex, RMSE=0.02409
+  Segment 7: type=tube, RMSE=0.01442
+  Segment 9: type=sphere, RMSE=0.01449
+File valve_0069_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01489
+  Segment 1: type=complex, RMSE=0.01728
+  Segment 2: type=tube, RMSE=0.01204
+  Segment 3: type=complex, RMSE=0.01402
+  Segment 4: type=plane, RMSE=0.01529
+  Segment 5: type=complex, RMSE=0.01769
+  Segment 6: type=complex, RMSE=0.02331
+  Segment 7: type=tube, RMSE=0.02678
+  Segment 9: type=complex, RMSE=0.01522
+File valve_0070_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02338
+  Segment 1: type=complex, RMSE=0.01924
+  Segment 2: type=complex, RMSE=0.02212
+  Segment 3: type=tube, RMSE=0.01403
+  Segment 4: type=complex, RMSE=0.01951
+  Segment 5: type=complex, RMSE=0.02039
+  Segment 6: type=complex, RMSE=0.02502
+  Segment 7: type=tube, RMSE=0.01218
+  Segment 9: type=sphere, RMSE=0.01563
+File valve_0071_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01559
+  Segment 1: type=complex, RMSE=0.01686
+  Segment 2: type=tube, RMSE=0.01310
+  Segment 3: type=tube, RMSE=0.01230
+  Segment 6: type=complex, RMSE=0.02725
+  Segment 7: type=tube, RMSE=0.01265
+  Segment 8: type=plane, RMSE=0.01292
+  Segment 9: type=complex, RMSE=0.01469
+File valve_0072_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01581
+  Segment 1: type=complex, RMSE=0.01751
+  Segment 2: type=tube, RMSE=0.01260
+  Segment 3: type=plane, RMSE=0.01876
+  Segment 4: type=complex, RMSE=0.02001
+  Segment 5: type=complex, RMSE=0.02047
+  Segment 6: type=complex, RMSE=0.02377
+  Segment 7: type=tube, RMSE=0.01604
+  Segment 9: type=sphere, RMSE=0.01592
+File valve_0073_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01922
+  Segment 1: type=complex, RMSE=0.02273
+  Segment 2: type=complex, RMSE=0.02216
+  Segment 3: type=complex, RMSE=0.01880
+  Segment 5: type=tube, RMSE=0.02283
+  Segment 6: type=complex, RMSE=0.02746
+  Segment 7: type=tube, RMSE=0.02069
+  Segment 9: type=complex, RMSE=0.01750
+File valve_0074_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01605
+  Segment 1: type=complex, RMSE=0.01738
+  Segment 2: type=complex, RMSE=0.01947
+  Segment 3: type=complex, RMSE=0.01588
+  Segment 4: type=plane, RMSE=0.02271
+  Segment 5: type=complex, RMSE=0.01735
+  Segment 6: type=complex, RMSE=0.02179
+  Segment 7: type=tube, RMSE=0.02705
+  Segment 9: type=complex, RMSE=0.01520
+File valve_0075_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01968
+  Segment 1: type=complex, RMSE=0.01980
+  Segment 2: type=complex, RMSE=0.01920
+  Segment 3: type=complex, RMSE=0.01529
+  Segment 4: type=complex, RMSE=0.02026
+  Segment 5: type=complex, RMSE=0.01931
+  Segment 6: type=complex, RMSE=0.02376
+  Segment 7: type=tube, RMSE=0.01380
+  Segment 9: type=complex, RMSE=0.01857
+File valve_0076_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01859
+  Segment 1: type=complex, RMSE=0.01853
+  Segment 2: type=tube, RMSE=0.01369
+  Segment 3: type=tube, RMSE=0.01272
+  Segment 4: type=complex, RMSE=0.01958
+  Segment 5: type=complex, RMSE=0.01852
+  Segment 6: type=complex, RMSE=0.02807
+  Segment 7: type=tube, RMSE=0.01324
+  Segment 8: type=complex, RMSE=0.01357
+  Segment 9: type=complex, RMSE=0.01554
+File valve_0077_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01512
+  Segment 1: type=complex, RMSE=0.01919
+  Segment 2: type=tube, RMSE=0.01292
+  Segment 3: type=tube, RMSE=0.01160
+  Segment 4: type=complex, RMSE=0.01792
+  Segment 5: type=tube, RMSE=0.01601
+  Segment 6: type=complex, RMSE=0.02329
+  Segment 7: type=tube, RMSE=0.01456
+  Segment 8: type=complex, RMSE=0.01216
+  Segment 9: type=complex, RMSE=0.01400
+File valve_0078_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01704
+  Segment 1: type=complex, RMSE=0.01951
+  Segment 2: type=tube, RMSE=0.01531
+  Segment 3: type=tube, RMSE=0.01379
+  Segment 4: type=complex, RMSE=0.01882
+  Segment 5: type=complex, RMSE=0.02352
+  Segment 6: type=complex, RMSE=0.02606
+  Segment 7: type=tube, RMSE=0.01821
+  Segment 8: type=plane, RMSE=0.01248
+  Segment 9: type=complex, RMSE=0.01492
+File valve_0079_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01669
+  Segment 1: type=complex, RMSE=0.01685
+  Segment 2: type=complex, RMSE=0.02136
+  Segment 3: type=complex, RMSE=0.01414
+  Segment 4: type=complex, RMSE=0.01715
+  Segment 5: type=complex, RMSE=0.01837
+  Segment 6: type=complex, RMSE=0.02598
+  Segment 7: type=tube, RMSE=0.01633
+  Segment 8: type=complex, RMSE=0.01704
+  Segment 9: type=complex, RMSE=0.01589
+File valve_0080_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02500
+  Segment 1: type=complex, RMSE=0.02154
+  Segment 2: type=complex, RMSE=0.01996
+  Segment 3: type=complex, RMSE=0.02351
+  Segment 4: type=plane, RMSE=0.01733
+  Segment 5: type=complex, RMSE=0.02372
+  Segment 6: type=complex, RMSE=0.02560
+  Segment 7: type=tube, RMSE=0.01286
+  Segment 9: type=sphere, RMSE=0.01531
+File valve_0081_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01582
+  Segment 1: type=complex, RMSE=0.01971
+  Segment 2: type=tube, RMSE=0.01329
+  Segment 3: type=tube, RMSE=0.01233
+  Segment 4: type=complex, RMSE=0.02159
+  Segment 6: type=complex, RMSE=0.02287
+  Segment 7: type=tube, RMSE=0.01234
+  Segment 8: type=plane, RMSE=0.01276
+  Segment 9: type=complex, RMSE=0.01532
+File valve_0082_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01881
+  Segment 1: type=complex, RMSE=0.02234
+  Segment 2: type=complex, RMSE=0.02365
+  Segment 3: type=plane, RMSE=0.01290
+  Segment 5: type=complex, RMSE=0.02721
+  Segment 6: type=complex, RMSE=0.02798
+  Segment 7: type=tube, RMSE=0.02418
+  Segment 9: type=complex, RMSE=0.01713
+File valve_0083_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01922
+  Segment 1: type=complex, RMSE=0.02195
+  Segment 2: type=complex, RMSE=0.02419
+  Segment 3: type=plane, RMSE=0.01537
+  Segment 5: type=tube, RMSE=0.02576
+  Segment 6: type=complex, RMSE=0.02959
+  Segment 7: type=tube, RMSE=0.01806
+  Segment 9: type=complex, RMSE=0.01787
+File valve_0084_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01538
+  Segment 1: type=complex, RMSE=0.01580
+  Segment 2: type=tube, RMSE=0.01273
+  Segment 3: type=complex, RMSE=0.01554
+  Segment 4: type=plane, RMSE=0.01396
+  Segment 5: type=complex, RMSE=0.02267
+  Segment 6: type=complex, RMSE=0.02287
+  Segment 7: type=tube, RMSE=0.02489
+  Segment 9: type=complex, RMSE=0.01547
+File valve_0085_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02607
+  Segment 1: type=complex, RMSE=0.01955
+  Segment 2: type=plane, RMSE=0.02570
+  Segment 3: type=tube, RMSE=0.01327
+  Segment 5: type=complex, RMSE=0.02083
+  Segment 6: type=complex, RMSE=0.03104
+  Segment 7: type=tube, RMSE=0.01145
+  Segment 9: type=sphere, RMSE=0.01528
+File valve_0086_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01654
+  Segment 1: type=complex, RMSE=0.02074
+  Segment 2: type=tube, RMSE=0.01440
+  Segment 3: type=tube, RMSE=0.01341
+  Segment 4: type=complex, RMSE=0.02069
+  Segment 5: type=complex, RMSE=0.02402
+  Segment 6: type=complex, RMSE=0.03037
+  Segment 7: type=tube, RMSE=0.01633
+  Segment 8: type=plane, RMSE=0.01286
+  Segment 9: type=complex, RMSE=0.01569
+File valve_0087_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01840
+  Segment 1: type=complex, RMSE=0.01770
+  Segment 2: type=tube, RMSE=0.01302
+  Segment 3: type=tube, RMSE=0.01234
+  Segment 5: type=complex, RMSE=0.01933
+  Segment 6: type=complex, RMSE=0.02536
+  Segment 7: type=tube, RMSE=0.01608
+  Segment 9: type=complex, RMSE=0.01520
+File valve_0088_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01845
+  Segment 1: type=complex, RMSE=0.02192
+  Segment 2: type=tube, RMSE=0.01574
+  Segment 3: type=plane, RMSE=0.01546
+  Segment 4: type=complex, RMSE=0.02165
+  Segment 5: type=complex, RMSE=0.02167
+  Segment 6: type=complex, RMSE=0.02932
+  Segment 7: type=tube, RMSE=0.02535
+  Segment 9: type=complex, RMSE=0.01942
+File valve_0089_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02793
+  Segment 1: type=complex, RMSE=0.02028
+  Segment 2: type=complex, RMSE=0.02001
+  Segment 3: type=complex, RMSE=0.02443
+  Segment 5: type=tube, RMSE=0.01888
+  Segment 6: type=complex, RMSE=0.02630
+  Segment 7: type=tube, RMSE=0.01510
+  Segment 9: type=sphere, RMSE=0.01526
+File valve_0090_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02041
+  Segment 1: type=complex, RMSE=0.02348
+  Segment 2: type=complex, RMSE=0.02454
+  Segment 3: type=plane, RMSE=0.01684
+  Segment 5: type=complex, RMSE=0.02272
+  Segment 6: type=complex, RMSE=0.02639
+  Segment 7: type=tube, RMSE=0.02114
+  Segment 9: type=complex, RMSE=0.01926
+File valve_0091_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01915
+  Segment 1: type=complex, RMSE=0.02279
+  Segment 2: type=complex, RMSE=0.02607
+  Segment 3: type=plane, RMSE=0.01429
+  Segment 4: type=plane, RMSE=0.02513
+  Segment 5: type=complex, RMSE=0.02090
+  Segment 6: type=complex, RMSE=0.02703
+  Segment 7: type=tube, RMSE=0.02436
+  Segment 9: type=complex, RMSE=0.01745
+File valve_0092_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01699
+  Segment 1: type=complex, RMSE=0.01660
+  Segment 2: type=complex, RMSE=0.02198
+  Segment 3: type=tube, RMSE=0.01320
+  Segment 4: type=complex, RMSE=0.01944
+  Segment 5: type=tube, RMSE=0.02161
+  Segment 6: type=complex, RMSE=0.02476
+  Segment 7: type=tube, RMSE=0.01569
+  Segment 8: type=plane, RMSE=0.01031
+  Segment 9: type=complex, RMSE=0.01461
+File valve_0093_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01944
+  Segment 1: type=complex, RMSE=0.02258
+  Segment 2: type=complex, RMSE=0.02284
+  Segment 3: type=plane, RMSE=0.01526
+  Segment 4: type=plane, RMSE=0.01776
+  Segment 5: type=tube, RMSE=0.02771
+  Segment 6: type=complex, RMSE=0.03022
+  Segment 7: type=tube, RMSE=0.02623
+  Segment 9: type=complex, RMSE=0.01758
+File valve_0094_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01675
+  Segment 1: type=complex, RMSE=0.01911
+  Segment 2: type=tube, RMSE=0.01398
+  Segment 3: type=complex, RMSE=0.01995
+  Segment 4: type=plane, RMSE=0.01435
+  Segment 6: type=complex, RMSE=0.02787
+  Segment 7: type=tube, RMSE=0.01237
+  Segment 8: type=plane, RMSE=0.01235
+  Segment 9: type=complex, RMSE=0.01484
+File valve_0095_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02075
+  Segment 1: type=complex, RMSE=0.01855
+  Segment 2: type=complex, RMSE=0.02144
+  Segment 3: type=tube, RMSE=0.01241
+  Segment 6: type=complex, RMSE=0.02663
+  Segment 7: type=tube, RMSE=0.01441
+  Segment 9: type=sphere, RMSE=0.01567
+File valve_0096_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01708
+  Segment 1: type=complex, RMSE=0.01882
+  Segment 2: type=tube, RMSE=0.01327
+  Segment 3: type=tube, RMSE=0.01295
+  Segment 4: type=complex, RMSE=0.01906
+  Segment 5: type=complex, RMSE=0.01788
+  Segment 6: type=complex, RMSE=0.02494
+  Segment 7: type=tube, RMSE=0.01640
+  Segment 8: type=plane, RMSE=0.01239
+  Segment 9: type=complex, RMSE=0.01530
+File valve_0097_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01609
+  Segment 1: type=complex, RMSE=0.01894
+  Segment 2: type=tube, RMSE=0.01181
+  Segment 3: type=tube, RMSE=0.01313
+  Segment 4: type=complex, RMSE=0.01921
+  Segment 5: type=tube, RMSE=0.01882
+  Segment 6: type=complex, RMSE=0.02310
+  Segment 7: type=tube, RMSE=0.01537
+  Segment 9: type=complex, RMSE=0.01470
+File valve_0098_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01581
+  Segment 1: type=complex, RMSE=0.01611
+  Segment 2: type=complex, RMSE=0.01924
+  Segment 3: type=complex, RMSE=0.01478
+  Segment 4: type=complex, RMSE=0.01409
+  Segment 5: type=complex, RMSE=0.01493
+  Segment 6: type=complex, RMSE=0.02061
+  Segment 7: type=tube, RMSE=0.01645
+  Segment 8: type=plane, RMSE=0.01165
+  Segment 9: type=complex, RMSE=0.01529
+File valve_0099_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01570
+  Segment 1: type=complex, RMSE=0.01895
+  Segment 2: type=tube, RMSE=0.01183
+  Segment 3: type=complex, RMSE=0.01340
+  Segment 4: type=complex, RMSE=0.01754
+  Segment 5: type=complex, RMSE=0.01494
+  Segment 6: type=complex, RMSE=0.02332
+  Segment 7: type=tube, RMSE=0.02101
+  Segment 9: type=complex, RMSE=0.01571
+File valve_0100_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01870
+  Segment 1: type=complex, RMSE=0.01887
+  Segment 2: type=complex, RMSE=0.02019
+  Segment 3: type=complex, RMSE=0.01682
+  Segment 4: type=complex, RMSE=0.02191
+  Segment 5: type=plane, RMSE=0.01565
+  Segment 6: type=complex, RMSE=0.02522
+  Segment 7: type=tube, RMSE=0.01841
+  Segment 9: type=complex, RMSE=0.01698
+File valve_0101_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01541
+  Segment 1: type=complex, RMSE=0.01832
+  Segment 2: type=tube, RMSE=0.01324
+  Segment 3: type=tube, RMSE=0.01248
+  Segment 4: type=complex, RMSE=0.02046
+  Segment 5: type=tube, RMSE=0.01807
+  Segment 6: type=complex, RMSE=0.02362
+  Segment 7: type=tube, RMSE=0.01413
+  Segment 8: type=complex, RMSE=0.01814
+  Segment 9: type=complex, RMSE=0.01460
+File valve_0102_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01590
+  Segment 1: type=complex, RMSE=0.01964
+  Segment 2: type=complex, RMSE=0.01987
+  Segment 3: type=plane, RMSE=0.02244
+  Segment 4: type=plane, RMSE=0.01706
+  Segment 5: type=complex, RMSE=0.01955
+  Segment 6: type=complex, RMSE=0.02399
+  Segment 7: type=tube, RMSE=0.02147
+  Segment 9: type=complex, RMSE=0.01541
+File valve_0103_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01683
+  Segment 1: type=complex, RMSE=0.01903
+  Segment 2: type=complex, RMSE=0.01988
+  Segment 3: type=tube, RMSE=0.01429
+  Segment 4: type=complex, RMSE=0.02454
+  Segment 5: type=complex, RMSE=0.02243
+  Segment 6: type=complex, RMSE=0.02546
+  Segment 7: type=tube, RMSE=0.01711
+  Segment 9: type=sphere, RMSE=0.01538
+File valve_0104_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01711
+  Segment 1: type=complex, RMSE=0.02150
+  Segment 2: type=complex, RMSE=0.02409
+  Segment 3: type=plane, RMSE=0.02511
+  Segment 4: type=complex, RMSE=0.02117
+  Segment 5: type=complex, RMSE=0.01934
+  Segment 6: type=complex, RMSE=0.02603
+  Segment 7: type=tube, RMSE=0.03073
+  Segment 9: type=complex, RMSE=0.01481
+File valve_0105_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02212
+  Segment 1: type=complex, RMSE=0.02190
+  Segment 2: type=tube, RMSE=0.01335
+  Segment 3: type=tube, RMSE=0.01364
+  Segment 5: type=complex, RMSE=0.01977
+  Segment 6: type=complex, RMSE=0.02977
+  Segment 7: type=tube, RMSE=0.01102
+  Segment 9: type=sphere, RMSE=0.01516
+File valve_0106_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01660
+  Segment 1: type=complex, RMSE=0.01968
+  Segment 2: type=complex, RMSE=0.02085
+  Segment 3: type=plane, RMSE=0.02210
+  Segment 4: type=complex, RMSE=0.02117
+  Segment 5: type=complex, RMSE=0.02237
+  Segment 6: type=complex, RMSE=0.02970
+  Segment 7: type=tube, RMSE=0.02717
+  Segment 9: type=complex, RMSE=0.01741
+File valve_0107_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01957
+  Segment 1: type=complex, RMSE=0.01905
+  Segment 2: type=tube, RMSE=0.01407
+  Segment 3: type=plane, RMSE=0.01727
+  Segment 4: type=complex, RMSE=0.02378
+  Segment 5: type=complex, RMSE=0.01897
+  Segment 6: type=complex, RMSE=0.02516
+  Segment 7: type=tube, RMSE=0.01588
+  Segment 9: type=sphere, RMSE=0.01568
+File valve_0108_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01917
+  Segment 1: type=complex, RMSE=0.01816
+  Segment 2: type=tube, RMSE=0.01511
+  Segment 3: type=tube, RMSE=0.01223
+  Segment 4: type=complex, RMSE=0.02034
+  Segment 5: type=complex, RMSE=0.02158
+  Segment 6: type=complex, RMSE=0.02666
+  Segment 7: type=tube, RMSE=0.01157
+  Segment 9: type=complex, RMSE=0.01468
+File valve_0109_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01714
+  Segment 1: type=complex, RMSE=0.02177
+  Segment 2: type=complex, RMSE=0.02027
+  Segment 3: type=plane, RMSE=0.01521
+  Segment 5: type=tube, RMSE=0.02149
+  Segment 6: type=complex, RMSE=0.02723
+  Segment 7: type=tube, RMSE=0.02898
+  Segment 9: type=complex, RMSE=0.01763
+File valve_0110_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01866
+  Segment 1: type=complex, RMSE=0.01856
+  Segment 2: type=complex, RMSE=0.01809
+  Segment 3: type=tube, RMSE=0.01391
+  Segment 5: type=complex, RMSE=0.01850
+  Segment 6: type=complex, RMSE=0.02521
+  Segment 7: type=tube, RMSE=0.01267
+  Segment 9: type=complex, RMSE=0.01544
+File valve_0111_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.01951
+  Segment 2: type=complex, RMSE=0.02139
+  Segment 3: type=tube, RMSE=0.01262
+  Segment 4: type=complex, RMSE=0.01661
+  Segment 5: type=complex, RMSE=0.01563
+  Segment 6: type=complex, RMSE=0.02318
+  Segment 7: type=tube, RMSE=0.01377
+  Segment 9: type=complex, RMSE=0.01412
+File valve_0112_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01529
+  Segment 1: type=complex, RMSE=0.01620
+  Segment 2: type=complex, RMSE=0.01805
+  Segment 3: type=complex, RMSE=0.01564
+  Segment 4: type=complex, RMSE=0.01669
+  Segment 5: type=complex, RMSE=0.01759
+  Segment 6: type=complex, RMSE=0.02074
+  Segment 7: type=tube, RMSE=0.02297
+  Segment 8: type=plane, RMSE=0.01214
+  Segment 9: type=complex, RMSE=0.01467
+File valve_0113_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02052
+  Segment 1: type=complex, RMSE=0.01963
+  Segment 2: type=complex, RMSE=0.02387
+  Segment 3: type=complex, RMSE=0.01685
+  Segment 4: type=complex, RMSE=0.01951
+  Segment 5: type=complex, RMSE=0.01870
+  Segment 6: type=complex, RMSE=0.02568
+  Segment 7: type=tube, RMSE=0.02305
+  Segment 9: type=complex, RMSE=0.01830
+File valve_0114_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01774
+  Segment 1: type=complex, RMSE=0.02218
+  Segment 2: type=complex, RMSE=0.02224
+  Segment 3: type=plane, RMSE=0.01702
+  Segment 5: type=complex, RMSE=0.02331
+  Segment 6: type=complex, RMSE=0.02779
+  Segment 7: type=tube, RMSE=0.02429
+  Segment 9: type=complex, RMSE=0.01794
+File valve_0115_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01679
+  Segment 1: type=complex, RMSE=0.01887
+  Segment 2: type=tube, RMSE=0.01299
+  Segment 3: type=plane, RMSE=0.01778
+  Segment 4: type=complex, RMSE=0.01849
+  Segment 5: type=plane, RMSE=0.01310
+  Segment 6: type=complex, RMSE=0.02245
+  Segment 7: type=tube, RMSE=0.01507
+  Segment 9: type=complex, RMSE=0.01487
+File valve_0116_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01626
+  Segment 1: type=complex, RMSE=0.01810
+  Segment 2: type=complex, RMSE=0.01783
+  Segment 3: type=complex, RMSE=0.01555
+  Segment 4: type=complex, RMSE=0.01580
+  Segment 5: type=complex, RMSE=0.02435
+  Segment 6: type=complex, RMSE=0.02306
+  Segment 7: type=tube, RMSE=0.03172
+  Segment 8: type=plane, RMSE=0.01118
+  Segment 9: type=complex, RMSE=0.01577
+File valve_0117_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01989
+  Segment 1: type=complex, RMSE=0.01998
+  Segment 2: type=tube, RMSE=0.01412
+  Segment 3: type=plane, RMSE=0.01795
+  Segment 5: type=complex, RMSE=0.02606
+  Segment 6: type=complex, RMSE=0.02964
+  Segment 7: type=tube, RMSE=0.02349
+  Segment 8: type=plane, RMSE=0.01330
+  Segment 9: type=complex, RMSE=0.01938
+File valve_0118_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01666
+  Segment 1: type=complex, RMSE=0.02135
+  Segment 2: type=tube, RMSE=0.01328
+  Segment 3: type=complex, RMSE=0.01433
+  Segment 4: type=plane, RMSE=0.01971
+  Segment 5: type=tube, RMSE=0.01975
+  Segment 6: type=complex, RMSE=0.02339
+  Segment 7: type=tube, RMSE=0.01305
+  Segment 9: type=complex, RMSE=0.01652
+File valve_0119_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01672
+  Segment 1: type=complex, RMSE=0.01820
+  Segment 2: type=tube, RMSE=0.01420
+  Segment 3: type=tube, RMSE=0.01207
+  Segment 4: type=complex, RMSE=0.02027
+  Segment 5: type=complex, RMSE=0.01538
+  Segment 6: type=complex, RMSE=0.02920
+  Segment 7: type=tube, RMSE=0.01237
+  Segment 8: type=plane, RMSE=0.01174
+  Segment 9: type=complex, RMSE=0.01501
+File valve_0120_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01632
+  Segment 1: type=complex, RMSE=0.01910
+  Segment 2: type=complex, RMSE=0.02061
+  Segment 3: type=complex, RMSE=0.01532
+  Segment 4: type=complex, RMSE=0.02118
+  Segment 5: type=complex, RMSE=0.02022
+  Segment 6: type=complex, RMSE=0.02549
+  Segment 7: type=tube, RMSE=0.01749
+  Segment 9: type=complex, RMSE=0.01762
+File valve_0121_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02099
+  Segment 1: type=complex, RMSE=0.01928
+  Segment 2: type=complex, RMSE=0.02076
+  Segment 3: type=tube, RMSE=0.01375
+  Segment 5: type=complex, RMSE=0.01986
+  Segment 6: type=complex, RMSE=0.02614
+  Segment 7: type=tube, RMSE=0.01268
+  Segment 9: type=complex, RMSE=0.01553
+File valve_0122_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01775
+  Segment 1: type=complex, RMSE=0.01699
+  Segment 2: type=tube, RMSE=0.01237
+  Segment 3: type=tube, RMSE=0.01202
+  Segment 4: type=complex, RMSE=0.02083
+  Segment 5: type=complex, RMSE=0.01758
+  Segment 6: type=complex, RMSE=0.02481
+  Segment 7: type=tube, RMSE=0.01532
+  Segment 8: type=plane, RMSE=0.01045
+  Segment 9: type=complex, RMSE=0.01432
+File valve_0123_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01828
+  Segment 1: type=complex, RMSE=0.02068
+  Segment 2: type=tube, RMSE=0.01501
+  Segment 3: type=plane, RMSE=0.01657
+  Segment 5: type=complex, RMSE=0.02464
+  Segment 6: type=complex, RMSE=0.02851
+  Segment 7: type=tube, RMSE=0.02379
+  Segment 9: type=complex, RMSE=0.01821
+File valve_0124_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01938
+  Segment 1: type=complex, RMSE=0.02199
+  Segment 2: type=tube, RMSE=0.01536
+  Segment 3: type=plane, RMSE=0.01911
+  Segment 4: type=plane, RMSE=0.01914
+  Segment 5: type=tube, RMSE=0.02106
+  Segment 6: type=complex, RMSE=0.02902
+  Segment 7: type=tube, RMSE=0.02555
+  Segment 8: type=complex, RMSE=0.01622
+  Segment 9: type=complex, RMSE=0.01811
+File valve_0125_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01925
+  Segment 1: type=complex, RMSE=0.01908
+  Segment 2: type=tube, RMSE=0.01439
+  Segment 3: type=complex, RMSE=0.01786
+  Segment 4: type=complex, RMSE=0.02127
+  Segment 5: type=complex, RMSE=0.02368
+  Segment 6: type=complex, RMSE=0.02663
+  Segment 7: type=tube, RMSE=0.02837
+  Segment 9: type=complex, RMSE=0.01716
+File valve_0126_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02596
+  Segment 1: type=complex, RMSE=0.01931
+  Segment 2: type=complex, RMSE=0.01876
+  Segment 3: type=tube, RMSE=0.01406
+  Segment 4: type=complex, RMSE=0.01753
+  Segment 5: type=complex, RMSE=0.01964
+  Segment 6: type=complex, RMSE=0.03026
+  Segment 7: type=tube, RMSE=0.01043
+  Segment 9: type=sphere, RMSE=0.01550
+File valve_0127_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01683
+  Segment 1: type=complex, RMSE=0.02217
+  Segment 2: type=tube, RMSE=0.01446
+  Segment 3: type=tube, RMSE=0.01312
+  Segment 4: type=complex, RMSE=0.02215
+  Segment 5: type=complex, RMSE=0.02239
+  Segment 6: type=complex, RMSE=0.02637
+  Segment 7: type=tube, RMSE=0.01675
+  Segment 8: type=plane, RMSE=0.01270
+  Segment 9: type=complex, RMSE=0.01594
+File valve_0128_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01683
+  Segment 1: type=complex, RMSE=0.01922
+  Segment 2: type=complex, RMSE=0.02326
+  Segment 3: type=plane, RMSE=0.01481
+  Segment 5: type=tube, RMSE=0.01963
+  Segment 6: type=complex, RMSE=0.02876
+  Segment 7: type=tube, RMSE=0.01650
+  Segment 9: type=complex, RMSE=0.01668
+File valve_0129_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01526
+  Segment 1: type=complex, RMSE=0.01646
+  Segment 2: type=complex, RMSE=0.02011
+  Segment 3: type=complex, RMSE=0.01391
+  Segment 4: type=plane, RMSE=0.01203
+  Segment 5: type=complex, RMSE=0.01624
+  Segment 6: type=complex, RMSE=0.02272
+  Segment 7: type=tube, RMSE=0.02482
+  Segment 9: type=complex, RMSE=0.01564
+File valve_0130_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01695
+  Segment 1: type=complex, RMSE=0.01702
+  Segment 2: type=tube, RMSE=0.01280
+  Segment 3: type=complex, RMSE=0.01396
+  Segment 4: type=complex, RMSE=0.01841
+  Segment 5: type=complex, RMSE=0.01517
+  Segment 6: type=complex, RMSE=0.02263
+  Segment 7: type=tube, RMSE=0.01636
+  Segment 9: type=complex, RMSE=0.01633
+File valve_0131_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01635
+  Segment 1: type=complex, RMSE=0.01975
+  Segment 2: type=tube, RMSE=0.01496
+  Segment 3: type=tube, RMSE=0.01450
+  Segment 4: type=complex, RMSE=0.01823
+  Segment 5: type=complex, RMSE=0.02172
+  Segment 6: type=complex, RMSE=0.02422
+  Segment 7: type=tube, RMSE=0.01207
+  Segment 8: type=plane, RMSE=0.01153
+  Segment 9: type=complex, RMSE=0.01603
+File valve_0132_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02682
+  Segment 1: type=complex, RMSE=0.02196
+  Segment 2: type=complex, RMSE=0.02170
+  Segment 3: type=tube, RMSE=0.01391
+  Segment 5: type=complex, RMSE=0.02315
+  Segment 6: type=complex, RMSE=0.02484
+  Segment 7: type=tube, RMSE=0.01150
+  Segment 9: type=sphere, RMSE=0.01524
+File valve_0133_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01595
+  Segment 1: type=complex, RMSE=0.01695
+  Segment 2: type=complex, RMSE=0.02161
+  Segment 3: type=complex, RMSE=0.01514
+  Segment 4: type=complex, RMSE=0.01683
+  Segment 5: type=complex, RMSE=0.01901
+  Segment 6: type=complex, RMSE=0.02503
+  Segment 7: type=tube, RMSE=0.03248
+  Segment 8: type=plane, RMSE=0.01324
+  Segment 9: type=complex, RMSE=0.01718
+File valve_0134_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01594
+  Segment 1: type=complex, RMSE=0.02023
+  Segment 2: type=complex, RMSE=0.01973
+  Segment 3: type=tube, RMSE=0.01252
+  Segment 4: type=complex, RMSE=0.02047
+  Segment 5: type=complex, RMSE=0.01763
+  Segment 6: type=complex, RMSE=0.02400
+  Segment 7: type=tube, RMSE=0.01420
+  Segment 9: type=complex, RMSE=0.01389
+File valve_0135_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01649
+  Segment 1: type=complex, RMSE=0.01792
+  Segment 2: type=tube, RMSE=0.01280
+  Segment 3: type=complex, RMSE=0.01396
+  Segment 4: type=plane, RMSE=0.01605
+  Segment 5: type=complex, RMSE=0.01922
+  Segment 6: type=complex, RMSE=0.02333
+  Segment 7: type=tube, RMSE=0.02430
+  Segment 9: type=complex, RMSE=0.01497
+File valve_0136_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01664
+  Segment 1: type=complex, RMSE=0.01759
+  Segment 2: type=complex, RMSE=0.01842
+  Segment 3: type=complex, RMSE=0.01509
+  Segment 4: type=plane, RMSE=0.01299
+  Segment 5: type=complex, RMSE=0.02514
+  Segment 6: type=complex, RMSE=0.02286
+  Segment 7: type=tube, RMSE=0.02789
+  Segment 9: type=complex, RMSE=0.01525
+File valve_0137_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01792
+  Segment 1: type=complex, RMSE=0.02095
+  Segment 2: type=tube, RMSE=0.01523
+  Segment 3: type=plane, RMSE=0.01436
+  Segment 4: type=plane, RMSE=0.01696
+  Segment 5: type=complex, RMSE=0.02173
+  Segment 6: type=complex, RMSE=0.02694
+  Segment 7: type=tube, RMSE=0.02711
+  Segment 9: type=complex, RMSE=0.01888
+File valve_0138_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.02153
+  Segment 2: type=tube, RMSE=0.01327
+  Segment 3: type=complex, RMSE=0.01490
+  Segment 4: type=complex, RMSE=0.02281
+  Segment 5: type=complex, RMSE=0.01646
+  Segment 6: type=complex, RMSE=0.02341
+  Segment 7: type=tube, RMSE=0.01471
+  Segment 9: type=complex, RMSE=0.01609
+File valve_0139_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01749
+  Segment 1: type=complex, RMSE=0.01895
+  Segment 2: type=tube, RMSE=0.01393
+  Segment 3: type=complex, RMSE=0.01526
+  Segment 4: type=plane, RMSE=0.01631
+  Segment 5: type=complex, RMSE=0.02135
+  Segment 6: type=complex, RMSE=0.02434
+  Segment 7: type=tube, RMSE=0.01899
+  Segment 9: type=complex, RMSE=0.01805
+File valve_0140_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02391
+  Segment 1: type=complex, RMSE=0.02114
+  Segment 2: type=complex, RMSE=0.01888
+  Segment 3: type=tube, RMSE=0.01226
+  Segment 5: type=complex, RMSE=0.01983
+  Segment 6: type=complex, RMSE=0.03144
+  Segment 7: type=tube, RMSE=0.01132
+  Segment 9: type=complex, RMSE=0.01522
+File valve_0141_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01616
+  Segment 1: type=complex, RMSE=0.01851
+  Segment 2: type=complex, RMSE=0.02154
+  Segment 3: type=plane, RMSE=0.02734
+  Segment 5: type=complex, RMSE=0.02067
+  Segment 6: type=complex, RMSE=0.02533
+  Segment 7: type=tube, RMSE=0.02564
+  Segment 9: type=complex, RMSE=0.01635
+File valve_0142_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01552
+  Segment 1: type=complex, RMSE=0.01857
+  Segment 2: type=tube, RMSE=0.01286
+  Segment 3: type=complex, RMSE=0.01373
+  Segment 4: type=complex, RMSE=0.02123
+  Segment 5: type=complex, RMSE=0.01505
+  Segment 6: type=complex, RMSE=0.02208
+  Segment 7: type=tube, RMSE=0.02520
+  Segment 8: type=complex, RMSE=0.01390
+  Segment 9: type=complex, RMSE=0.01563
+File valve_0143_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01594
+  Segment 1: type=complex, RMSE=0.01609
+  Segment 2: type=complex, RMSE=0.01713
+  Segment 3: type=complex, RMSE=0.01517
+  Segment 4: type=plane, RMSE=0.01718
+  Segment 5: type=complex, RMSE=0.02025
+  Segment 6: type=complex, RMSE=0.02134
+  Segment 7: type=tube, RMSE=0.02846
+  Segment 8: type=complex, RMSE=0.01433
+  Segment 9: type=complex, RMSE=0.01586
+File valve_0144_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02726
+  Segment 1: type=complex, RMSE=0.02163
+  Segment 2: type=complex, RMSE=0.02182
+  Segment 3: type=tube, RMSE=0.02334
+  Segment 5: type=complex, RMSE=0.01970
+  Segment 6: type=complex, RMSE=0.03264
+  Segment 7: type=tube, RMSE=0.01565
+  Segment 9: type=complex, RMSE=0.01549
+File valve_0145_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01726
+  Segment 1: type=complex, RMSE=0.01975
+  Segment 2: type=complex, RMSE=0.02267
+  Segment 3: type=plane, RMSE=0.03517
+  Segment 4: type=complex, RMSE=0.02034
+  Segment 5: type=complex, RMSE=0.02155
+  Segment 6: type=complex, RMSE=0.02482
+  Segment 7: type=tube, RMSE=0.03055
+  Segment 9: type=sphere, RMSE=0.01563
+File valve_0146_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01550
+  Segment 1: type=complex, RMSE=0.01608
+  Segment 2: type=tube, RMSE=0.01422
+  Segment 3: type=tube, RMSE=0.01280
+  Segment 4: type=complex, RMSE=0.01775
+  Segment 5: type=complex, RMSE=0.01767
+  Segment 6: type=complex, RMSE=0.02852
+  Segment 7: type=tube, RMSE=0.01278
+  Segment 8: type=complex, RMSE=0.01236
+  Segment 9: type=complex, RMSE=0.01469
+File valve_0147_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01784
+  Segment 1: type=complex, RMSE=0.02242
+  Segment 2: type=complex, RMSE=0.02482
+  Segment 3: type=plane, RMSE=0.01765
+  Segment 5: type=complex, RMSE=0.02686
+  Segment 6: type=complex, RMSE=0.03027
+  Segment 7: type=tube, RMSE=0.03012
+  Segment 9: type=complex, RMSE=0.01824
+File valve_0148_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01828
+  Segment 1: type=complex, RMSE=0.01979
+  Segment 2: type=tube, RMSE=0.01624
+  Segment 3: type=tube, RMSE=0.01454
+  Segment 4: type=complex, RMSE=0.02297
+  Segment 5: type=complex, RMSE=0.02289
+  Segment 6: type=complex, RMSE=0.02779
+  Segment 7: type=tube, RMSE=0.01605
+  Segment 8: type=plane, RMSE=0.01184
+  Segment 9: type=complex, RMSE=0.01561
+File valve_0149_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01781
+  Segment 1: type=complex, RMSE=0.01976
+  Segment 2: type=complex, RMSE=0.02126
+  Segment 3: type=tube, RMSE=0.01410
+  Segment 4: type=plane, RMSE=0.01541
+  Segment 5: type=complex, RMSE=0.02009
+  Segment 6: type=complex, RMSE=0.02733
+  Segment 7: type=tube, RMSE=0.01525
+  Segment 9: type=sphere, RMSE=0.01582
+File valve_0150_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01676
+  Segment 1: type=complex, RMSE=0.02233
+  Segment 2: type=tube, RMSE=0.01361
+  Segment 3: type=complex, RMSE=0.01475
+  Segment 4: type=plane, RMSE=0.01340
+  Segment 5: type=complex, RMSE=0.01820
+  Segment 6: type=complex, RMSE=0.02464
+  Segment 7: type=tube, RMSE=0.01374
+  Segment 9: type=complex, RMSE=0.01551
+File valve_0151_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01567
+  Segment 1: type=complex, RMSE=0.01660
+  Segment 2: type=complex, RMSE=0.02109
+  Segment 3: type=complex, RMSE=0.01573
+  Segment 4: type=complex, RMSE=0.01912
+  Segment 5: type=plane, RMSE=0.01433
+  Segment 6: type=complex, RMSE=0.02551
+  Segment 7: type=tube, RMSE=0.01283
+  Segment 9: type=complex, RMSE=0.01807
+File valve_0152_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02496
+  Segment 1: type=complex, RMSE=0.02346
+  Segment 2: type=complex, RMSE=0.02247
+  Segment 3: type=tube, RMSE=0.01406
+  Segment 6: type=complex, RMSE=0.02519
+  Segment 7: type=tube, RMSE=0.01198
+  Segment 9: type=complex, RMSE=0.01525
+File valve_0153_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01661
+  Segment 1: type=complex, RMSE=0.01773
+  Segment 2: type=complex, RMSE=0.02169
+  Segment 3: type=complex, RMSE=0.01625
+  Segment 4: type=complex, RMSE=0.01653
+  Segment 5: type=complex, RMSE=0.01943
+  Segment 6: type=complex, RMSE=0.02190
+  Segment 7: type=tube, RMSE=0.02760
+  Segment 9: type=complex, RMSE=0.01603
+File valve_0154_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01780
+  Segment 1: type=complex, RMSE=0.02409
+  Segment 2: type=tube, RMSE=0.01452
+  Segment 3: type=plane, RMSE=0.01862
+  Segment 4: type=plane, RMSE=0.01948
+  Segment 5: type=tube, RMSE=0.02095
+  Segment 6: type=complex, RMSE=0.02787
+  Segment 7: type=tube, RMSE=0.02241
+  Segment 9: type=complex, RMSE=0.01814
+File valve_0155_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01499
+  Segment 1: type=complex, RMSE=0.01903
+  Segment 2: type=complex, RMSE=0.01853
+  Segment 3: type=complex, RMSE=0.01448
+  Segment 4: type=plane, RMSE=0.01711
+  Segment 5: type=complex, RMSE=0.01795
+  Segment 6: type=complex, RMSE=0.02391
+  Segment 7: type=tube, RMSE=0.01949
+  Segment 8: type=plane, RMSE=0.01344
+  Segment 9: type=complex, RMSE=0.01515
+File valve_0156_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01724
+  Segment 1: type=complex, RMSE=0.01956
+  Segment 2: type=complex, RMSE=0.02328
+  Segment 3: type=complex, RMSE=0.01779
+  Segment 4: type=complex, RMSE=0.01878
+  Segment 5: type=plane, RMSE=0.01408
+  Segment 6: type=complex, RMSE=0.02319
+  Segment 7: type=tube, RMSE=0.02839
+  Segment 9: type=complex, RMSE=0.01622
+File valve_0157_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01676
+  Segment 1: type=complex, RMSE=0.02048
+  Segment 2: type=complex, RMSE=0.01825
+  Segment 3: type=plane, RMSE=0.02390
+  Segment 4: type=plane, RMSE=0.01597
+  Segment 5: type=complex, RMSE=0.01818
+  Segment 6: type=complex, RMSE=0.02422
+  Segment 7: type=tube, RMSE=0.02009
+  Segment 9: type=complex, RMSE=0.01596
+File valve_0158_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02040
+  Segment 1: type=complex, RMSE=0.02005
+  Segment 2: type=tube, RMSE=0.01386
+  Segment 3: type=plane, RMSE=0.01869
+  Segment 5: type=complex, RMSE=0.01835
+  Segment 6: type=complex, RMSE=0.02632
+  Segment 7: type=tube, RMSE=0.01488
+  Segment 9: type=sphere, RMSE=0.01553
+File valve_0159_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01709
+  Segment 1: type=complex, RMSE=0.01868
+  Segment 2: type=complex, RMSE=0.02078
+  Segment 3: type=tube, RMSE=0.01528
+  Segment 4: type=complex, RMSE=0.01760
+  Segment 5: type=complex, RMSE=0.01708
+  Segment 6: type=complex, RMSE=0.02507
+  Segment 7: type=tube, RMSE=0.01934
+  Segment 9: type=sphere, RMSE=0.01548
+File valve_0160_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01444
+  Segment 1: type=complex, RMSE=0.01751
+  Segment 2: type=tube, RMSE=0.01172
+  Segment 3: type=complex, RMSE=0.01401
+  Segment 4: type=plane, RMSE=0.01338
+  Segment 5: type=complex, RMSE=0.01647
+  Segment 6: type=complex, RMSE=0.02403
+  Segment 7: type=tube, RMSE=0.02971
+  Segment 8: type=plane, RMSE=0.01180
+  Segment 9: type=complex, RMSE=0.01550
+File valve_0161_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01730
+  Segment 1: type=complex, RMSE=0.02108
+  Segment 2: type=tube, RMSE=0.01440
+  Segment 3: type=plane, RMSE=0.01635
+  Segment 5: type=complex, RMSE=0.02520
+  Segment 6: type=complex, RMSE=0.02810
+  Segment 7: type=tube, RMSE=0.02520
+  Segment 9: type=complex, RMSE=0.01826
+File valve_0162_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01898
+  Segment 1: type=complex, RMSE=0.02203
+  Segment 2: type=tube, RMSE=0.01421
+  Segment 3: type=tube, RMSE=0.01385
+  Segment 4: type=complex, RMSE=0.01945
+  Segment 5: type=complex, RMSE=0.02563
+  Segment 6: type=complex, RMSE=0.02601
+  Segment 7: type=tube, RMSE=0.01897
+  Segment 8: type=plane, RMSE=0.01182
+  Segment 9: type=complex, RMSE=0.01593
+File valve_0163_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02001
+  Segment 1: type=complex, RMSE=0.02333
+  Segment 2: type=tube, RMSE=0.01432
+  Segment 3: type=plane, RMSE=0.01488
+  Segment 5: type=complex, RMSE=0.02116
+  Segment 6: type=complex, RMSE=0.02895
+  Segment 7: type=tube, RMSE=0.02556
+  Segment 9: type=complex, RMSE=0.01816
+File valve_0164_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01506
+  Segment 1: type=complex, RMSE=0.01933
+  Segment 2: type=tube, RMSE=0.01302
+  Segment 3: type=tube, RMSE=0.01243
+  Segment 4: type=complex, RMSE=0.02371
+  Segment 6: type=complex, RMSE=0.02546
+  Segment 7: type=tube, RMSE=0.01357
+  Segment 8: type=plane, RMSE=0.01222
+  Segment 9: type=complex, RMSE=0.01523
+File valve_0165_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01575
+  Segment 1: type=complex, RMSE=0.01797
+  Segment 2: type=tube, RMSE=0.01261
+  Segment 3: type=tube, RMSE=0.01261
+  Segment 4: type=complex, RMSE=0.02075
+  Segment 5: type=tube, RMSE=0.01869
+  Segment 6: type=complex, RMSE=0.02436
+  Segment 7: type=tube, RMSE=0.01526
+  Segment 8: type=plane, RMSE=0.01171
+  Segment 9: type=complex, RMSE=0.01426
+File valve_0166_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01635
+  Segment 1: type=complex, RMSE=0.02035
+  Segment 2: type=tube, RMSE=0.01412
+  Segment 3: type=plane, RMSE=0.02211
+  Segment 4: type=complex, RMSE=0.02161
+  Segment 5: type=complex, RMSE=0.01667
+  Segment 6: type=complex, RMSE=0.02329
+  Segment 7: type=tube, RMSE=0.01630
+  Segment 8: type=plane, RMSE=0.01435
+  Segment 9: type=complex, RMSE=0.01577
+File valve_0167_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01776
+  Segment 1: type=complex, RMSE=0.02048
+  Segment 2: type=tube, RMSE=0.01462
+  Segment 3: type=tube, RMSE=0.01386
+  Segment 4: type=complex, RMSE=0.01895
+  Segment 5: type=complex, RMSE=0.02261
+  Segment 6: type=complex, RMSE=0.02805
+  Segment 7: type=tube, RMSE=0.01334
+  Segment 8: type=plane, RMSE=0.01179
+  Segment 9: type=complex, RMSE=0.01657
+File valve_0168_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01706
+  Segment 1: type=complex, RMSE=0.01915
+  Segment 2: type=complex, RMSE=0.02188
+  Segment 3: type=complex, RMSE=0.01795
+  Segment 4: type=plane, RMSE=0.01328
+  Segment 5: type=complex, RMSE=0.02070
+  Segment 6: type=complex, RMSE=0.02486
+  Segment 7: type=tube, RMSE=0.03476
+  Segment 9: type=complex, RMSE=0.01767
+File valve_0169_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01773
+  Segment 1: type=complex, RMSE=0.02083
+  Segment 2: type=complex, RMSE=0.02463
+  Segment 3: type=plane, RMSE=0.01580
+  Segment 4: type=complex, RMSE=0.02114
+  Segment 5: type=complex, RMSE=0.01886
+  Segment 6: type=complex, RMSE=0.02600
+  Segment 7: type=tube, RMSE=0.01741
+  Segment 9: type=complex, RMSE=0.01694
+File valve_0170_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01853
+  Segment 1: type=complex, RMSE=0.01732
+  Segment 2: type=complex, RMSE=0.01931
+  Segment 3: type=tube, RMSE=0.01315
+  Segment 4: type=complex, RMSE=0.01953
+  Segment 6: type=complex, RMSE=0.02356
+  Segment 7: type=tube, RMSE=0.01257
+  Segment 9: type=complex, RMSE=0.01513
+File valve_0171_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02685
+  Segment 1: type=complex, RMSE=0.02158
+  Segment 2: type=plane, RMSE=0.02103
+  Segment 3: type=tube, RMSE=0.01426
+  Segment 4: type=complex, RMSE=0.01938
+  Segment 5: type=complex, RMSE=0.02091
+  Segment 6: type=complex, RMSE=0.02537
+  Segment 7: type=tube, RMSE=0.01138
+  Segment 9: type=sphere, RMSE=0.01495
+File valve_0172_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01815
+  Segment 1: type=complex, RMSE=0.01918
+  Segment 2: type=tube, RMSE=0.01262
+  Segment 3: type=tube, RMSE=0.01249
+  Segment 5: type=complex, RMSE=0.01906
+  Segment 6: type=complex, RMSE=0.02348
+  Segment 7: type=tube, RMSE=0.01529
+  Segment 8: type=plane, RMSE=0.01138
+  Segment 9: type=complex, RMSE=0.01366
+File valve_0173_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01530
+  Segment 1: type=complex, RMSE=0.01658
+  Segment 2: type=complex, RMSE=0.01970
+  Segment 3: type=plane, RMSE=0.01555
+  Segment 4: type=complex, RMSE=0.01632
+  Segment 5: type=complex, RMSE=0.01890
+  Segment 6: type=complex, RMSE=0.02354
+  Segment 7: type=tube, RMSE=0.01844
+  Segment 8: type=plane, RMSE=0.01287
+  Segment 9: type=complex, RMSE=0.01548
+File valve_0174_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01824
+  Segment 1: type=complex, RMSE=0.02509
+  Segment 2: type=tube, RMSE=0.01448
+  Segment 3: type=plane, RMSE=0.01528
+  Segment 4: type=complex, RMSE=0.02082
+  Segment 5: type=complex, RMSE=0.02304
+  Segment 6: type=complex, RMSE=0.02944
+  Segment 7: type=tube, RMSE=0.01982
+  Segment 9: type=complex, RMSE=0.01737
+File valve_0175_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01574
+  Segment 1: type=complex, RMSE=0.01772
+  Segment 2: type=tube, RMSE=0.01206
+  Segment 3: type=complex, RMSE=0.01500
+  Segment 4: type=plane, RMSE=0.01544
+  Segment 5: type=complex, RMSE=0.01895
+  Segment 6: type=complex, RMSE=0.02326
+  Segment 7: type=tube, RMSE=0.02962
+  Segment 8: type=plane, RMSE=0.01291
+  Segment 9: type=complex, RMSE=0.01592
+File valve_0176_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01763
+  Segment 1: type=complex, RMSE=0.02134
+  Segment 2: type=tube, RMSE=0.01414
+  Segment 3: type=plane, RMSE=0.01388
+  Segment 5: type=tube, RMSE=0.01907
+  Segment 6: type=complex, RMSE=0.02957
+  Segment 7: type=tube, RMSE=0.01922
+  Segment 9: type=complex, RMSE=0.01678
+File valve_0177_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01494
+  Segment 1: type=complex, RMSE=0.01736
+  Segment 2: type=tube, RMSE=0.01183
+  Segment 3: type=tube, RMSE=0.01209
+  Segment 4: type=complex, RMSE=0.01506
+  Segment 5: type=tube, RMSE=0.02246
+  Segment 6: type=complex, RMSE=0.02119
+  Segment 7: type=tube, RMSE=0.01305
+  Segment 9: type=complex, RMSE=0.01412
+File valve_0178_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01548
+  Segment 1: type=complex, RMSE=0.01853
+  Segment 2: type=complex, RMSE=0.02325
+  Segment 3: type=complex, RMSE=0.01370
+  Segment 4: type=plane, RMSE=0.01641
+  Segment 5: type=tube, RMSE=0.01694
+  Segment 6: type=complex, RMSE=0.02296
+  Segment 7: type=tube, RMSE=0.01903
+  Segment 9: type=complex, RMSE=0.01510
+File valve_0179_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01686
+  Segment 1: type=complex, RMSE=0.01933
+  Segment 2: type=complex, RMSE=0.02412
+  Segment 3: type=plane, RMSE=0.02190
+  Segment 4: type=complex, RMSE=0.01775
+  Segment 5: type=complex, RMSE=0.01882
+  Segment 6: type=complex, RMSE=0.02213
+  Segment 7: type=tube, RMSE=0.01380
+  Segment 9: type=complex, RMSE=0.01601
+File valve_0180_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01627
+  Segment 1: type=complex, RMSE=0.02203
+  Segment 2: type=tube, RMSE=0.01327
+  Segment 3: type=complex, RMSE=0.01532
+  Segment 4: type=plane, RMSE=0.02088
+  Segment 5: type=complex, RMSE=0.02130
+  Segment 6: type=complex, RMSE=0.02374
+  Segment 7: type=tube, RMSE=0.01269
+  Segment 9: type=complex, RMSE=0.01667
+File valve_0181_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02466
+  Segment 1: type=complex, RMSE=0.02106
+  Segment 2: type=complex, RMSE=0.02037
+  Segment 3: type=tube, RMSE=0.01285
+  Segment 5: type=complex, RMSE=0.01765
+  Segment 6: type=complex, RMSE=0.02664
+  Segment 7: type=tube, RMSE=0.01197
+  Segment 9: type=complex, RMSE=0.01555
+File valve_0182_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02556
+  Segment 1: type=plane, RMSE=0.02650
+  Segment 2: type=tube, RMSE=0.01361
+  Segment 3: type=tube, RMSE=0.01467
+  Segment 4: type=complex, RMSE=0.02070
+  Segment 5: type=complex, RMSE=0.01711
+  Segment 6: type=complex, RMSE=0.02874
+  Segment 7: type=tube, RMSE=0.01147
+  Segment 9: type=complex, RMSE=0.01571
+File valve_0183_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01778
+  Segment 1: type=complex, RMSE=0.01995
+  Segment 2: type=tube, RMSE=0.01408
+  Segment 3: type=tube, RMSE=0.01284
+  Segment 4: type=complex, RMSE=0.01967
+  Segment 5: type=complex, RMSE=0.01847
+  Segment 6: type=complex, RMSE=0.02700
+  Segment 7: type=tube, RMSE=0.01621
+  Segment 8: type=plane, RMSE=0.01277
+  Segment 9: type=complex, RMSE=0.01564
+File valve_0184_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01570
+  Segment 1: type=complex, RMSE=0.01941
+  Segment 2: type=complex, RMSE=0.02238
+  Segment 3: type=tube, RMSE=0.01262
+  Segment 4: type=complex, RMSE=0.02035
+  Segment 5: type=complex, RMSE=0.01774
+  Segment 6: type=complex, RMSE=0.02451
+  Segment 7: type=tube, RMSE=0.01245
+  Segment 8: type=plane, RMSE=0.01116
+  Segment 9: type=complex, RMSE=0.01524
+File valve_0185_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01720
+  Segment 1: type=complex, RMSE=0.02508
+  Segment 2: type=complex, RMSE=0.02032
+  Segment 3: type=plane, RMSE=0.01456
+  Segment 4: type=plane, RMSE=0.02006
+  Segment 5: type=complex, RMSE=0.02518
+  Segment 6: type=complex, RMSE=0.02987
+  Segment 7: type=tube, RMSE=0.02429
+  Segment 9: type=complex, RMSE=0.01799
+File valve_0186_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01731
+  Segment 1: type=complex, RMSE=0.02063
+  Segment 2: type=tube, RMSE=0.01368
+  Segment 3: type=plane, RMSE=0.01802
+  Segment 4: type=plane, RMSE=0.01608
+  Segment 5: type=complex, RMSE=0.02033
+  Segment 6: type=complex, RMSE=0.02506
+  Segment 7: type=tube, RMSE=0.01514
+  Segment 9: type=complex, RMSE=0.01596
+File valve_0187_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01923
+  Segment 1: type=complex, RMSE=0.02169
+  Segment 2: type=tube, RMSE=0.01526
+  Segment 3: type=plane, RMSE=0.01507
+  Segment 4: type=plane, RMSE=0.02064
+  Segment 5: type=tube, RMSE=0.02418
+  Segment 6: type=complex, RMSE=0.02798
+  Segment 7: type=tube, RMSE=0.02544
+  Segment 9: type=complex, RMSE=0.01928
+File valve_0188_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02396
+  Segment 1: type=complex, RMSE=0.01896
+  Segment 2: type=plane, RMSE=0.02365
+  Segment 3: type=tube, RMSE=0.01416
+  Segment 4: type=complex, RMSE=0.01956
+  Segment 5: type=complex, RMSE=0.01868
+  Segment 6: type=complex, RMSE=0.03007
+  Segment 7: type=tube, RMSE=0.01086
+  Segment 9: type=sphere, RMSE=0.01457
+File valve_0189_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01476
+  Segment 1: type=complex, RMSE=0.01562
+  Segment 2: type=complex, RMSE=0.01876
+  Segment 3: type=complex, RMSE=0.01456
+  Segment 4: type=plane, RMSE=0.01423
+  Segment 5: type=complex, RMSE=0.01854
+  Segment 6: type=complex, RMSE=0.02375
+  Segment 7: type=tube, RMSE=0.01767
+  Segment 8: type=complex, RMSE=0.01446
+  Segment 9: type=complex, RMSE=0.01481
+File valve_0190_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01630
+  Segment 1: type=complex, RMSE=0.02098
+  Segment 2: type=complex, RMSE=0.02280
+  Segment 3: type=complex, RMSE=0.01677
+  Segment 4: type=plane, RMSE=0.01566
+  Segment 5: type=complex, RMSE=0.01645
+  Segment 6: type=complex, RMSE=0.02614
+  Segment 7: type=tube, RMSE=0.01379
+  Segment 9: type=complex, RMSE=0.01747
+File valve_0191_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02344
+  Segment 1: type=complex, RMSE=0.01924
+  Segment 2: type=complex, RMSE=0.01962
+  Segment 3: type=tube, RMSE=0.01392
+  Segment 5: type=complex, RMSE=0.01685
+  Segment 6: type=complex, RMSE=0.02420
+  Segment 7: type=tube, RMSE=0.01203
+  Segment 9: type=complex, RMSE=0.01567
+File valve_0192_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01705
+  Segment 1: type=complex, RMSE=0.01962
+  Segment 2: type=tube, RMSE=0.01423
+  Segment 3: type=plane, RMSE=0.01584
+  Segment 4: type=complex, RMSE=0.02034
+  Segment 5: type=complex, RMSE=0.01674
+  Segment 6: type=complex, RMSE=0.02736
+  Segment 7: type=tube, RMSE=0.01446
+  Segment 9: type=complex, RMSE=0.01610
+File valve_0193_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01700
+  Segment 1: type=complex, RMSE=0.01996
+  Segment 2: type=tube, RMSE=0.01250
+  Segment 3: type=tube, RMSE=0.01325
+  Segment 4: type=complex, RMSE=0.02663
+  Segment 5: type=complex, RMSE=0.02144
+  Segment 6: type=complex, RMSE=0.02612
+  Segment 7: type=tube, RMSE=0.01244
+  Segment 9: type=complex, RMSE=0.01495
+File valve_0194_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.01859
+  Segment 2: type=tube, RMSE=0.01277
+  Segment 3: type=complex, RMSE=0.01433
+  Segment 4: type=plane, RMSE=0.02506
+  Segment 5: type=complex, RMSE=0.01652
+  Segment 6: type=complex, RMSE=0.02600
+  Segment 7: type=tube, RMSE=0.03138
+  Segment 8: type=complex, RMSE=0.01827
+  Segment 9: type=complex, RMSE=0.01553
+File valve_0195_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01879
+  Segment 1: type=complex, RMSE=0.02090
+  Segment 2: type=complex, RMSE=0.02249
+  Segment 3: type=plane, RMSE=0.01712
+  Segment 5: type=tube, RMSE=0.02000
+  Segment 6: type=complex, RMSE=0.02754
+  Segment 7: type=tube, RMSE=0.02259
+  Segment 8: type=plane, RMSE=0.01311
+  Segment 9: type=complex, RMSE=0.01800
+File valve_0196_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01773
+  Segment 1: type=complex, RMSE=0.02034
+  Segment 2: type=tube, RMSE=0.01437
+  Segment 3: type=tube, RMSE=0.01358
+  Segment 5: type=complex, RMSE=0.02105
+  Segment 6: type=complex, RMSE=0.02866
+  Segment 7: type=tube, RMSE=0.01631
+  Segment 8: type=plane, RMSE=0.01191
+  Segment 9: type=complex, RMSE=0.01516
+File valve_0197_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01798
+  Segment 1: type=complex, RMSE=0.02240
+  Segment 2: type=tube, RMSE=0.01386
+  Segment 3: type=complex, RMSE=0.01880
+  Segment 5: type=complex, RMSE=0.02371
+  Segment 6: type=complex, RMSE=0.02792
+  Segment 7: type=tube, RMSE=0.02731
+  Segment 9: type=complex, RMSE=0.01759
+File valve_0198_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01762
+  Segment 1: type=complex, RMSE=0.02127
+  Segment 2: type=complex, RMSE=0.02157
+  Segment 3: type=plane, RMSE=0.01924
+  Segment 4: type=plane, RMSE=0.01732
+  Segment 5: type=complex, RMSE=0.02195
+  Segment 6: type=complex, RMSE=0.02939
+  Segment 7: type=tube, RMSE=0.02428
+  Segment 9: type=complex, RMSE=0.01744
+File valve_0199_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02570
+  Segment 1: type=complex, RMSE=0.01919
+  Segment 2: type=complex, RMSE=0.02076
+  Segment 3: type=tube, RMSE=0.01310
+  Segment 4: type=plane, RMSE=0.01764
+  Segment 5: type=complex, RMSE=0.01851
+  Segment 6: type=complex, RMSE=0.02804
+  Segment 7: type=tube, RMSE=0.01230
+  Segment 9: type=sphere, RMSE=0.01600
+File valve_0200_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01869
+  Segment 1: type=complex, RMSE=0.02495
+  Segment 2: type=complex, RMSE=0.02213
+  Segment 3: type=plane, RMSE=0.01426
+  Segment 4: type=plane, RMSE=0.01740
+  Segment 5: type=complex, RMSE=0.02767
+  Segment 6: type=complex, RMSE=0.02736
+  Segment 7: type=tube, RMSE=0.02139
+  Segment 9: type=complex, RMSE=0.01804
+File valve_0201_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01661
+  Segment 1: type=complex, RMSE=0.01649
+  Segment 2: type=complex, RMSE=0.02522
+  Segment 3: type=complex, RMSE=0.01639
+  Segment 4: type=complex, RMSE=0.01858
+  Segment 5: type=complex, RMSE=0.02287
+  Segment 6: type=complex, RMSE=0.02605
+  Segment 7: type=tube, RMSE=0.01571
+  Segment 9: type=complex, RMSE=0.01793
+File valve_0202_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01613
+  Segment 1: type=complex, RMSE=0.01827
+  Segment 2: type=complex, RMSE=0.02131
+  Segment 3: type=complex, RMSE=0.01395
+  Segment 4: type=plane, RMSE=0.01473
+  Segment 5: type=complex, RMSE=0.01600
+  Segment 6: type=complex, RMSE=0.02486
+  Segment 7: type=tube, RMSE=0.01745
+  Segment 8: type=plane, RMSE=0.01051
+  Segment 9: type=complex, RMSE=0.01574
+File valve_0203_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02503
+  Segment 1: type=complex, RMSE=0.01993
+  Segment 2: type=complex, RMSE=0.01953
+  Segment 3: type=tube, RMSE=0.01376
+  Segment 4: type=complex, RMSE=0.01695
+  Segment 5: type=complex, RMSE=0.02492
+  Segment 6: type=complex, RMSE=0.02896
+  Segment 7: type=tube, RMSE=0.01177
+  Segment 9: type=sphere, RMSE=0.01518
+File valve_0204_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02519
+  Segment 1: type=complex, RMSE=0.01970
+  Segment 2: type=tube, RMSE=0.01557
+  Segment 3: type=tube, RMSE=0.01501
+  Segment 5: type=complex, RMSE=0.01884
+  Segment 6: type=complex, RMSE=0.02854
+  Segment 7: type=tube, RMSE=0.01213
+  Segment 9: type=complex, RMSE=0.01568
+File valve_0205_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01741
+  Segment 1: type=complex, RMSE=0.01795
+  Segment 2: type=tube, RMSE=0.01453
+  Segment 3: type=complex, RMSE=0.01525
+  Segment 4: type=complex, RMSE=0.01745
+  Segment 5: type=complex, RMSE=0.01928
+  Segment 6: type=complex, RMSE=0.02792
+  Segment 7: type=tube, RMSE=0.03371
+  Segment 9: type=complex, RMSE=0.01677
+File valve_0206_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01616
+  Segment 1: type=complex, RMSE=0.02057
+  Segment 2: type=complex, RMSE=0.02146
+  Segment 3: type=tube, RMSE=0.01345
+  Segment 6: type=complex, RMSE=0.02572
+  Segment 7: type=tube, RMSE=0.01206
+  Segment 9: type=complex, RMSE=0.01505
+File valve_0207_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01621
+  Segment 1: type=complex, RMSE=0.02010
+  Segment 2: type=tube, RMSE=0.01331
+  Segment 3: type=tube, RMSE=0.01277
+  Segment 4: type=complex, RMSE=0.01930
+  Segment 5: type=complex, RMSE=0.01895
+  Segment 6: type=complex, RMSE=0.02222
+  Segment 7: type=tube, RMSE=0.01987
+  Segment 8: type=plane, RMSE=0.01065
+  Segment 9: type=complex, RMSE=0.01524
+File valve_0208_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01735
+  Segment 1: type=complex, RMSE=0.01981
+  Segment 2: type=complex, RMSE=0.02235
+  Segment 3: type=plane, RMSE=0.01754
+  Segment 4: type=complex, RMSE=0.01975
+  Segment 5: type=plane, RMSE=0.01558
+  Segment 6: type=complex, RMSE=0.02732
+  Segment 7: type=tube, RMSE=0.01587
+  Segment 9: type=sphere, RMSE=0.01588
+File valve_0209_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01684
+  Segment 1: type=complex, RMSE=0.01585
+  Segment 2: type=tube, RMSE=0.01263
+  Segment 3: type=complex, RMSE=0.01448
+  Segment 4: type=plane, RMSE=0.01417
+  Segment 5: type=complex, RMSE=0.01879
+  Segment 6: type=complex, RMSE=0.02570
+  Segment 7: type=tube, RMSE=0.02331
+  Segment 8: type=plane, RMSE=0.00904
+  Segment 9: type=complex, RMSE=0.01569
+File valve_0210_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01661
+  Segment 1: type=complex, RMSE=0.01874
+  Segment 2: type=complex, RMSE=0.02360
+  Segment 3: type=plane, RMSE=0.03022
+  Segment 4: type=complex, RMSE=0.01979
+  Segment 5: type=complex, RMSE=0.02092
+  Segment 6: type=complex, RMSE=0.02649
+  Segment 7: type=tube, RMSE=0.02269
+  Segment 9: type=sphere, RMSE=0.01551
+File valve_0211_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01912
+  Segment 1: type=complex, RMSE=0.02459
+  Segment 2: type=complex, RMSE=0.02400
+  Segment 3: type=plane, RMSE=0.01517
+  Segment 4: type=complex, RMSE=0.02317
+  Segment 6: type=complex, RMSE=0.03163
+  Segment 7: type=tube, RMSE=0.02361
+  Segment 9: type=complex, RMSE=0.01812
+File valve_0212_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01871
+  Segment 1: type=complex, RMSE=0.02114
+  Segment 2: type=complex, RMSE=0.02424
+  Segment 3: type=plane, RMSE=0.01337
+  Segment 4: type=plane, RMSE=0.02049
+  Segment 5: type=complex, RMSE=0.02747
+  Segment 6: type=complex, RMSE=0.03232
+  Segment 7: type=tube, RMSE=0.02400
+  Segment 9: type=complex, RMSE=0.01812
+File valve_0213_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02507
+  Segment 1: type=complex, RMSE=0.02217
+  Segment 2: type=complex, RMSE=0.01878
+  Segment 3: type=tube, RMSE=0.01451
+  Segment 4: type=plane, RMSE=0.02084
+  Segment 5: type=complex, RMSE=0.01917
+  Segment 6: type=complex, RMSE=0.02621
+  Segment 7: type=tube, RMSE=0.01153
+  Segment 9: type=sphere, RMSE=0.01509
+File valve_0214_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01989
+  Segment 1: type=complex, RMSE=0.02171
+  Segment 2: type=tube, RMSE=0.01517
+  Segment 3: type=plane, RMSE=0.01580
+  Segment 4: type=plane, RMSE=0.01783
+  Segment 5: type=tube, RMSE=0.01953
+  Segment 6: type=complex, RMSE=0.03051
+  Segment 7: type=tube, RMSE=0.03323
+  Segment 9: type=complex, RMSE=0.01766
+File valve_0215_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01506
+  Segment 1: type=complex, RMSE=0.01879
+  Segment 2: type=complex, RMSE=0.02066
+  Segment 3: type=tube, RMSE=0.01292
+  Segment 4: type=complex, RMSE=0.02105
+  Segment 5: type=tube, RMSE=0.01398
+  Segment 6: type=complex, RMSE=0.02375
+  Segment 7: type=tube, RMSE=0.01355
+  Segment 9: type=complex, RMSE=0.01407
+File valve_0216_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01877
+  Segment 1: type=complex, RMSE=0.01952
+  Segment 2: type=tube, RMSE=0.01552
+  Segment 3: type=tube, RMSE=0.01454
+  Segment 4: type=complex, RMSE=0.02152
+  Segment 5: type=tube, RMSE=0.01496
+  Segment 6: type=complex, RMSE=0.02854
+  Segment 7: type=tube, RMSE=0.01560
+  Segment 8: type=plane, RMSE=0.01203
+  Segment 9: type=complex, RMSE=0.01536
+File valve_0217_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02732
+  Segment 1: type=complex, RMSE=0.02193
+  Segment 2: type=complex, RMSE=0.02077
+  Segment 3: type=tube, RMSE=0.01651
+  Segment 5: type=complex, RMSE=0.01933
+  Segment 6: type=complex, RMSE=0.03227
+  Segment 7: type=tube, RMSE=0.01167
+  Segment 9: type=sphere, RMSE=0.01536
+File valve_0218_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01899
+  Segment 1: type=complex, RMSE=0.01908
+  Segment 2: type=complex, RMSE=0.02046
+  Segment 3: type=plane, RMSE=0.01779
+  Segment 4: type=complex, RMSE=0.02580
+  Segment 5: type=tube, RMSE=0.01929
+  Segment 6: type=complex, RMSE=0.02530
+  Segment 7: type=tube, RMSE=0.02631
+  Segment 9: type=complex, RMSE=0.01766
+File valve_0219_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02593
+  Segment 1: type=complex, RMSE=0.02050
+  Segment 2: type=tube, RMSE=0.01516
+  Segment 3: type=tube, RMSE=0.01349
+  Segment 5: type=complex, RMSE=0.01861
+  Segment 6: type=complex, RMSE=0.02872
+  Segment 7: type=tube, RMSE=0.01078
+  Segment 9: type=sphere, RMSE=0.01485
+File valve_0220_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01806
+  Segment 1: type=complex, RMSE=0.02160
+  Segment 2: type=tube, RMSE=0.01486
+  Segment 3: type=plane, RMSE=0.01362
+  Segment 5: type=complex, RMSE=0.02367
+  Segment 6: type=complex, RMSE=0.02898
+  Segment 7: type=tube, RMSE=0.02067
+  Segment 9: type=complex, RMSE=0.01780
+File valve_0221_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01613
+  Segment 1: type=complex, RMSE=0.01881
+  Segment 2: type=tube, RMSE=0.01337
+  Segment 3: type=tube, RMSE=0.01221
+  Segment 4: type=complex, RMSE=0.01645
+  Segment 5: type=complex, RMSE=0.02305
+  Segment 6: type=complex, RMSE=0.02319
+  Segment 7: type=tube, RMSE=0.01615
+  Segment 8: type=complex, RMSE=0.01654
+  Segment 9: type=complex, RMSE=0.01388
+File valve_0222_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01636
+  Segment 1: type=complex, RMSE=0.01931
+  Segment 2: type=complex, RMSE=0.01979
+  Segment 3: type=complex, RMSE=0.01618
+  Segment 4: type=complex, RMSE=0.01894
+  Segment 5: type=complex, RMSE=0.01930
+  Segment 6: type=complex, RMSE=0.02336
+  Segment 7: type=tube, RMSE=0.01589
+  Segment 9: type=complex, RMSE=0.01888
+File valve_0223_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01643
+  Segment 1: type=complex, RMSE=0.01999
+  Segment 2: type=complex, RMSE=0.01974
+  Segment 3: type=complex, RMSE=0.02231
+  Segment 4: type=complex, RMSE=0.02058
+  Segment 5: type=plane, RMSE=0.01544
+  Segment 6: type=complex, RMSE=0.02282
+  Segment 7: type=tube, RMSE=0.01631
+  Segment 9: type=complex, RMSE=0.01570
+File valve_0224_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01901
+  Segment 1: type=complex, RMSE=0.02195
+  Segment 2: type=tube, RMSE=0.01413
+  Segment 3: type=plane, RMSE=0.01492
+  Segment 5: type=tube, RMSE=0.01732
+  Segment 6: type=complex, RMSE=0.02567
+  Segment 7: type=tube, RMSE=0.01735
+  Segment 9: type=complex, RMSE=0.01751
+File valve_0225_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01638
+  Segment 1: type=complex, RMSE=0.01716
+  Segment 2: type=complex, RMSE=0.01953
+  Segment 3: type=complex, RMSE=0.01544
+  Segment 4: type=plane, RMSE=0.01532
+  Segment 5: type=complex, RMSE=0.02010
+  Segment 6: type=complex, RMSE=0.02176
+  Segment 7: type=tube, RMSE=0.02741
+  Segment 9: type=complex, RMSE=0.01683
+File valve_0226_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01619
+  Segment 1: type=complex, RMSE=0.01816
+  Segment 2: type=complex, RMSE=0.02163
+  Segment 3: type=complex, RMSE=0.01478
+  Segment 4: type=complex, RMSE=0.02445
+  Segment 5: type=complex, RMSE=0.01865
+  Segment 6: type=complex, RMSE=0.02410
+  Segment 7: type=tube, RMSE=0.01307
+  Segment 9: type=complex, RMSE=0.02047
+File valve_0227_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01694
+  Segment 1: type=complex, RMSE=0.02084
+  Segment 2: type=complex, RMSE=0.02210
+  Segment 3: type=tube, RMSE=0.02226
+  Segment 4: type=complex, RMSE=0.02109
+  Segment 5: type=plane, RMSE=0.01809
+  Segment 6: type=complex, RMSE=0.02641
+  Segment 7: type=tube, RMSE=0.01451
+  Segment 9: type=complex, RMSE=0.01549
+File valve_0228_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01942
+  Segment 1: type=complex, RMSE=0.02441
+  Segment 2: type=complex, RMSE=0.02522
+  Segment 3: type=plane, RMSE=0.02185
+  Segment 5: type=tube, RMSE=0.02086
+  Segment 6: type=complex, RMSE=0.02948
+  Segment 7: type=tube, RMSE=0.02413
+  Segment 9: type=complex, RMSE=0.01867
+File valve_0229_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01640
+  Segment 1: type=complex, RMSE=0.01994
+  Segment 2: type=complex, RMSE=0.02263
+  Segment 3: type=tube, RMSE=0.01388
+  Segment 4: type=complex, RMSE=0.02151
+  Segment 5: type=complex, RMSE=0.01784
+  Segment 6: type=complex, RMSE=0.02329
+  Segment 7: type=tube, RMSE=0.01609
+  Segment 9: type=complex, RMSE=0.01549
+File valve_0230_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01677
+  Segment 1: type=complex, RMSE=0.01790
+  Segment 2: type=tube, RMSE=0.01428
+  Segment 3: type=tube, RMSE=0.01303
+  Segment 4: type=complex, RMSE=0.02140
+  Segment 5: type=complex, RMSE=0.02124
+  Segment 6: type=complex, RMSE=0.02332
+  Segment 7: type=tube, RMSE=0.01166
+  Segment 8: type=plane, RMSE=0.01207
+  Segment 9: type=complex, RMSE=0.01552
+File valve_0231_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01562
+  Segment 1: type=complex, RMSE=0.01698
+  Segment 2: type=complex, RMSE=0.01694
+  Segment 3: type=complex, RMSE=0.01430
+  Segment 4: type=plane, RMSE=0.02786
+  Segment 5: type=complex, RMSE=0.01686
+  Segment 6: type=complex, RMSE=0.02213
+  Segment 7: type=tube, RMSE=0.01487
+  Segment 9: type=complex, RMSE=0.01504
+File valve_0232_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02332
+  Segment 1: type=complex, RMSE=0.02037
+  Segment 2: type=complex, RMSE=0.02022
+  Segment 3: type=tube, RMSE=0.01329
+  Segment 5: type=complex, RMSE=0.02331
+  Segment 6: type=complex, RMSE=0.02680
+  Segment 7: type=tube, RMSE=0.01194
+  Segment 9: type=complex, RMSE=0.01488
+File valve_0233_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01659
+  Segment 1: type=complex, RMSE=0.02235
+  Segment 2: type=complex, RMSE=0.01988
+  Segment 3: type=plane, RMSE=0.03344
+  Segment 4: type=plane, RMSE=0.01611
+  Segment 5: type=complex, RMSE=0.02060
+  Segment 6: type=complex, RMSE=0.02312
+  Segment 7: type=tube, RMSE=0.02163
+  Segment 9: type=complex, RMSE=0.01585
+File valve_0234_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01851
+  Segment 1: type=complex, RMSE=0.02053
+  Segment 2: type=tube, RMSE=0.01406
+  Segment 3: type=plane, RMSE=0.01521
+  Segment 5: type=complex, RMSE=0.01675
+  Segment 6: type=complex, RMSE=0.02543
+  Segment 7: type=tube, RMSE=0.02166
+  Segment 9: type=complex, RMSE=0.01639
+File valve_0235_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02164
+  Segment 1: type=complex, RMSE=0.01841
+  Segment 2: type=complex, RMSE=0.02127
+  Segment 3: type=tube, RMSE=0.01397
+  Segment 5: type=complex, RMSE=0.01781
+  Segment 6: type=complex, RMSE=0.02593
+  Segment 7: type=tube, RMSE=0.01174
+  Segment 9: type=complex, RMSE=0.01562
+File valve_0236_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01959
+  Segment 1: type=complex, RMSE=0.01722
+  Segment 2: type=complex, RMSE=0.02084
+  Segment 3: type=tube, RMSE=0.01428
+  Segment 5: type=complex, RMSE=0.01621
+  Segment 6: type=complex, RMSE=0.02599
+  Segment 7: type=tube, RMSE=0.01241
+  Segment 9: type=complex, RMSE=0.01603
+File valve_0237_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01797
+  Segment 1: type=complex, RMSE=0.02167
+  Segment 2: type=tube, RMSE=0.01421
+  Segment 3: type=tube, RMSE=0.01324
+  Segment 4: type=complex, RMSE=0.02310
+  Segment 5: type=tube, RMSE=0.02180
+  Segment 6: type=complex, RMSE=0.02687
+  Segment 7: type=tube, RMSE=0.01956
+  Segment 8: type=plane, RMSE=0.01112
+  Segment 9: type=complex, RMSE=0.01569
+File valve_0238_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01705
+  Segment 1: type=complex, RMSE=0.01975
+  Segment 2: type=complex, RMSE=0.02320
+  Segment 3: type=complex, RMSE=0.01758
+  Segment 4: type=complex, RMSE=0.01951
+  Segment 5: type=complex, RMSE=0.02491
+  Segment 6: type=complex, RMSE=0.02286
+  Segment 7: type=tube, RMSE=0.02260
+  Segment 9: type=complex, RMSE=0.01595
+File valve_0239_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01747
+  Segment 1: type=complex, RMSE=0.02317
+  Segment 2: type=tube, RMSE=0.01568
+  Segment 3: type=plane, RMSE=0.01546
+  Segment 4: type=plane, RMSE=0.02072
+  Segment 5: type=complex, RMSE=0.02113
+  Segment 6: type=complex, RMSE=0.02969
+  Segment 7: type=tube, RMSE=0.02078
+  Segment 9: type=complex, RMSE=0.01840
+File valve_0240_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01562
+  Segment 1: type=complex, RMSE=0.01676
+  Segment 2: type=complex, RMSE=0.01657
+  Segment 3: type=complex, RMSE=0.01444
+  Segment 4: type=complex, RMSE=0.01602
+  Segment 5: type=complex, RMSE=0.01568
+  Segment 6: type=complex, RMSE=0.02245
+  Segment 7: type=tube, RMSE=0.03699
+  Segment 8: type=complex, RMSE=0.01224
+  Segment 9: type=complex, RMSE=0.01532
+File valve_0241_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01861
+  Segment 1: type=complex, RMSE=0.02154
+  Segment 2: type=complex, RMSE=0.02220
+  Segment 3: type=tube, RMSE=0.01270
+  Segment 4: type=complex, RMSE=0.02218
+  Segment 5: type=complex, RMSE=0.03169
+  Segment 6: type=complex, RMSE=0.02786
+  Segment 7: type=tube, RMSE=0.01489
+  Segment 8: type=plane, RMSE=0.01271
+  Segment 9: type=complex, RMSE=0.01567
+File valve_0242_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01875
+  Segment 1: type=complex, RMSE=0.02257
+  Segment 2: type=tube, RMSE=0.01374
+  Segment 3: type=plane, RMSE=0.01598
+  Segment 4: type=complex, RMSE=0.02041
+  Segment 5: type=complex, RMSE=0.02409
+  Segment 6: type=complex, RMSE=0.02574
+  Segment 7: type=tube, RMSE=0.02250
+  Segment 9: type=complex, RMSE=0.01784
+File valve_0243_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01915
+  Segment 1: type=complex, RMSE=0.01926
+  Segment 2: type=complex, RMSE=0.02000
+  Segment 3: type=tube, RMSE=0.01390
+  Segment 5: type=complex, RMSE=0.01647
+  Segment 6: type=complex, RMSE=0.02416
+  Segment 7: type=tube, RMSE=0.01252
+  Segment 9: type=complex, RMSE=0.01583
+File valve_0244_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02419
+  Segment 1: type=complex, RMSE=0.01938
+  Segment 2: type=complex, RMSE=0.02066
+  Segment 3: type=tube, RMSE=0.01394
+  Segment 5: type=complex, RMSE=0.02216
+  Segment 6: type=complex, RMSE=0.02599
+  Segment 7: type=tube, RMSE=0.01189
+  Segment 9: type=sphere, RMSE=0.01539
+File valve_0245_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01821
+  Segment 1: type=complex, RMSE=0.01968
+  Segment 2: type=tube, RMSE=0.01454
+  Segment 3: type=plane, RMSE=0.01452
+  Segment 4: type=complex, RMSE=0.01826
+  Segment 5: type=tube, RMSE=0.01858
+  Segment 6: type=complex, RMSE=0.02583
+  Segment 7: type=tube, RMSE=0.02721
+  Segment 9: type=complex, RMSE=0.01751
+File valve_0246_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01817
+  Segment 1: type=complex, RMSE=0.02325
+  Segment 2: type=complex, RMSE=0.02685
+  Segment 3: type=plane, RMSE=0.01576
+  Segment 4: type=complex, RMSE=0.02194
+  Segment 5: type=tube, RMSE=0.02064
+  Segment 6: type=complex, RMSE=0.02709
+  Segment 7: type=tube, RMSE=0.02846
+  Segment 9: type=complex, RMSE=0.01776
+File valve_0247_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02202
+  Segment 1: type=complex, RMSE=0.02261
+  Segment 2: type=complex, RMSE=0.02681
+  Segment 3: type=plane, RMSE=0.01475
+  Segment 4: type=plane, RMSE=0.01790
+  Segment 5: type=tube, RMSE=0.02112
+  Segment 6: type=complex, RMSE=0.02726
+  Segment 7: type=tube, RMSE=0.02044
+  Segment 9: type=complex, RMSE=0.01791
+File valve_0248_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01629
+  Segment 1: type=complex, RMSE=0.01719
+  Segment 2: type=complex, RMSE=0.02174
+  Segment 3: type=complex, RMSE=0.01736
+  Segment 4: type=complex, RMSE=0.01662
+  Segment 5: type=plane, RMSE=0.01502
+  Segment 6: type=complex, RMSE=0.02258
+  Segment 7: type=tube, RMSE=0.02432
+  Segment 9: type=complex, RMSE=0.01571
+File valve_0249_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01743
+  Segment 1: type=complex, RMSE=0.01699
+  Segment 2: type=tube, RMSE=0.01223
+  Segment 3: type=tube, RMSE=0.01184
+  Segment 4: type=complex, RMSE=0.01666
+  Segment 5: type=complex, RMSE=0.01736
+  Segment 6: type=complex, RMSE=0.02599
+  Segment 7: type=tube, RMSE=0.01491
+  Segment 8: type=plane, RMSE=0.01015
+  Segment 9: type=complex, RMSE=0.01419
+File valve_0250_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02870
+  Segment 1: type=complex, RMSE=0.01850
+  Segment 2: type=complex, RMSE=0.02004
+  Segment 3: type=tube, RMSE=0.01513
+  Segment 5: type=complex, RMSE=0.02145
+  Segment 6: type=complex, RMSE=0.02557
+  Segment 7: type=tube, RMSE=0.01192
+  Segment 9: type=complex, RMSE=0.01548
+File valve_0251_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01584
+  Segment 1: type=complex, RMSE=0.01998
+  Segment 2: type=tube, RMSE=0.01390
+  Segment 3: type=tube, RMSE=0.01254
+  Segment 4: type=complex, RMSE=0.01630
+  Segment 5: type=tube, RMSE=0.01993
+  Segment 6: type=complex, RMSE=0.02367
+  Segment 7: type=tube, RMSE=0.01464
+  Segment 8: type=complex, RMSE=0.01575
+  Segment 9: type=complex, RMSE=0.01456
+File valve_0252_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02030
+  Segment 1: type=complex, RMSE=0.01888
+  Segment 2: type=complex, RMSE=0.02164
+  Segment 3: type=tube, RMSE=0.01267
+  Segment 4: type=complex, RMSE=0.02090
+  Segment 5: type=complex, RMSE=0.01861
+  Segment 6: type=complex, RMSE=0.02725
+  Segment 7: type=tube, RMSE=0.01258
+  Segment 9: type=complex, RMSE=0.01457
+File valve_0253_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01843
+  Segment 1: type=complex, RMSE=0.02321
+  Segment 2: type=tube, RMSE=0.01399
+  Segment 3: type=plane, RMSE=0.01482
+  Segment 4: type=plane, RMSE=0.01903
+  Segment 5: type=complex, RMSE=0.01877
+  Segment 6: type=complex, RMSE=0.02742
+  Segment 7: type=tube, RMSE=0.02858
+  Segment 9: type=complex, RMSE=0.01863
+File valve_0254_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01583
+  Segment 1: type=complex, RMSE=0.02047
+  Segment 2: type=tube, RMSE=0.01414
+  Segment 3: type=tube, RMSE=0.01260
+  Segment 4: type=complex, RMSE=0.01798
+  Segment 5: type=complex, RMSE=0.01913
+  Segment 6: type=complex, RMSE=0.02448
+  Segment 7: type=tube, RMSE=0.01408
+  Segment 8: type=plane, RMSE=0.01222
+  Segment 9: type=complex, RMSE=0.01466
+File valve_0255_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01794
+  Segment 1: type=complex, RMSE=0.02277
+  Segment 2: type=complex, RMSE=0.02359
+  Segment 3: type=plane, RMSE=0.01404
+  Segment 5: type=complex, RMSE=0.01952
+  Segment 6: type=complex, RMSE=0.03344
+  Segment 7: type=tube, RMSE=0.01879
+  Segment 9: type=complex, RMSE=0.01773
+File valve_0256_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01905
+  Segment 1: type=complex, RMSE=0.02325
+  Segment 2: type=tube, RMSE=0.01425
+  Segment 3: type=complex, RMSE=0.01892
+  Segment 4: type=complex, RMSE=0.02184
+  Segment 5: type=tube, RMSE=0.03046
+  Segment 6: type=complex, RMSE=0.02849
+  Segment 7: type=tube, RMSE=0.02510
+  Segment 9: type=complex, RMSE=0.01831
+File valve_0257_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01552
+  Segment 1: type=complex, RMSE=0.01774
+  Segment 2: type=tube, RMSE=0.01150
+  Segment 3: type=tube, RMSE=0.01173
+  Segment 4: type=complex, RMSE=0.01803
+  Segment 5: type=complex, RMSE=0.01805
+  Segment 6: type=complex, RMSE=0.02563
+  Segment 7: type=tube, RMSE=0.01478
+  Segment 9: type=complex, RMSE=0.01464
+File valve_0258_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01602
+  Segment 1: type=complex, RMSE=0.01789
+  Segment 2: type=complex, RMSE=0.01848
+  Segment 3: type=complex, RMSE=0.01443
+  Segment 4: type=plane, RMSE=0.01484
+  Segment 5: type=complex, RMSE=0.01764
+  Segment 6: type=complex, RMSE=0.02123
+  Segment 7: type=tube, RMSE=0.02206
+  Segment 9: type=complex, RMSE=0.01558
+File valve_0259_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01872
+  Segment 1: type=complex, RMSE=0.02174
+  Segment 2: type=complex, RMSE=0.02540
+  Segment 3: type=complex, RMSE=0.03012
+  Segment 4: type=complex, RMSE=0.01818
+  Segment 5: type=complex, RMSE=0.02348
+  Segment 6: type=complex, RMSE=0.03007
+  Segment 7: type=tube, RMSE=0.01917
+  Segment 9: type=sphere, RMSE=0.01623
+File valve_0260_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01882
+  Segment 1: type=complex, RMSE=0.01989
+  Segment 2: type=tube, RMSE=0.01353
+  Segment 3: type=complex, RMSE=0.01700
+  Segment 4: type=complex, RMSE=0.02146
+  Segment 5: type=complex, RMSE=0.02117
+  Segment 6: type=complex, RMSE=0.02481
+  Segment 7: type=tube, RMSE=0.02250
+  Segment 9: type=complex, RMSE=0.01697
+File valve_0261_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01743
+  Segment 1: type=complex, RMSE=0.01972
+  Segment 2: type=tube, RMSE=0.01446
+  Segment 3: type=tube, RMSE=0.01130
+  Segment 4: type=complex, RMSE=0.01831
+  Segment 5: type=complex, RMSE=0.01715
+  Segment 6: type=complex, RMSE=0.02530
+  Segment 7: type=tube, RMSE=0.01752
+  Segment 9: type=complex, RMSE=0.01494
+File valve_0262_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01791
+  Segment 1: type=complex, RMSE=0.01793
+  Segment 2: type=complex, RMSE=0.01997
+  Segment 3: type=complex, RMSE=0.01495
+  Segment 4: type=complex, RMSE=0.01996
+  Segment 5: type=complex, RMSE=0.02325
+  Segment 6: type=complex, RMSE=0.02660
+  Segment 7: type=tube, RMSE=0.01594
+  Segment 9: type=complex, RMSE=0.01804
+File valve_0263_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01807
+  Segment 1: type=complex, RMSE=0.01923
+  Segment 2: type=complex, RMSE=0.02036
+  Segment 3: type=plane, RMSE=0.02789
+  Segment 4: type=plane, RMSE=0.02182
+  Segment 5: type=complex, RMSE=0.01877
+  Segment 6: type=complex, RMSE=0.02570
+  Segment 7: type=tube, RMSE=0.02867
+  Segment 9: type=complex, RMSE=0.01576
+File valve_0264_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01707
+  Segment 1: type=complex, RMSE=0.02047
+  Segment 2: type=complex, RMSE=0.02090
+  Segment 3: type=plane, RMSE=0.01392
+  Segment 4: type=complex, RMSE=0.02027
+  Segment 5: type=complex, RMSE=0.02753
+  Segment 6: type=complex, RMSE=0.02584
+  Segment 7: type=tube, RMSE=0.02057
+  Segment 9: type=complex, RMSE=0.01619
+File valve_0265_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01609
+  Segment 1: type=complex, RMSE=0.02141
+  Segment 2: type=complex, RMSE=0.02546
+  Segment 3: type=complex, RMSE=0.01918
+  Segment 4: type=plane, RMSE=0.01996
+  Segment 5: type=complex, RMSE=0.01639
+  Segment 6: type=complex, RMSE=0.02744
+  Segment 7: type=tube, RMSE=0.02439
+  Segment 8: type=plane, RMSE=0.01377
+  Segment 9: type=complex, RMSE=0.01827
+File valve_0266_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02813
+  Segment 1: type=complex, RMSE=0.02127
+  Segment 2: type=complex, RMSE=0.02186
+  Segment 3: type=tube, RMSE=0.01424
+  Segment 4: type=complex, RMSE=0.01841
+  Segment 5: type=complex, RMSE=0.02322
+  Segment 6: type=complex, RMSE=0.02842
+  Segment 7: type=tube, RMSE=0.01078
+  Segment 9: type=sphere, RMSE=0.01585
+File valve_0267_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01466
+  Segment 1: type=complex, RMSE=0.01667
+  Segment 2: type=tube, RMSE=0.01471
+  Segment 3: type=tube, RMSE=0.01159
+  Segment 4: type=complex, RMSE=0.01628
+  Segment 5: type=tube, RMSE=0.01505
+  Segment 6: type=complex, RMSE=0.02487
+  Segment 7: type=tube, RMSE=0.01436
+  Segment 9: type=complex, RMSE=0.01427
+File valve_0268_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01589
+  Segment 1: type=complex, RMSE=0.01826
+  Segment 2: type=complex, RMSE=0.02052
+  Segment 3: type=complex, RMSE=0.01515
+  Segment 4: type=plane, RMSE=0.01390
+  Segment 5: type=complex, RMSE=0.01894
+  Segment 6: type=complex, RMSE=0.02348
+  Segment 7: type=tube, RMSE=0.03330
+  Segment 9: type=complex, RMSE=0.01569
+File valve_0269_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02125
+  Segment 1: type=complex, RMSE=0.02374
+  Segment 2: type=complex, RMSE=0.02097
+  Segment 3: type=tube, RMSE=0.01400
+  Segment 5: type=complex, RMSE=0.01734
+  Segment 6: type=complex, RMSE=0.02400
+  Segment 7: type=tube, RMSE=0.01259
+  Segment 9: type=complex, RMSE=0.01495
+File valve_0270_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01907
+  Segment 1: type=complex, RMSE=0.01871
+  Segment 2: type=complex, RMSE=0.02070
+  Segment 3: type=tube, RMSE=0.01278
+  Segment 4: type=complex, RMSE=0.02048
+  Segment 5: type=complex, RMSE=0.01919
+  Segment 6: type=complex, RMSE=0.02308
+  Segment 7: type=tube, RMSE=0.01282
+  Segment 9: type=sphere, RMSE=0.01450
+File valve_0271_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02675
+  Segment 1: type=complex, RMSE=0.01956
+  Segment 2: type=complex, RMSE=0.01814
+  Segment 3: type=tube, RMSE=0.01514
+  Segment 6: type=complex, RMSE=0.02847
+  Segment 7: type=tube, RMSE=0.01174
+  Segment 9: type=sphere, RMSE=0.01538
+File valve_0272_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01620
+  Segment 1: type=complex, RMSE=0.01820
+  Segment 2: type=complex, RMSE=0.02213
+  Segment 3: type=complex, RMSE=0.01635
+  Segment 4: type=complex, RMSE=0.01786
+  Segment 5: type=complex, RMSE=0.02034
+  Segment 6: type=complex, RMSE=0.02415
+  Segment 7: type=tube, RMSE=0.01387
+  Segment 9: type=complex, RMSE=0.01730
+File valve_0273_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02313
+  Segment 1: type=complex, RMSE=0.02088
+  Segment 2: type=tube, RMSE=0.01402
+  Segment 3: type=tube, RMSE=0.01470
+  Segment 5: type=complex, RMSE=0.01911
+  Segment 6: type=complex, RMSE=0.03027
+  Segment 7: type=tube, RMSE=0.01070
+  Segment 9: type=complex, RMSE=0.01464
+File valve_0274_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01778
+  Segment 1: type=complex, RMSE=0.01863
+  Segment 2: type=tube, RMSE=0.01428
+  Segment 3: type=tube, RMSE=0.01234
+  Segment 4: type=complex, RMSE=0.01961
+  Segment 5: type=complex, RMSE=0.01660
+  Segment 6: type=complex, RMSE=0.02479
+  Segment 7: type=tube, RMSE=0.01329
+  Segment 8: type=plane, RMSE=0.01088
+  Segment 9: type=complex, RMSE=0.01463
+File valve_0275_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01958
+  Segment 1: type=complex, RMSE=0.02205
+  Segment 2: type=complex, RMSE=0.02295
+  Segment 3: type=plane, RMSE=0.01697
+  Segment 4: type=complex, RMSE=0.02191
+  Segment 5: type=tube, RMSE=0.02434
+  Segment 6: type=complex, RMSE=0.03009
+  Segment 7: type=tube, RMSE=0.01954
+  Segment 9: type=complex, RMSE=0.01845
+File valve_0276_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01568
+  Segment 1: type=complex, RMSE=0.01718
+  Segment 2: type=complex, RMSE=0.01925
+  Segment 3: type=complex, RMSE=0.01553
+  Segment 4: type=plane, RMSE=0.01661
+  Segment 5: type=complex, RMSE=0.01947
+  Segment 6: type=complex, RMSE=0.02514
+  Segment 7: type=tube, RMSE=0.02427
+  Segment 9: type=complex, RMSE=0.01573
+File valve_0277_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01886
+  Segment 1: type=complex, RMSE=0.01991
+  Segment 2: type=tube, RMSE=0.01449
+  Segment 3: type=tube, RMSE=0.01388
+  Segment 4: type=complex, RMSE=0.02174
+  Segment 5: type=complex, RMSE=0.02175
+  Segment 6: type=complex, RMSE=0.02774
+  Segment 7: type=tube, RMSE=0.01727
+  Segment 8: type=plane, RMSE=0.01285
+  Segment 9: type=complex, RMSE=0.01607
+File valve_0278_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01755
+  Segment 1: type=complex, RMSE=0.01942
+  Segment 2: type=complex, RMSE=0.02318
+  Segment 3: type=complex, RMSE=0.01845
+  Segment 4: type=complex, RMSE=0.02005
+  Segment 5: type=complex, RMSE=0.02405
+  Segment 6: type=complex, RMSE=0.02472
+  Segment 7: type=tube, RMSE=0.02451
+  Segment 9: type=complex, RMSE=0.01801
+File valve_0279_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01537
+  Segment 1: type=complex, RMSE=0.01719
+  Segment 2: type=tube, RMSE=0.01215
+  Segment 3: type=complex, RMSE=0.01438
+  Segment 4: type=plane, RMSE=0.01940
+  Segment 5: type=complex, RMSE=0.01670
+  Segment 6: type=complex, RMSE=0.02310
+  Segment 7: type=tube, RMSE=0.01422
+  Segment 9: type=complex, RMSE=0.01590
+File valve_0280_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01867
+  Segment 1: type=complex, RMSE=0.02168
+  Segment 2: type=complex, RMSE=0.02481
+  Segment 3: type=plane, RMSE=0.01642
+  Segment 4: type=complex, RMSE=0.02331
+  Segment 5: type=complex, RMSE=0.02107
+  Segment 6: type=complex, RMSE=0.03022
+  Segment 7: type=tube, RMSE=0.01802
+  Segment 9: type=complex, RMSE=0.01821
+File valve_0281_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01834
+  Segment 1: type=complex, RMSE=0.02628
+  Segment 2: type=complex, RMSE=0.02093
+  Segment 3: type=plane, RMSE=0.01544
+  Segment 4: type=plane, RMSE=0.01750
+  Segment 5: type=tube, RMSE=0.02514
+  Segment 6: type=complex, RMSE=0.02928
+  Segment 7: type=tube, RMSE=0.02373
+  Segment 9: type=complex, RMSE=0.01879
+File valve_0282_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02384
+  Segment 1: type=complex, RMSE=0.02131
+  Segment 2: type=tube, RMSE=0.01626
+  Segment 3: type=tube, RMSE=0.01322
+  Segment 5: type=complex, RMSE=0.02344
+  Segment 6: type=complex, RMSE=0.02841
+  Segment 7: type=tube, RMSE=0.01104
+  Segment 9: type=sphere, RMSE=0.01545
+File valve_0283_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01729
+  Segment 1: type=complex, RMSE=0.02098
+  Segment 2: type=tube, RMSE=0.01516
+  Segment 3: type=complex, RMSE=0.01810
+  Segment 4: type=complex, RMSE=0.02100
+  Segment 5: type=complex, RMSE=0.02096
+  Segment 6: type=complex, RMSE=0.02733
+  Segment 7: type=tube, RMSE=0.02310
+  Segment 9: type=complex, RMSE=0.01745
+File valve_0284_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01934
+  Segment 1: type=complex, RMSE=0.02176
+  Segment 2: type=tube, RMSE=0.01615
+  Segment 3: type=plane, RMSE=0.01432
+  Segment 4: type=complex, RMSE=0.02181
+  Segment 5: type=complex, RMSE=0.02120
+  Segment 6: type=complex, RMSE=0.02724
+  Segment 7: type=tube, RMSE=0.01791
+  Segment 9: type=complex, RMSE=0.01718
+File valve_0285_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01971
+  Segment 1: type=complex, RMSE=0.02199
+  Segment 2: type=complex, RMSE=0.02496
+  Segment 3: type=plane, RMSE=0.01568
+  Segment 5: type=tube, RMSE=0.01825
+  Segment 6: type=complex, RMSE=0.03165
+  Segment 7: type=tube, RMSE=0.02004
+  Segment 8: type=plane, RMSE=0.01184
+  Segment 9: type=complex, RMSE=0.01773
+File valve_0286_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01916
+  Segment 1: type=complex, RMSE=0.02209
+  Segment 2: type=tube, RMSE=0.01370
+  Segment 3: type=plane, RMSE=0.01727
+  Segment 4: type=complex, RMSE=0.02117
+  Segment 5: type=tube, RMSE=0.02366
+  Segment 6: type=complex, RMSE=0.02513
+  Segment 7: type=tube, RMSE=0.01626
+  Segment 9: type=complex, RMSE=0.01609
+File valve_0287_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02238
+  Segment 1: type=complex, RMSE=0.01823
+  Segment 2: type=complex, RMSE=0.02260
+  Segment 3: type=tube, RMSE=0.01349
+  Segment 5: type=complex, RMSE=0.02091
+  Segment 6: type=complex, RMSE=0.02700
+  Segment 7: type=tube, RMSE=0.01289
+  Segment 9: type=complex, RMSE=0.01532
+File valve_0288_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01775
+  Segment 1: type=complex, RMSE=0.01922
+  Segment 2: type=tube, RMSE=0.01419
+  Segment 3: type=plane, RMSE=0.01745
+  Segment 5: type=tube, RMSE=0.01993
+  Segment 6: type=complex, RMSE=0.02949
+  Segment 7: type=tube, RMSE=0.02697
+  Segment 9: type=complex, RMSE=0.01823
+File valve_0289_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01481
+  Segment 1: type=complex, RMSE=0.01566
+  Segment 2: type=complex, RMSE=0.01727
+  Segment 3: type=complex, RMSE=0.01417
+  Segment 4: type=plane, RMSE=0.01201
+  Segment 5: type=complex, RMSE=0.01673
+  Segment 6: type=complex, RMSE=0.02298
+  Segment 7: type=tube, RMSE=0.02302
+  Segment 9: type=complex, RMSE=0.01557
+File valve_0290_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01985
+  Segment 1: type=complex, RMSE=0.01826
+  Segment 2: type=complex, RMSE=0.02104
+  Segment 3: type=tube, RMSE=0.01382
+  Segment 5: type=complex, RMSE=0.01872
+  Segment 6: type=complex, RMSE=0.02692
+  Segment 7: type=tube, RMSE=0.01258
+  Segment 9: type=complex, RMSE=0.01600
+File valve_0291_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01570
+  Segment 1: type=complex, RMSE=0.01928
+  Segment 2: type=tube, RMSE=0.01360
+  Segment 3: type=tube, RMSE=0.01689
+  Segment 4: type=complex, RMSE=0.01634
+  Segment 5: type=complex, RMSE=0.01550
+  Segment 6: type=complex, RMSE=0.02313
+  Segment 7: type=tube, RMSE=0.01834
+  Segment 9: type=complex, RMSE=0.01509
+File valve_0292_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01571
+  Segment 1: type=complex, RMSE=0.01904
+  Segment 2: type=tube, RMSE=0.01272
+  Segment 3: type=complex, RMSE=0.01409
+  Segment 4: type=plane, RMSE=0.01600
+  Segment 5: type=complex, RMSE=0.01897
+  Segment 6: type=complex, RMSE=0.02329
+  Segment 7: type=tube, RMSE=0.01814
+  Segment 8: type=plane, RMSE=0.01195
+  Segment 9: type=complex, RMSE=0.01547
+File valve_0293_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02669
+  Segment 1: type=complex, RMSE=0.01879
+  Segment 2: type=tube, RMSE=0.01375
+  Segment 3: type=tube, RMSE=0.01292
+  Segment 5: type=complex, RMSE=0.02165
+  Segment 6: type=complex, RMSE=0.02692
+  Segment 7: type=tube, RMSE=0.01133
+  Segment 9: type=sphere, RMSE=0.01582
+File valve_0294_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01639
+  Segment 1: type=complex, RMSE=0.01972
+  Segment 2: type=complex, RMSE=0.01818
+  Segment 3: type=tube, RMSE=0.01227
+  Segment 4: type=complex, RMSE=0.02341
+  Segment 5: type=complex, RMSE=0.01683
+  Segment 6: type=complex, RMSE=0.02376
+  Segment 7: type=tube, RMSE=0.01407
+  Segment 8: type=complex, RMSE=0.01567
+  Segment 9: type=complex, RMSE=0.01489
+File valve_0295_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02743
+  Segment 1: type=complex, RMSE=0.02015
+  Segment 2: type=complex, RMSE=0.02311
+  Segment 3: type=tube, RMSE=0.01331
+  Segment 5: type=plane, RMSE=0.01687
+  Segment 6: type=complex, RMSE=0.03000
+  Segment 7: type=tube, RMSE=0.01225
+  Segment 9: type=complex, RMSE=0.01548
+File valve_0296_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01550
+  Segment 1: type=complex, RMSE=0.02082
+  Segment 2: type=tube, RMSE=0.01403
+  Segment 3: type=complex, RMSE=0.02107
+  Segment 4: type=complex, RMSE=0.02138
+  Segment 5: type=complex, RMSE=0.01859
+  Segment 6: type=complex, RMSE=0.02379
+  Segment 7: type=tube, RMSE=0.01589
+  Segment 9: type=complex, RMSE=0.01469
+File valve_0297_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01695
+  Segment 1: type=complex, RMSE=0.01938
+  Segment 2: type=tube, RMSE=0.01294
+  Segment 3: type=complex, RMSE=0.01497
+  Segment 4: type=complex, RMSE=0.01667
+  Segment 5: type=complex, RMSE=0.01631
+  Segment 6: type=complex, RMSE=0.02411
+  Segment 7: type=tube, RMSE=0.01432
+  Segment 8: type=plane, RMSE=0.01214
+  Segment 9: type=complex, RMSE=0.01594
+File valve_0298_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01704
+  Segment 1: type=complex, RMSE=0.01864
+  Segment 2: type=tube, RMSE=0.01377
+  Segment 3: type=tube, RMSE=0.01227
+  Segment 4: type=complex, RMSE=0.01890
+  Segment 5: type=complex, RMSE=0.01928
+  Segment 6: type=complex, RMSE=0.02668
+  Segment 7: type=tube, RMSE=0.01173
+  Segment 8: type=plane, RMSE=0.01136
+  Segment 9: type=complex, RMSE=0.01492
+File valve_0299_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01767
+  Segment 1: type=complex, RMSE=0.01900
+  Segment 2: type=tube, RMSE=0.01398
+  Segment 3: type=tube, RMSE=0.01262
+  Segment 4: type=complex, RMSE=0.02118
+  Segment 5: type=complex, RMSE=0.02029
+  Segment 6: type=complex, RMSE=0.02484
+  Segment 7: type=tube, RMSE=0.01402
+  Segment 8: type=plane, RMSE=0.01249
+  Segment 9: type=complex, RMSE=0.01518
+File valve_0300_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01547
+  Segment 1: type=complex, RMSE=0.01630
+  Segment 2: type=tube, RMSE=0.01222
+  Segment 3: type=complex, RMSE=0.01366
+  Segment 4: type=plane, RMSE=0.02055
+  Segment 5: type=tube, RMSE=0.01369
+  Segment 6: type=complex, RMSE=0.02165
+  Segment 7: type=tube, RMSE=0.02125
+  Segment 8: type=plane, RMSE=0.01205
+  Segment 9: type=complex, RMSE=0.01461
+File valve_0301_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01643
+  Segment 1: type=complex, RMSE=0.01869
+  Segment 2: type=tube, RMSE=0.01331
+  Segment 3: type=complex, RMSE=0.01501
+  Segment 4: type=plane, RMSE=0.03010
+  Segment 5: type=complex, RMSE=0.01912
+  Segment 6: type=complex, RMSE=0.02154
+  Segment 7: type=tube, RMSE=0.02896
+  Segment 9: type=complex, RMSE=0.01562
+File valve_0302_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01675
+  Segment 1: type=complex, RMSE=0.01946
+  Segment 2: type=tube, RMSE=0.01139
+  Segment 3: type=tube, RMSE=0.01184
+  Segment 4: type=complex, RMSE=0.01762
+  Segment 5: type=complex, RMSE=0.01747
+  Segment 6: type=complex, RMSE=0.02440
+  Segment 7: type=tube, RMSE=0.01564
+  Segment 8: type=plane, RMSE=0.01077
+  Segment 9: type=complex, RMSE=0.01423
+File valve_0303_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01878
+  Segment 1: type=complex, RMSE=0.02004
+  Segment 2: type=complex, RMSE=0.02132
+  Segment 3: type=plane, RMSE=0.01609
+  Segment 5: type=complex, RMSE=0.02288
+  Segment 6: type=complex, RMSE=0.02816
+  Segment 7: type=tube, RMSE=0.02091
+  Segment 9: type=complex, RMSE=0.01867
+File valve_0304_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01615
+  Segment 1: type=complex, RMSE=0.01636
+  Segment 2: type=tube, RMSE=0.01286
+  Segment 3: type=complex, RMSE=0.01411
+  Segment 4: type=plane, RMSE=0.01289
+  Segment 5: type=complex, RMSE=0.01888
+  Segment 6: type=complex, RMSE=0.02282
+  Segment 7: type=tube, RMSE=0.03630
+  Segment 8: type=plane, RMSE=0.01183
+  Segment 9: type=complex, RMSE=0.01661
+File valve_0305_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01972
+  Segment 1: type=complex, RMSE=0.01915
+  Segment 2: type=tube, RMSE=0.01416
+  Segment 3: type=plane, RMSE=0.01550
+  Segment 4: type=complex, RMSE=0.02056
+  Segment 5: type=complex, RMSE=0.02009
+  Segment 6: type=complex, RMSE=0.02519
+  Segment 7: type=tube, RMSE=0.01668
+  Segment 9: type=sphere, RMSE=0.01634
+File valve_0306_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01988
+  Segment 1: type=complex, RMSE=0.02010
+  Segment 2: type=complex, RMSE=0.01927
+  Segment 3: type=plane, RMSE=0.01502
+  Segment 5: type=complex, RMSE=0.01946
+  Segment 6: type=complex, RMSE=0.02722
+  Segment 7: type=tube, RMSE=0.01607
+  Segment 9: type=complex, RMSE=0.01641
+File valve_0307_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01721
+  Segment 1: type=complex, RMSE=0.01831
+  Segment 2: type=complex, RMSE=0.02218
+  Segment 3: type=plane, RMSE=0.04528
+  Segment 4: type=complex, RMSE=0.01820
+  Segment 5: type=complex, RMSE=0.01934
+  Segment 6: type=complex, RMSE=0.02562
+  Segment 7: type=tube, RMSE=0.02767
+  Segment 9: type=complex, RMSE=0.01571
+File valve_0308_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02304
+  Segment 1: type=complex, RMSE=0.01985
+  Segment 2: type=complex, RMSE=0.01961
+  Segment 3: type=tube, RMSE=0.01328
+  Segment 5: type=complex, RMSE=0.02038
+  Segment 6: type=complex, RMSE=0.02758
+  Segment 7: type=tube, RMSE=0.01311
+  Segment 9: type=sphere, RMSE=0.01592
+File valve_0309_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01797
+  Segment 1: type=complex, RMSE=0.02165
+  Segment 2: type=complex, RMSE=0.02273
+  Segment 3: type=plane, RMSE=0.01316
+  Segment 5: type=tube, RMSE=0.01928
+  Segment 6: type=complex, RMSE=0.02912
+  Segment 7: type=tube, RMSE=0.01854
+  Segment 9: type=complex, RMSE=0.01724
+File valve_0310_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01865
+  Segment 1: type=complex, RMSE=0.02334
+  Segment 2: type=complex, RMSE=0.02112
+  Segment 3: type=plane, RMSE=0.01524
+  Segment 5: type=tube, RMSE=0.01938
+  Segment 6: type=complex, RMSE=0.02834
+  Segment 7: type=tube, RMSE=0.01970
+  Segment 9: type=complex, RMSE=0.01764
+File valve_0311_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02002
+  Segment 1: type=complex, RMSE=0.02292
+  Segment 2: type=complex, RMSE=0.02626
+  Segment 3: type=plane, RMSE=0.01701
+  Segment 5: type=tube, RMSE=0.01862
+  Segment 6: type=complex, RMSE=0.02630
+  Segment 7: type=tube, RMSE=0.01847
+  Segment 9: type=complex, RMSE=0.01713
+File valve_0312_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01909
+  Segment 1: type=complex, RMSE=0.02347
+  Segment 2: type=complex, RMSE=0.02404
+  Segment 3: type=plane, RMSE=0.01530
+  Segment 4: type=complex, RMSE=0.02010
+  Segment 5: type=complex, RMSE=0.02398
+  Segment 6: type=complex, RMSE=0.02851
+  Segment 7: type=tube, RMSE=0.02070
+  Segment 8: type=plane, RMSE=0.01233
+  Segment 9: type=complex, RMSE=0.01743
+File valve_0313_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01805
+  Segment 1: type=complex, RMSE=0.02272
+  Segment 2: type=complex, RMSE=0.02596
+  Segment 3: type=plane, RMSE=0.01313
+  Segment 5: type=tube, RMSE=0.02240
+  Segment 6: type=complex, RMSE=0.02687
+  Segment 7: type=tube, RMSE=0.01941
+  Segment 9: type=complex, RMSE=0.01708
+File valve_0314_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01654
+  Segment 1: type=complex, RMSE=0.01802
+  Segment 2: type=complex, RMSE=0.01900
+  Segment 3: type=complex, RMSE=0.01616
+  Segment 4: type=complex, RMSE=0.02199
+  Segment 5: type=complex, RMSE=0.01990
+  Segment 6: type=complex, RMSE=0.02629
+  Segment 7: type=tube, RMSE=0.01455
+  Segment 9: type=complex, RMSE=0.01929
+File valve_0315_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01662
+  Segment 1: type=complex, RMSE=0.02052
+  Segment 2: type=tube, RMSE=0.01391
+  Segment 3: type=tube, RMSE=0.01338
+  Segment 4: type=complex, RMSE=0.02124
+  Segment 5: type=tube, RMSE=0.01415
+  Segment 6: type=complex, RMSE=0.02683
+  Segment 7: type=tube, RMSE=0.01885
+  Segment 8: type=plane, RMSE=0.01126
+  Segment 9: type=complex, RMSE=0.01560
+File valve_0316_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01669
+  Segment 1: type=complex, RMSE=0.02031
+  Segment 2: type=tube, RMSE=0.01403
+  Segment 3: type=complex, RMSE=0.01460
+  Segment 4: type=complex, RMSE=0.01951
+  Segment 5: type=complex, RMSE=0.01701
+  Segment 6: type=complex, RMSE=0.02350
+  Segment 7: type=tube, RMSE=0.01358
+  Segment 9: type=complex, RMSE=0.01590
+File valve_0317_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01720
+  Segment 1: type=complex, RMSE=0.02023
+  Segment 2: type=complex, RMSE=0.02148
+  Segment 3: type=plane, RMSE=0.01397
+  Segment 4: type=complex, RMSE=0.01723
+  Segment 5: type=complex, RMSE=0.01614
+  Segment 6: type=complex, RMSE=0.02672
+  Segment 7: type=tube, RMSE=0.01622
+  Segment 9: type=complex, RMSE=0.01581
+File valve_0318_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01775
+  Segment 1: type=complex, RMSE=0.01812
+  Segment 2: type=complex, RMSE=0.02457
+  Segment 3: type=complex, RMSE=0.01713
+  Segment 4: type=complex, RMSE=0.01904
+  Segment 5: type=complex, RMSE=0.02238
+  Segment 6: type=complex, RMSE=0.02679
+  Segment 7: type=tube, RMSE=0.02465
+  Segment 9: type=complex, RMSE=0.01966
+File valve_0319_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02397
+  Segment 1: type=complex, RMSE=0.02086
+  Segment 2: type=complex, RMSE=0.01960
+  Segment 3: type=tube, RMSE=0.01537
+  Segment 5: type=plane, RMSE=0.01470
+  Segment 6: type=complex, RMSE=0.02976
+  Segment 7: type=tube, RMSE=0.01102
+  Segment 9: type=complex, RMSE=0.01606
+File valve_0320_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01650
+  Segment 1: type=complex, RMSE=0.01970
+  Segment 2: type=tube, RMSE=0.01561
+  Segment 3: type=tube, RMSE=0.01321
+  Segment 4: type=complex, RMSE=0.02376
+  Segment 5: type=complex, RMSE=0.02204
+  Segment 6: type=complex, RMSE=0.02563
+  Segment 7: type=tube, RMSE=0.02187
+  Segment 8: type=plane, RMSE=0.01258
+  Segment 9: type=complex, RMSE=0.01620
+File valve_0321_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01561
+  Segment 1: type=complex, RMSE=0.01964
+  Segment 2: type=tube, RMSE=0.01281
+  Segment 3: type=tube, RMSE=0.01199
+  Segment 4: type=complex, RMSE=0.01875
+  Segment 5: type=complex, RMSE=0.02114
+  Segment 6: type=complex, RMSE=0.02363
+  Segment 7: type=tube, RMSE=0.01424
+  Segment 8: type=plane, RMSE=0.01155
+  Segment 9: type=complex, RMSE=0.01437
+File valve_0322_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01691
+  Segment 1: type=complex, RMSE=0.01777
+  Segment 2: type=tube, RMSE=0.01208
+  Segment 3: type=complex, RMSE=0.01443
+  Segment 4: type=plane, RMSE=0.02194
+  Segment 5: type=tube, RMSE=0.01665
+  Segment 6: type=complex, RMSE=0.02197
+  Segment 7: type=tube, RMSE=0.02960
+  Segment 8: type=plane, RMSE=0.01069
+  Segment 9: type=complex, RMSE=0.01552
+File valve_0323_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01823
+  Segment 1: type=complex, RMSE=0.01859
+  Segment 2: type=tube, RMSE=0.01434
+  Segment 3: type=complex, RMSE=0.01767
+  Segment 4: type=complex, RMSE=0.02071
+  Segment 5: type=complex, RMSE=0.02496
+  Segment 6: type=complex, RMSE=0.02814
+  Segment 7: type=tube, RMSE=0.02784
+  Segment 9: type=complex, RMSE=0.01846
+File valve_0324_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01652
+  Segment 1: type=complex, RMSE=0.01775
+  Segment 2: type=plane, RMSE=0.01549
+  Segment 3: type=tube, RMSE=0.01375
+  Segment 5: type=complex, RMSE=0.01971
+  Segment 6: type=complex, RMSE=0.02705
+  Segment 7: type=tube, RMSE=0.01308
+  Segment 9: type=complex, RMSE=0.01570
+File valve_0325_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01614
+  Segment 1: type=complex, RMSE=0.01773
+  Segment 2: type=complex, RMSE=0.01934
+  Segment 3: type=complex, RMSE=0.01414
+  Segment 4: type=plane, RMSE=0.01399
+  Segment 5: type=complex, RMSE=0.01789
+  Segment 6: type=complex, RMSE=0.02514
+  Segment 7: type=tube, RMSE=0.03307
+  Segment 8: type=plane, RMSE=0.01145
+  Segment 9: type=complex, RMSE=0.01606
+File valve_0326_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01507
+  Segment 1: type=complex, RMSE=0.01629
+  Segment 2: type=complex, RMSE=0.01866
+  Segment 3: type=tube, RMSE=0.01196
+  Segment 4: type=complex, RMSE=0.01812
+  Segment 5: type=complex, RMSE=0.01894
+  Segment 6: type=complex, RMSE=0.02259
+  Segment 7: type=tube, RMSE=0.01601
+  Segment 9: type=complex, RMSE=0.01510
+File valve_0327_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02491
+  Segment 1: type=complex, RMSE=0.02072
+  Segment 2: type=complex, RMSE=0.02060
+  Segment 3: type=tube, RMSE=0.01300
+  Segment 4: type=complex, RMSE=0.01767
+  Segment 5: type=complex, RMSE=0.02130
+  Segment 6: type=complex, RMSE=0.02509
+  Segment 7: type=tube, RMSE=0.01070
+  Segment 9: type=sphere, RMSE=0.01565
+File valve_0328_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01845
+  Segment 1: type=complex, RMSE=0.01766
+  Segment 2: type=complex, RMSE=0.02181
+  Segment 3: type=tube, RMSE=0.01188
+  Segment 6: type=complex, RMSE=0.02711
+  Segment 7: type=tube, RMSE=0.01338
+  Segment 9: type=complex, RMSE=0.01497
+File valve_0329_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01828
+  Segment 1: type=complex, RMSE=0.02395
+  Segment 2: type=complex, RMSE=0.02356
+  Segment 3: type=plane, RMSE=0.01567
+  Segment 5: type=complex, RMSE=0.02332
+  Segment 6: type=complex, RMSE=0.03215
+  Segment 7: type=tube, RMSE=0.02556
+  Segment 9: type=complex, RMSE=0.01753
+File valve_0330_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01465
+  Segment 1: type=complex, RMSE=0.01979
+  Segment 2: type=tube, RMSE=0.01540
+  Segment 3: type=tube, RMSE=0.01237
+  Segment 4: type=complex, RMSE=0.02232
+  Segment 5: type=complex, RMSE=0.01854
+  Segment 6: type=complex, RMSE=0.02498
+  Segment 7: type=tube, RMSE=0.01473
+  Segment 8: type=plane, RMSE=0.01044
+  Segment 9: type=complex, RMSE=0.01481
+File valve_0331_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01802
+  Segment 1: type=complex, RMSE=0.02189
+  Segment 2: type=tube, RMSE=0.01551
+  Segment 3: type=plane, RMSE=0.01420
+  Segment 4: type=complex, RMSE=0.02247
+  Segment 5: type=tube, RMSE=0.03194
+  Segment 6: type=complex, RMSE=0.02796
+  Segment 7: type=tube, RMSE=0.02548
+  Segment 9: type=complex, RMSE=0.01887
+File valve_0332_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01538
+  Segment 1: type=complex, RMSE=0.01727
+  Segment 2: type=complex, RMSE=0.01965
+  Segment 3: type=complex, RMSE=0.01385
+  Segment 4: type=complex, RMSE=0.01607
+  Segment 5: type=complex, RMSE=0.01625
+  Segment 6: type=complex, RMSE=0.02384
+  Segment 7: type=tube, RMSE=0.01944
+  Segment 8: type=plane, RMSE=0.01168
+  Segment 9: type=complex, RMSE=0.01557
+File valve_0333_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01829
+  Segment 1: type=complex, RMSE=0.01921
+  Segment 2: type=tube, RMSE=0.01527
+  Segment 3: type=tube, RMSE=0.01429
+  Segment 4: type=complex, RMSE=0.02011
+  Segment 5: type=complex, RMSE=0.01987
+  Segment 6: type=complex, RMSE=0.02522
+  Segment 7: type=tube, RMSE=0.01580
+  Segment 8: type=plane, RMSE=0.01220
+  Segment 9: type=complex, RMSE=0.01546
+File valve_0334_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01559
+  Segment 1: type=complex, RMSE=0.01905
+  Segment 2: type=tube, RMSE=0.01325
+  Segment 3: type=complex, RMSE=0.01302
+  Segment 4: type=complex, RMSE=0.01718
+  Segment 5: type=complex, RMSE=0.01762
+  Segment 6: type=complex, RMSE=0.02313
+  Segment 7: type=tube, RMSE=0.01483
+  Segment 9: type=complex, RMSE=0.01599
+File valve_0335_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01855
+  Segment 1: type=complex, RMSE=0.02170
+  Segment 2: type=tube, RMSE=0.01349
+  Segment 3: type=plane, RMSE=0.01599
+  Segment 4: type=complex, RMSE=0.01802
+  Segment 5: type=complex, RMSE=0.02118
+  Segment 6: type=complex, RMSE=0.02625
+  Segment 7: type=tube, RMSE=0.01911
+  Segment 9: type=complex, RMSE=0.01648
+File valve_0336_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.01939
+  Segment 1: type=complex, RMSE=0.01877
+  Segment 2: type=complex, RMSE=0.02163
+  Segment 3: type=tube, RMSE=0.01283
+  Segment 6: type=complex, RMSE=0.03047
+  Segment 7: type=tube, RMSE=0.01323
+  Segment 9: type=complex, RMSE=0.01498
+File valve_0337_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01594
+  Segment 1: type=complex, RMSE=0.01935
+  Segment 2: type=complex, RMSE=0.01966
+  Segment 3: type=tube, RMSE=0.01236
+  Segment 4: type=complex, RMSE=0.01852
+  Segment 5: type=tube, RMSE=0.01767
+  Segment 6: type=complex, RMSE=0.02485
+  Segment 7: type=tube, RMSE=0.01833
+  Segment 8: type=plane, RMSE=0.01097
+  Segment 9: type=complex, RMSE=0.01594
+File valve_0338_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01522
+  Segment 1: type=complex, RMSE=0.01660
+  Segment 2: type=complex, RMSE=0.01864
+  Segment 3: type=complex, RMSE=0.01507
+  Segment 4: type=complex, RMSE=0.01715
+  Segment 5: type=complex, RMSE=0.01590
+  Segment 6: type=complex, RMSE=0.02295
+  Segment 7: type=tube, RMSE=0.02110
+  Segment 9: type=complex, RMSE=0.01565
+File valve_0339_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01493
+  Segment 1: type=complex, RMSE=0.02543
+  Segment 2: type=tube, RMSE=0.01420
+  Segment 3: type=complex, RMSE=0.01432
+  Segment 4: type=plane, RMSE=0.02644
+  Segment 5: type=tube, RMSE=0.01499
+  Segment 6: type=complex, RMSE=0.02432
+  Segment 7: type=tube, RMSE=0.01370
+  Segment 9: type=complex, RMSE=0.01706
+File valve_0340_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01582
+  Segment 1: type=complex, RMSE=0.01872
+  Segment 2: type=complex, RMSE=0.01868
+  Segment 3: type=complex, RMSE=0.01515
+  Segment 4: type=complex, RMSE=0.01576
+  Segment 5: type=complex, RMSE=0.01723
+  Segment 6: type=complex, RMSE=0.02391
+  Segment 7: type=tube, RMSE=0.01249
+  Segment 9: type=complex, RMSE=0.01997
+File valve_0341_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01756
+  Segment 1: type=complex, RMSE=0.02107
+  Segment 2: type=complex, RMSE=0.02196
+  Segment 3: type=complex, RMSE=0.02630
+  Segment 4: type=complex, RMSE=0.01857
+  Segment 5: type=plane, RMSE=0.01548
+  Segment 6: type=complex, RMSE=0.02332
+  Segment 7: type=tube, RMSE=0.02214
+  Segment 9: type=sphere, RMSE=0.01600
+File valve_0342_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01594
+  Segment 1: type=complex, RMSE=0.01791
+  Segment 2: type=complex, RMSE=0.02140
+  Segment 3: type=tube, RMSE=0.01275
+  Segment 5: type=complex, RMSE=0.02224
+  Segment 6: type=complex, RMSE=0.02346
+  Segment 7: type=tube, RMSE=0.01350
+  Segment 9: type=complex, RMSE=0.01543
+File valve_0343_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01513
+  Segment 1: type=complex, RMSE=0.02029
+  Segment 2: type=tube, RMSE=0.01263
+  Segment 3: type=tube, RMSE=0.01292
+  Segment 4: type=complex, RMSE=0.01707
+  Segment 5: type=tube, RMSE=0.01546
+  Segment 6: type=complex, RMSE=0.02283
+  Segment 7: type=tube, RMSE=0.01500
+  Segment 8: type=plane, RMSE=0.01171
+  Segment 9: type=complex, RMSE=0.01445
+File valve_0344_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01637
+  Segment 1: type=complex, RMSE=0.01989
+  Segment 2: type=tube, RMSE=0.01399
+  Segment 3: type=complex, RMSE=0.02283
+  Segment 4: type=complex, RMSE=0.02292
+  Segment 5: type=plane, RMSE=0.01244
+  Segment 6: type=complex, RMSE=0.02274
+  Segment 7: type=tube, RMSE=0.01524
+  Segment 9: type=complex, RMSE=0.01452
+File valve_0345_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01647
+  Segment 1: type=complex, RMSE=0.01827
+  Segment 2: type=tube, RMSE=0.01289
+  Segment 3: type=tube, RMSE=0.01342
+  Segment 4: type=complex, RMSE=0.01783
+  Segment 5: type=complex, RMSE=0.01894
+  Segment 6: type=complex, RMSE=0.02271
+  Segment 7: type=tube, RMSE=0.01744
+  Segment 8: type=plane, RMSE=0.01105
+  Segment 9: type=complex, RMSE=0.01447
+File valve_0346_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01669
+  Segment 1: type=complex, RMSE=0.01771
+  Segment 2: type=tube, RMSE=0.01283
+  Segment 3: type=tube, RMSE=0.01233
+  Segment 4: type=complex, RMSE=0.02156
+  Segment 5: type=complex, RMSE=0.02029
+  Segment 6: type=complex, RMSE=0.02707
+  Segment 7: type=tube, RMSE=0.01301
+  Segment 8: type=complex, RMSE=0.01451
+  Segment 9: type=complex, RMSE=0.01515
+File valve_0347_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01689
+  Segment 1: type=complex, RMSE=0.01916
+  Segment 2: type=complex, RMSE=0.01889
+  Segment 3: type=tube, RMSE=0.01459
+  Segment 4: type=complex, RMSE=0.02320
+  Segment 5: type=plane, RMSE=0.01519
+  Segment 6: type=complex, RMSE=0.02628
+  Segment 7: type=tube, RMSE=0.01675
+  Segment 9: type=sphere, RMSE=0.01615
+File valve_0348_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02221
+  Segment 1: type=complex, RMSE=0.01974
+  Segment 2: type=complex, RMSE=0.01777
+  Segment 3: type=tube, RMSE=0.01378
+  Segment 5: type=complex, RMSE=0.02213
+  Segment 6: type=complex, RMSE=0.02583
+  Segment 7: type=tube, RMSE=0.01072
+  Segment 9: type=sphere, RMSE=0.01489
+File valve_0349_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.02011
+  Segment 1: type=complex, RMSE=0.02087
+  Segment 2: type=complex, RMSE=0.02114
+  Segment 3: type=plane, RMSE=0.01453
+  Segment 4: type=plane, RMSE=0.01478
+  Segment 5: type=tube, RMSE=0.01870
+  Segment 6: type=complex, RMSE=0.02839
+  Segment 7: type=tube, RMSE=0.02069
+  Segment 9: type=complex, RMSE=0.01796
+File valve_0350_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01761
+  Segment 1: type=complex, RMSE=0.02149
+  Segment 2: type=complex, RMSE=0.02117
+  Segment 3: type=plane, RMSE=0.02398
+  Segment 5: type=plane, RMSE=0.01667
+  Segment 6: type=complex, RMSE=0.02501
+  Segment 7: type=tube, RMSE=0.02122
+  Segment 9: type=complex, RMSE=0.01587
+File valve_0351_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01665
+  Segment 1: type=complex, RMSE=0.02029
+  Segment 2: type=complex, RMSE=0.01976
+  Segment 3: type=complex, RMSE=0.01731
+  Segment 4: type=complex, RMSE=0.01974
+  Segment 5: type=plane, RMSE=0.01715
+  Segment 6: type=complex, RMSE=0.02256
+  Segment 7: type=tube, RMSE=0.02134
+  Segment 9: type=complex, RMSE=0.01612
+File valve_0352_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01634
+  Segment 1: type=complex, RMSE=0.01849
+  Segment 2: type=complex, RMSE=0.02145
+  Segment 3: type=plane, RMSE=0.03262
+  Segment 4: type=complex, RMSE=0.02347
+  Segment 5: type=complex, RMSE=0.01941
+  Segment 6: type=complex, RMSE=0.02369
+  Segment 7: type=tube, RMSE=0.02083
+  Segment 9: type=complex, RMSE=0.01588
+File valve_0353_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01530
+  Segment 1: type=complex, RMSE=0.01685
+  Segment 2: type=tube, RMSE=0.01335
+  Segment 3: type=tube, RMSE=0.01240
+  Segment 4: type=complex, RMSE=0.02027
+  Segment 5: type=complex, RMSE=0.01702
+  Segment 6: type=complex, RMSE=0.02526
+  Segment 7: type=tube, RMSE=0.01824
+  Segment 8: type=plane, RMSE=0.01234
+  Segment 9: type=complex, RMSE=0.01421
+File valve_0354_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01595
+  Segment 1: type=complex, RMSE=0.01826
+  Segment 2: type=complex, RMSE=0.01902
+  Segment 3: type=complex, RMSE=0.01600
+  Segment 4: type=complex, RMSE=0.01835
+  Segment 5: type=complex, RMSE=0.01632
+  Segment 6: type=complex, RMSE=0.02435
+  Segment 7: type=tube, RMSE=0.01272
+  Segment 9: type=complex, RMSE=0.01619
+File valve_0355_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01667
+  Segment 1: type=complex, RMSE=0.01750
+  Segment 2: type=complex, RMSE=0.02087
+  Segment 3: type=complex, RMSE=0.01458
+  Segment 4: type=complex, RMSE=0.01757
+  Segment 5: type=complex, RMSE=0.01759
+  Segment 6: type=complex, RMSE=0.02365
+  Segment 7: type=tube, RMSE=0.01430
+  Segment 9: type=complex, RMSE=0.02027
+File valve_0356_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01720
+  Segment 1: type=complex, RMSE=0.02224
+  Segment 2: type=complex, RMSE=0.02028
+  Segment 3: type=complex, RMSE=0.01367
+  Segment 4: type=complex, RMSE=0.01799
+  Segment 5: type=complex, RMSE=0.02008
+  Segment 6: type=complex, RMSE=0.02388
+  Segment 7: type=tube, RMSE=0.01337
+  Segment 9: type=complex, RMSE=0.01854
+File valve_0357_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01401
+  Segment 1: type=complex, RMSE=0.01768
+  Segment 2: type=tube, RMSE=0.01298
+  Segment 3: type=tube, RMSE=0.01308
+  Segment 4: type=complex, RMSE=0.01845
+  Segment 5: type=plane, RMSE=0.01313
+  Segment 6: type=complex, RMSE=0.02419
+  Segment 7: type=tube, RMSE=0.01465
+  Segment 9: type=complex, RMSE=0.01491
+File valve_0358_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01872
+  Segment 1: type=complex, RMSE=0.01917
+  Segment 2: type=complex, RMSE=0.02145
+  Segment 3: type=plane, RMSE=0.03113
+  Segment 4: type=plane, RMSE=0.02433
+  Segment 5: type=plane, RMSE=0.01465
+  Segment 6: type=complex, RMSE=0.02591
+  Segment 7: type=tube, RMSE=0.02210
+  Segment 9: type=complex, RMSE=0.01548
+File valve_0359_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01673
+  Segment 1: type=complex, RMSE=0.01808
+  Segment 2: type=complex, RMSE=0.01970
+  Segment 3: type=complex, RMSE=0.01408
+  Segment 4: type=complex, RMSE=0.01567
+  Segment 5: type=complex, RMSE=0.01648
+  Segment 6: type=complex, RMSE=0.02298
+  Segment 7: type=tube, RMSE=0.02853
+  Segment 8: type=plane, RMSE=0.01215
+  Segment 9: type=complex, RMSE=0.01578
+File valve_0360_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01678
+  Segment 1: type=complex, RMSE=0.01981
+  Segment 2: type=complex, RMSE=0.02440
+  Segment 3: type=plane, RMSE=0.02718
+  Segment 4: type=complex, RMSE=0.01783
+  Segment 5: type=complex, RMSE=0.02280
+  Segment 6: type=complex, RMSE=0.02474
+  Segment 7: type=tube, RMSE=0.03325
+  Segment 9: type=complex, RMSE=0.01581
+File valve_0361_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01814
+  Segment 1: type=complex, RMSE=0.02346
+  Segment 2: type=complex, RMSE=0.02168
+  Segment 3: type=plane, RMSE=0.01392
+  Segment 5: type=complex, RMSE=0.02680
+  Segment 6: type=complex, RMSE=0.02521
+  Segment 7: type=tube, RMSE=0.02079
+  Segment 9: type=complex, RMSE=0.01687
+File valve_0362_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01817
+  Segment 1: type=complex, RMSE=0.01665
+  Segment 2: type=tube, RMSE=0.01391
+  Segment 3: type=tube, RMSE=0.01251
+  Segment 4: type=complex, RMSE=0.02005
+  Segment 5: type=complex, RMSE=0.01693
+  Segment 6: type=complex, RMSE=0.02723
+  Segment 7: type=tube, RMSE=0.01317
+  Segment 8: type=plane, RMSE=0.01041
+  Segment 9: type=complex, RMSE=0.01530
+File valve_0363_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01507
+  Segment 1: type=complex, RMSE=0.01645
+  Segment 2: type=complex, RMSE=0.01804
+  Segment 3: type=tube, RMSE=0.01188
+  Segment 4: type=complex, RMSE=0.01598
+  Segment 5: type=complex, RMSE=0.02147
+  Segment 6: type=complex, RMSE=0.02508
+  Segment 7: type=tube, RMSE=0.01451
+  Segment 8: type=plane, RMSE=0.01290
+  Segment 9: type=complex, RMSE=0.01389
+File valve_0364_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01607
+  Segment 1: type=complex, RMSE=0.01698
+  Segment 2: type=complex, RMSE=0.01862
+  Segment 3: type=tube, RMSE=0.01273
+  Segment 5: type=complex, RMSE=0.01947
+  Segment 6: type=complex, RMSE=0.02788
+  Segment 7: type=tube, RMSE=0.01215
+  Segment 8: type=plane, RMSE=0.01236
+  Segment 9: type=complex, RMSE=0.01518
+File valve_0365_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02279
+  Segment 1: type=complex, RMSE=0.01936
+  Segment 2: type=complex, RMSE=0.02187
+  Segment 3: type=tube, RMSE=0.01471
+  Segment 4: type=complex, RMSE=0.01925
+  Segment 5: type=complex, RMSE=0.01899
+  Segment 6: type=complex, RMSE=0.02692
+  Segment 7: type=tube, RMSE=0.01412
+  Segment 9: type=sphere, RMSE=0.01568
+File valve_0366_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01584
+  Segment 1: type=complex, RMSE=0.01676
+  Segment 2: type=complex, RMSE=0.02156
+  Segment 3: type=complex, RMSE=0.01532
+  Segment 5: type=complex, RMSE=0.02197
+  Segment 6: type=complex, RMSE=0.02472
+  Segment 7: type=tube, RMSE=0.01279
+  Segment 9: type=complex, RMSE=0.01901
+File valve_0367_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01485
+  Segment 1: type=complex, RMSE=0.01608
+  Segment 2: type=tube, RMSE=0.01325
+  Segment 3: type=complex, RMSE=0.01367
+  Segment 4: type=complex, RMSE=0.01551
+  Segment 5: type=complex, RMSE=0.01654
+  Segment 6: type=complex, RMSE=0.02189
+  Segment 7: type=tube, RMSE=0.02426
+  Segment 8: type=plane, RMSE=0.01203
+  Segment 9: type=complex, RMSE=0.01513
+File valve_0368_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01489
+  Segment 1: type=complex, RMSE=0.01779
+  Segment 2: type=complex, RMSE=0.02165
+  Segment 3: type=plane, RMSE=0.01703
+  Segment 4: type=plane, RMSE=0.01449
+  Segment 5: type=complex, RMSE=0.01588
+  Segment 6: type=complex, RMSE=0.02191
+  Segment 7: type=tube, RMSE=0.02864
+  Segment 9: type=complex, RMSE=0.01544
+File valve_0369_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01828
+  Segment 1: type=complex, RMSE=0.02248
+  Segment 2: type=tube, RMSE=0.01353
+  Segment 3: type=plane, RMSE=0.01428
+  Segment 4: type=plane, RMSE=0.01663
+  Segment 5: type=complex, RMSE=0.02343
+  Segment 6: type=complex, RMSE=0.02962
+  Segment 7: type=tube, RMSE=0.02433
+  Segment 9: type=complex, RMSE=0.01842
+File valve_0370_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01597
+  Segment 1: type=complex, RMSE=0.01722
+  Segment 2: type=tube, RMSE=0.01334
+  Segment 3: type=complex, RMSE=0.01386
+  Segment 4: type=complex, RMSE=0.01532
+  Segment 5: type=complex, RMSE=0.01623
+  Segment 6: type=complex, RMSE=0.02372
+  Segment 7: type=tube, RMSE=0.01510
+  Segment 8: type=plane, RMSE=0.01140
+  Segment 9: type=complex, RMSE=0.01503
+File valve_0371_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02192
+  Segment 1: type=complex, RMSE=0.01789
+  Segment 2: type=complex, RMSE=0.02031
+  Segment 3: type=tube, RMSE=0.01544
+  Segment 5: type=complex, RMSE=0.01822
+  Segment 6: type=complex, RMSE=0.02668
+  Segment 7: type=tube, RMSE=0.01304
+  Segment 9: type=complex, RMSE=0.01532
+File valve_0372_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02048
+  Segment 1: type=complex, RMSE=0.01927
+  Segment 2: type=tube, RMSE=0.01575
+  Segment 3: type=plane, RMSE=0.01444
+  Segment 4: type=complex, RMSE=0.02454
+  Segment 5: type=complex, RMSE=0.01956
+  Segment 6: type=complex, RMSE=0.03102
+  Segment 7: type=tube, RMSE=0.02143
+  Segment 9: type=sphere, RMSE=0.01803
+File valve_0373_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01528
+  Segment 1: type=complex, RMSE=0.01525
+  Segment 2: type=complex, RMSE=0.01960
+  Segment 3: type=complex, RMSE=0.01456
+  Segment 4: type=plane, RMSE=0.03396
+  Segment 5: type=complex, RMSE=0.01855
+  Segment 6: type=complex, RMSE=0.02265
+  Segment 7: type=tube, RMSE=0.03740
+  Segment 9: type=complex, RMSE=0.01562
+File valve_0374_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01801
+  Segment 1: type=complex, RMSE=0.01760
+  Segment 2: type=tube, RMSE=0.01337
+  Segment 3: type=tube, RMSE=0.01262
+  Segment 4: type=plane, RMSE=0.01394
+  Segment 5: type=complex, RMSE=0.01953
+  Segment 6: type=complex, RMSE=0.02525
+  Segment 7: type=tube, RMSE=0.01350
+  Segment 9: type=complex, RMSE=0.01490
+File valve_0375_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01796
+  Segment 1: type=complex, RMSE=0.01999
+  Segment 2: type=complex, RMSE=0.02183
+  Segment 3: type=plane, RMSE=0.01508
+  Segment 5: type=complex, RMSE=0.02333
+  Segment 6: type=complex, RMSE=0.02546
+  Segment 7: type=tube, RMSE=0.01493
+  Segment 9: type=complex, RMSE=0.01619
+File valve_0376_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01755
+  Segment 1: type=complex, RMSE=0.01992
+  Segment 2: type=tube, RMSE=0.01426
+  Segment 3: type=complex, RMSE=0.01586
+  Segment 4: type=complex, RMSE=0.02106
+  Segment 5: type=complex, RMSE=0.02050
+  Segment 6: type=complex, RMSE=0.02679
+  Segment 7: type=tube, RMSE=0.02084
+  Segment 9: type=complex, RMSE=0.01669
+File valve_0377_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01819
+  Segment 1: type=complex, RMSE=0.02232
+  Segment 2: type=complex, RMSE=0.02342
+  Segment 3: type=plane, RMSE=0.01515
+  Segment 5: type=tube, RMSE=0.02094
+  Segment 6: type=complex, RMSE=0.02989
+  Segment 7: type=tube, RMSE=0.01754
+  Segment 9: type=complex, RMSE=0.01702
+File valve_0378_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01726
+  Segment 1: type=complex, RMSE=0.01853
+  Segment 2: type=tube, RMSE=0.01417
+  Segment 3: type=plane, RMSE=0.01782
+  Segment 4: type=complex, RMSE=0.01893
+  Segment 5: type=complex, RMSE=0.01764
+  Segment 6: type=complex, RMSE=0.02727
+  Segment 7: type=tube, RMSE=0.01711
+  Segment 9: type=sphere, RMSE=0.01608
+File valve_0379_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01809
+  Segment 1: type=complex, RMSE=0.01835
+  Segment 2: type=tube, RMSE=0.01359
+  Segment 3: type=complex, RMSE=0.01672
+  Segment 4: type=complex, RMSE=0.01695
+  Segment 5: type=complex, RMSE=0.02082
+  Segment 6: type=complex, RMSE=0.02571
+  Segment 7: type=tube, RMSE=0.01503
+  Segment 9: type=complex, RMSE=0.01954
+File valve_0380_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01839
+  Segment 1: type=complex, RMSE=0.02104
+  Segment 2: type=complex, RMSE=0.01996
+  Segment 3: type=plane, RMSE=0.01529
+  Segment 4: type=plane, RMSE=0.01861
+  Segment 5: type=tube, RMSE=0.02103
+  Segment 6: type=complex, RMSE=0.03006
+  Segment 7: type=tube, RMSE=0.02449
+  Segment 8: type=plane, RMSE=0.01289
+  Segment 9: type=complex, RMSE=0.01865
+File valve_0381_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01614
+  Segment 1: type=complex, RMSE=0.01633
+  Segment 2: type=complex, RMSE=0.02146
+  Segment 3: type=complex, RMSE=0.01455
+  Segment 4: type=plane, RMSE=0.02039
+  Segment 5: type=complex, RMSE=0.01527
+  Segment 6: type=complex, RMSE=0.02441
+  Segment 7: type=tube, RMSE=0.02145
+  Segment 8: type=plane, RMSE=0.01073
+  Segment 9: type=complex, RMSE=0.01580
+File valve_0382_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01688
+  Segment 1: type=complex, RMSE=0.01868
+  Segment 2: type=tube, RMSE=0.01320
+  Segment 3: type=complex, RMSE=0.01353
+  Segment 4: type=plane, RMSE=0.01381
+  Segment 5: type=complex, RMSE=0.01946
+  Segment 6: type=complex, RMSE=0.02344
+  Segment 7: type=tube, RMSE=0.03176
+  Segment 8: type=plane, RMSE=0.01203
+  Segment 9: type=complex, RMSE=0.01561
+File valve_0383_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01538
+  Segment 1: type=complex, RMSE=0.01652
+  Segment 2: type=complex, RMSE=0.01887
+  Segment 3: type=complex, RMSE=0.01492
+  Segment 4: type=plane, RMSE=0.01910
+  Segment 5: type=complex, RMSE=0.01666
+  Segment 6: type=complex, RMSE=0.02419
+  Segment 7: type=tube, RMSE=0.02307
+  Segment 8: type=plane, RMSE=0.01106
+  Segment 9: type=complex, RMSE=0.01544
+File valve_0384_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01563
+  Segment 1: type=complex, RMSE=0.01808
+  Segment 2: type=tube, RMSE=0.01237
+  Segment 3: type=tube, RMSE=0.01196
+  Segment 4: type=complex, RMSE=0.01705
+  Segment 5: type=complex, RMSE=0.01831
+  Segment 6: type=complex, RMSE=0.02326
+  Segment 7: type=tube, RMSE=0.01967
+  Segment 9: type=complex, RMSE=0.01495
+File valve_0385_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01749
+  Segment 1: type=complex, RMSE=0.01998
+  Segment 2: type=complex, RMSE=0.02210
+  Segment 3: type=plane, RMSE=0.01789
+  Segment 4: type=plane, RMSE=0.01677
+  Segment 5: type=complex, RMSE=0.02058
+  Segment 6: type=complex, RMSE=0.02645
+  Segment 7: type=tube, RMSE=0.02507
+  Segment 9: type=complex, RMSE=0.01759
+File valve_0386_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01965
+  Segment 1: type=complex, RMSE=0.02320
+  Segment 2: type=tube, RMSE=0.01576
+  Segment 3: type=plane, RMSE=0.01567
+  Segment 4: type=complex, RMSE=0.01958
+  Segment 5: type=tube, RMSE=0.02116
+  Segment 6: type=complex, RMSE=0.02691
+  Segment 7: type=tube, RMSE=0.02781
+  Segment 9: type=complex, RMSE=0.01856
+File valve_0387_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01560
+  Segment 1: type=complex, RMSE=0.01766
+  Segment 2: type=tube, RMSE=0.01350
+  Segment 3: type=complex, RMSE=0.01560
+  Segment 4: type=plane, RMSE=0.01423
+  Segment 5: type=complex, RMSE=0.02003
+  Segment 6: type=complex, RMSE=0.02111
+  Segment 7: type=tube, RMSE=0.02594
+  Segment 9: type=complex, RMSE=0.01579
+File valve_0388_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02524
+  Segment 1: type=complex, RMSE=0.01976
+  Segment 2: type=complex, RMSE=0.02053
+  Segment 3: type=tube, RMSE=0.01432
+  Segment 4: type=complex, RMSE=0.02209
+  Segment 5: type=complex, RMSE=0.01769
+  Segment 6: type=complex, RMSE=0.02886
+  Segment 7: type=tube, RMSE=0.01383
+  Segment 9: type=sphere, RMSE=0.01542
+File valve_0389_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01589
+  Segment 1: type=complex, RMSE=0.02181
+  Segment 2: type=tube, RMSE=0.01335
+  Segment 3: type=complex, RMSE=0.01465
+  Segment 4: type=plane, RMSE=0.01982
+  Segment 5: type=complex, RMSE=0.01744
+  Segment 6: type=complex, RMSE=0.02374
+  Segment 7: type=tube, RMSE=0.01361
+  Segment 9: type=complex, RMSE=0.01639
+File valve_0390_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01704
+  Segment 1: type=complex, RMSE=0.01929
+  Segment 2: type=complex, RMSE=0.02429
+  Segment 3: type=plane, RMSE=0.02723
+  Segment 4: type=complex, RMSE=0.02131
+  Segment 5: type=complex, RMSE=0.02144
+  Segment 6: type=complex, RMSE=0.02495
+  Segment 7: type=tube, RMSE=0.01802
+  Segment 9: type=complex, RMSE=0.01609
+File valve_0391_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01529
+  Segment 1: type=complex, RMSE=0.01939
+  Segment 2: type=tube, RMSE=0.01418
+  Segment 3: type=tube, RMSE=0.01283
+  Segment 4: type=complex, RMSE=0.02090
+  Segment 5: type=complex, RMSE=0.01439
+  Segment 6: type=complex, RMSE=0.02180
+  Segment 7: type=tube, RMSE=0.01573
+  Segment 8: type=complex, RMSE=0.01281
+  Segment 9: type=complex, RMSE=0.01447
+File valve_0392_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02254
+  Segment 1: type=complex, RMSE=0.01820
+  Segment 2: type=tube, RMSE=0.01853
+  Segment 3: type=tube, RMSE=0.01368
+  Segment 5: type=complex, RMSE=0.02090
+  Segment 6: type=complex, RMSE=0.02604
+  Segment 7: type=tube, RMSE=0.01111
+  Segment 9: type=sphere, RMSE=0.01551
+File valve_0393_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01729
+  Segment 1: type=complex, RMSE=0.02411
+  Segment 2: type=tube, RMSE=0.01294
+  Segment 3: type=plane, RMSE=0.01429
+  Segment 4: type=complex, RMSE=0.02014
+  Segment 5: type=complex, RMSE=0.02001
+  Segment 6: type=complex, RMSE=0.02693
+  Segment 7: type=tube, RMSE=0.01886
+  Segment 9: type=complex, RMSE=0.01677
+File valve_0394_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01507
+  Segment 1: type=complex, RMSE=0.01672
+  Segment 2: type=tube, RMSE=0.01335
+  Segment 3: type=complex, RMSE=0.01476
+  Segment 4: type=plane, RMSE=0.02061
+  Segment 5: type=complex, RMSE=0.01877
+  Segment 6: type=complex, RMSE=0.02429
+  Segment 7: type=tube, RMSE=0.02562
+  Segment 8: type=plane, RMSE=0.01138
+  Segment 9: type=complex, RMSE=0.01492
+File valve_0395_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01577
+  Segment 1: type=complex, RMSE=0.01753
+  Segment 2: type=complex, RMSE=0.02136
+  Segment 3: type=tube, RMSE=0.01164
+  Segment 4: type=complex, RMSE=0.02019
+  Segment 5: type=tube, RMSE=0.02233
+  Segment 6: type=complex, RMSE=0.02584
+  Segment 7: type=tube, RMSE=0.01351
+  Segment 8: type=complex, RMSE=0.01430
+  Segment 9: type=complex, RMSE=0.01387
+File valve_0396_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01521
+  Segment 1: type=complex, RMSE=0.01956
+  Segment 2: type=tube, RMSE=0.01233
+  Segment 3: type=complex, RMSE=0.01459
+  Segment 4: type=plane, RMSE=0.01427
+  Segment 5: type=tube, RMSE=0.01641
+  Segment 6: type=complex, RMSE=0.02500
+  Segment 7: type=tube, RMSE=0.02005
+  Segment 9: type=complex, RMSE=0.01563
+File valve_0397_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01638
+  Segment 1: type=complex, RMSE=0.02000
+  Segment 2: type=tube, RMSE=0.01250
+  Segment 3: type=tube, RMSE=0.01218
+  Segment 4: type=complex, RMSE=0.02109
+  Segment 5: type=complex, RMSE=0.01641
+  Segment 6: type=complex, RMSE=0.02408
+  Segment 7: type=tube, RMSE=0.01400
+  Segment 9: type=complex, RMSE=0.01403
+File valve_0398_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01904
+  Segment 1: type=complex, RMSE=0.02079
+  Segment 2: type=tube, RMSE=0.01494
+  Segment 3: type=complex, RMSE=0.01782
+  Segment 5: type=plane, RMSE=0.01470
+  Segment 6: type=complex, RMSE=0.02634
+  Segment 7: type=tube, RMSE=0.02844
+  Segment 8: type=plane, RMSE=0.01193
+  Segment 9: type=complex, RMSE=0.01760
+File valve_0399_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01531
+  Segment 1: type=complex, RMSE=0.01826
+  Segment 2: type=complex, RMSE=0.01979
+  Segment 3: type=plane, RMSE=0.02415
+  Segment 4: type=complex, RMSE=0.01849
+  Segment 5: type=complex, RMSE=0.01764
+  Segment 6: type=complex, RMSE=0.02510
+  Segment 7: type=tube, RMSE=0.02287
+  Segment 9: type=complex, RMSE=0.01528
+File valve_0400_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02509
+  Segment 1: type=complex, RMSE=0.01999
+  Segment 2: type=complex, RMSE=0.01947
+  Segment 3: type=tube, RMSE=0.01308
+  Segment 4: type=complex, RMSE=0.01933
+  Segment 5: type=complex, RMSE=0.01968
+  Segment 6: type=complex, RMSE=0.02609
+  Segment 7: type=tube, RMSE=0.01146
+  Segment 9: type=sphere, RMSE=0.01544
+File valve_0401_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01568
+  Segment 1: type=complex, RMSE=0.01782
+  Segment 2: type=complex, RMSE=0.02037
+  Segment 3: type=complex, RMSE=0.01441
+  Segment 4: type=plane, RMSE=0.01661
+  Segment 5: type=complex, RMSE=0.01675
+  Segment 6: type=complex, RMSE=0.02449
+  Segment 7: type=tube, RMSE=0.01343
+  Segment 8: type=plane, RMSE=0.01249
+  Segment 9: type=complex, RMSE=0.01606
+File valve_0402_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01608
+  Segment 1: type=complex, RMSE=0.01915
+  Segment 2: type=complex, RMSE=0.01868
+  Segment 3: type=complex, RMSE=0.01702
+  Segment 4: type=complex, RMSE=0.02066
+  Segment 5: type=complex, RMSE=0.01648
+  Segment 6: type=complex, RMSE=0.02579
+  Segment 7: type=tube, RMSE=0.01467
+  Segment 9: type=complex, RMSE=0.01941
+File valve_0403_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02167
+  Segment 1: type=complex, RMSE=0.02144
+  Segment 2: type=complex, RMSE=0.01895
+  Segment 3: type=tube, RMSE=0.01266
+  Segment 5: type=complex, RMSE=0.01967
+  Segment 6: type=complex, RMSE=0.02836
+  Segment 7: type=tube, RMSE=0.01051
+  Segment 9: type=complex, RMSE=0.01483
+File valve_0404_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01831
+  Segment 1: type=complex, RMSE=0.02163
+  Segment 2: type=complex, RMSE=0.02513
+  Segment 3: type=plane, RMSE=0.01878
+  Segment 4: type=complex, RMSE=0.02301
+  Segment 5: type=tube, RMSE=0.02032
+  Segment 6: type=complex, RMSE=0.02531
+  Segment 7: type=tube, RMSE=0.02624
+  Segment 9: type=complex, RMSE=0.01765
+File valve_0405_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02365
+  Segment 1: type=complex, RMSE=0.02322
+  Segment 2: type=complex, RMSE=0.02307
+  Segment 3: type=plane, RMSE=0.01406
+  Segment 5: type=tube, RMSE=0.02582
+  Segment 6: type=complex, RMSE=0.02783
+  Segment 7: type=tube, RMSE=0.01881
+  Segment 9: type=complex, RMSE=0.01877
+File valve_0406_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01717
+  Segment 1: type=complex, RMSE=0.02086
+  Segment 2: type=complex, RMSE=0.02376
+  Segment 3: type=plane, RMSE=0.01524
+  Segment 4: type=plane, RMSE=0.01504
+  Segment 5: type=complex, RMSE=0.01746
+  Segment 6: type=complex, RMSE=0.02419
+  Segment 7: type=tube, RMSE=0.01543
+  Segment 9: type=complex, RMSE=0.01656
+File valve_0407_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02476
+  Segment 1: type=complex, RMSE=0.02004
+  Segment 2: type=tube, RMSE=0.01367
+  Segment 3: type=tube, RMSE=0.01379
+  Segment 5: type=complex, RMSE=0.02239
+  Segment 6: type=complex, RMSE=0.03547
+  Segment 7: type=tube, RMSE=0.01149
+  Segment 9: type=sphere, RMSE=0.01521
+File valve_0408_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01831
+  Segment 1: type=complex, RMSE=0.02108
+  Segment 2: type=complex, RMSE=0.02257
+  Segment 3: type=tube, RMSE=0.01346
+  Segment 4: type=complex, RMSE=0.02624
+  Segment 5: type=complex, RMSE=0.02425
+  Segment 6: type=complex, RMSE=0.02469
+  Segment 7: type=tube, RMSE=0.01442
+  Segment 8: type=plane, RMSE=0.01070
+  Segment 9: type=complex, RMSE=0.01531
+File valve_0409_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01846
+  Segment 1: type=complex, RMSE=0.01971
+  Segment 2: type=complex, RMSE=0.02084
+  Segment 3: type=tube, RMSE=0.01250
+  Segment 5: type=complex, RMSE=0.01786
+  Segment 6: type=complex, RMSE=0.02530
+  Segment 7: type=tube, RMSE=0.01419
+  Segment 9: type=complex, RMSE=0.01432
+File valve_0410_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01531
+  Segment 1: type=complex, RMSE=0.01536
+  Segment 2: type=tube, RMSE=0.01295
+  Segment 3: type=complex, RMSE=0.01406
+  Segment 4: type=plane, RMSE=0.01637
+  Segment 5: type=tube, RMSE=0.01371
+  Segment 6: type=complex, RMSE=0.02142
+  Segment 7: type=tube, RMSE=0.02689
+  Segment 9: type=complex, RMSE=0.01548
+File valve_0411_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01689
+  Segment 1: type=complex, RMSE=0.02130
+  Segment 2: type=tube, RMSE=0.01299
+  Segment 3: type=plane, RMSE=0.01541
+  Segment 4: type=complex, RMSE=0.01718
+  Segment 5: type=complex, RMSE=0.02063
+  Segment 6: type=complex, RMSE=0.02548
+  Segment 7: type=tube, RMSE=0.01561
+  Segment 9: type=sphere, RMSE=0.01624
+File valve_0412_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01740
+  Segment 1: type=complex, RMSE=0.01877
+  Segment 2: type=tube, RMSE=0.01401
+  Segment 3: type=plane, RMSE=0.01405
+  Segment 4: type=complex, RMSE=0.01856
+  Segment 5: type=complex, RMSE=0.01655
+  Segment 6: type=complex, RMSE=0.02702
+  Segment 7: type=tube, RMSE=0.01639
+  Segment 9: type=sphere, RMSE=0.01615
+File valve_0413_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01934
+  Segment 1: type=complex, RMSE=0.02055
+  Segment 2: type=tube, RMSE=0.01374
+  Segment 3: type=tube, RMSE=0.01443
+  Segment 4: type=complex, RMSE=0.02653
+  Segment 5: type=complex, RMSE=0.02276
+  Segment 6: type=complex, RMSE=0.02992
+  Segment 7: type=tube, RMSE=0.01445
+  Segment 8: type=plane, RMSE=0.01244
+  Segment 9: type=complex, RMSE=0.01513
+File valve_0414_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01860
+  Segment 1: type=complex, RMSE=0.01731
+  Segment 2: type=tube, RMSE=0.01333
+  Segment 3: type=tube, RMSE=0.01135
+  Segment 4: type=complex, RMSE=0.01936
+  Segment 5: type=tube, RMSE=0.01661
+  Segment 6: type=complex, RMSE=0.02303
+  Segment 7: type=tube, RMSE=0.01478
+  Segment 8: type=complex, RMSE=0.01435
+  Segment 9: type=complex, RMSE=0.01417
+File valve_0415_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01884
+  Segment 1: type=complex, RMSE=0.02140
+  Segment 2: type=complex, RMSE=0.02246
+  Segment 3: type=plane, RMSE=0.01359
+  Segment 5: type=tube, RMSE=0.01702
+  Segment 6: type=complex, RMSE=0.02797
+  Segment 7: type=tube, RMSE=0.01940
+  Segment 9: type=complex, RMSE=0.01727
+File valve_0416_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01805
+  Segment 1: type=complex, RMSE=0.02265
+  Segment 2: type=tube, RMSE=0.01439
+  Segment 3: type=complex, RMSE=0.01827
+  Segment 5: type=complex, RMSE=0.01805
+  Segment 6: type=complex, RMSE=0.02700
+  Segment 7: type=tube, RMSE=0.02362
+  Segment 9: type=complex, RMSE=0.01794
+File valve_0417_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01487
+  Segment 1: type=complex, RMSE=0.01652
+  Segment 2: type=tube, RMSE=0.01324
+  Segment 3: type=complex, RMSE=0.01406
+  Segment 4: type=plane, RMSE=0.01741
+  Segment 5: type=complex, RMSE=0.02055
+  Segment 6: type=complex, RMSE=0.02493
+  Segment 7: type=tube, RMSE=0.01381
+  Segment 8: type=plane, RMSE=0.01219
+  Segment 9: type=complex, RMSE=0.01560
+File valve_0418_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01840
+  Segment 1: type=complex, RMSE=0.02005
+  Segment 2: type=tube, RMSE=0.01329
+  Segment 3: type=tube, RMSE=0.01345
+  Segment 4: type=complex, RMSE=0.01936
+  Segment 5: type=tube, RMSE=0.01378
+  Segment 6: type=complex, RMSE=0.02267
+  Segment 7: type=tube, RMSE=0.01457
+  Segment 9: type=complex, RMSE=0.01409
+File valve_0419_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01931
+  Segment 1: type=complex, RMSE=0.01753
+  Segment 2: type=tube, RMSE=0.01454
+  Segment 3: type=complex, RMSE=0.01556
+  Segment 4: type=complex, RMSE=0.01766
+  Segment 5: type=complex, RMSE=0.02080
+  Segment 6: type=complex, RMSE=0.02838
+  Segment 7: type=tube, RMSE=0.03249
+  Segment 9: type=complex, RMSE=0.01682
+File valve_0420_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01547
+  Segment 1: type=complex, RMSE=0.01874
+  Segment 2: type=complex, RMSE=0.02020
+  Segment 3: type=complex, RMSE=0.01775
+  Segment 4: type=plane, RMSE=0.01560
+  Segment 5: type=complex, RMSE=0.02364
+  Segment 6: type=complex, RMSE=0.02334
+  Segment 7: type=tube, RMSE=0.01727
+  Segment 9: type=complex, RMSE=0.01531
+File valve_0421_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01784
+  Segment 1: type=complex, RMSE=0.01961
+  Segment 2: type=complex, RMSE=0.01816
+  Segment 3: type=plane, RMSE=0.02274
+  Segment 4: type=complex, RMSE=0.01570
+  Segment 5: type=plane, RMSE=0.01573
+  Segment 6: type=complex, RMSE=0.02527
+  Segment 7: type=tube, RMSE=0.02832
+  Segment 9: type=complex, RMSE=0.01511
+File valve_0422_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01657
+  Segment 1: type=complex, RMSE=0.01959
+  Segment 2: type=tube, RMSE=0.01314
+  Segment 3: type=tube, RMSE=0.01123
+  Segment 4: type=complex, RMSE=0.02282
+  Segment 5: type=tube, RMSE=0.01587
+  Segment 6: type=complex, RMSE=0.02382
+  Segment 7: type=tube, RMSE=0.01401
+  Segment 9: type=complex, RMSE=0.01420
+File valve_0423_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02174
+  Segment 1: type=complex, RMSE=0.01995
+  Segment 2: type=complex, RMSE=0.02124
+  Segment 3: type=tube, RMSE=0.01298
+  Segment 5: type=complex, RMSE=0.01937
+  Segment 6: type=complex, RMSE=0.02691
+  Segment 7: type=tube, RMSE=0.01289
+  Segment 9: type=complex, RMSE=0.01546
+File valve_0424_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01665
+  Segment 1: type=complex, RMSE=0.02105
+  Segment 2: type=complex, RMSE=0.02285
+  Segment 3: type=complex, RMSE=0.02474
+  Segment 5: type=plane, RMSE=0.01947
+  Segment 6: type=complex, RMSE=0.02531
+  Segment 7: type=tube, RMSE=0.01445
+  Segment 9: type=sphere, RMSE=0.01566
+File valve_0425_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01544
+  Segment 1: type=complex, RMSE=0.01825
+  Segment 2: type=tube, RMSE=0.01209
+  Segment 3: type=complex, RMSE=0.01930
+  Segment 4: type=complex, RMSE=0.02030
+  Segment 5: type=complex, RMSE=0.01743
+  Segment 6: type=complex, RMSE=0.02322
+  Segment 7: type=tube, RMSE=0.01686
+  Segment 8: type=plane, RMSE=0.01183
+  Segment 9: type=complex, RMSE=0.01446
+File valve_0426_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01593
+  Segment 1: type=complex, RMSE=0.01740
+  Segment 2: type=complex, RMSE=0.01893
+  Segment 3: type=complex, RMSE=0.01392
+  Segment 4: type=plane, RMSE=0.01425
+  Segment 5: type=complex, RMSE=0.01761
+  Segment 6: type=complex, RMSE=0.02404
+  Segment 7: type=tube, RMSE=0.02566
+  Segment 8: type=complex, RMSE=0.01349
+  Segment 9: type=complex, RMSE=0.01581
+File valve_0427_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01718
+  Segment 1: type=complex, RMSE=0.01830
+  Segment 2: type=tube, RMSE=0.01347
+  Segment 3: type=tube, RMSE=0.01307
+  Segment 4: type=complex, RMSE=0.02240
+  Segment 5: type=complex, RMSE=0.01971
+  Segment 6: type=complex, RMSE=0.02701
+  Segment 7: type=tube, RMSE=0.01453
+  Segment 8: type=plane, RMSE=0.01136
+  Segment 9: type=complex, RMSE=0.01535
+File valve_0428_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01618
+  Segment 1: type=complex, RMSE=0.01917
+  Segment 2: type=complex, RMSE=0.01956
+  Segment 3: type=complex, RMSE=0.01690
+  Segment 4: type=plane, RMSE=0.01891
+  Segment 5: type=complex, RMSE=0.02031
+  Segment 6: type=complex, RMSE=0.02317
+  Segment 7: type=tube, RMSE=0.02043
+  Segment 9: type=complex, RMSE=0.01527
+File valve_0429_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01902
+  Segment 1: type=complex, RMSE=0.02463
+  Segment 2: type=complex, RMSE=0.02159
+  Segment 3: type=plane, RMSE=0.01701
+  Segment 4: type=complex, RMSE=0.02311
+  Segment 5: type=tube, RMSE=0.02193
+  Segment 6: type=complex, RMSE=0.02708
+  Segment 7: type=tube, RMSE=0.02373
+  Segment 9: type=complex, RMSE=0.01765
+File valve_0430_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01535
+  Segment 1: type=complex, RMSE=0.01876
+  Segment 2: type=tube, RMSE=0.01427
+  Segment 3: type=tube, RMSE=0.01287
+  Segment 4: type=complex, RMSE=0.01813
+  Segment 5: type=complex, RMSE=0.02156
+  Segment 6: type=complex, RMSE=0.02479
+  Segment 7: type=tube, RMSE=0.01402
+  Segment 9: type=complex, RMSE=0.01451
+File valve_0431_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01867
+  Segment 1: type=complex, RMSE=0.01812
+  Segment 2: type=complex, RMSE=0.01964
+  Segment 3: type=complex, RMSE=0.01619
+  Segment 5: type=complex, RMSE=0.01881
+  Segment 6: type=complex, RMSE=0.02580
+  Segment 7: type=tube, RMSE=0.02771
+  Segment 9: type=complex, RMSE=0.01677
+File valve_0432_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01592
+  Segment 1: type=complex, RMSE=0.01646
+  Segment 2: type=tube, RMSE=0.01260
+  Segment 3: type=complex, RMSE=0.01417
+  Segment 4: type=plane, RMSE=0.01259
+  Segment 5: type=complex, RMSE=0.01922
+  Segment 6: type=complex, RMSE=0.02483
+  Segment 7: type=tube, RMSE=0.01320
+  Segment 9: type=complex, RMSE=0.01574
+File valve_0433_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01843
+  Segment 1: type=complex, RMSE=0.02205
+  Segment 2: type=tube, RMSE=0.01464
+  Segment 3: type=plane, RMSE=0.01682
+  Segment 4: type=plane, RMSE=0.01828
+  Segment 5: type=complex, RMSE=0.02191
+  Segment 6: type=complex, RMSE=0.02695
+  Segment 7: type=tube, RMSE=0.02824
+  Segment 9: type=complex, RMSE=0.01790
+File valve_0434_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01855
+  Segment 1: type=complex, RMSE=0.01972
+  Segment 2: type=complex, RMSE=0.02258
+  Segment 3: type=plane, RMSE=0.01619
+  Segment 5: type=tube, RMSE=0.02618
+  Segment 6: type=complex, RMSE=0.02923
+  Segment 7: type=tube, RMSE=0.01954
+  Segment 9: type=complex, RMSE=0.01724
+File valve_0435_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01600
+  Segment 1: type=complex, RMSE=0.01847
+  Segment 2: type=complex, RMSE=0.02270
+  Segment 3: type=complex, RMSE=0.01525
+  Segment 4: type=complex, RMSE=0.01711
+  Segment 5: type=complex, RMSE=0.01865
+  Segment 6: type=complex, RMSE=0.02504
+  Segment 7: type=tube, RMSE=0.01451
+  Segment 9: type=complex, RMSE=0.01785
+File valve_0436_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01685
+  Segment 1: type=complex, RMSE=0.01967
+  Segment 2: type=tube, RMSE=0.01358
+  Segment 3: type=complex, RMSE=0.01635
+  Segment 4: type=complex, RMSE=0.02078
+  Segment 5: type=complex, RMSE=0.01910
+  Segment 6: type=complex, RMSE=0.02479
+  Segment 7: type=tube, RMSE=0.01922
+  Segment 9: type=complex, RMSE=0.01726
+File valve_0437_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01590
+  Segment 1: type=complex, RMSE=0.01887
+  Segment 2: type=tube, RMSE=0.01454
+  Segment 3: type=tube, RMSE=0.01202
+  Segment 4: type=complex, RMSE=0.01756
+  Segment 5: type=complex, RMSE=0.01595
+  Segment 6: type=complex, RMSE=0.02336
+  Segment 7: type=tube, RMSE=0.01570
+  Segment 9: type=complex, RMSE=0.01448
+File valve_0438_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01690
+  Segment 1: type=complex, RMSE=0.01674
+  Segment 2: type=complex, RMSE=0.01899
+  Segment 3: type=complex, RMSE=0.01348
+  Segment 4: type=plane, RMSE=0.01362
+  Segment 5: type=complex, RMSE=0.02088
+  Segment 6: type=complex, RMSE=0.02199
+  Segment 7: type=tube, RMSE=0.01580
+  Segment 8: type=plane, RMSE=0.01183
+  Segment 9: type=complex, RMSE=0.01617
+File valve_0439_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01685
+  Segment 1: type=complex, RMSE=0.01902
+  Segment 2: type=complex, RMSE=0.02233
+  Segment 3: type=complex, RMSE=0.02382
+  Segment 4: type=complex, RMSE=0.02169
+  Segment 5: type=complex, RMSE=0.01977
+  Segment 6: type=complex, RMSE=0.02546
+  Segment 7: type=tube, RMSE=0.01480
+  Segment 9: type=sphere, RMSE=0.01552
+File valve_0440_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01631
+  Segment 1: type=complex, RMSE=0.02136
+  Segment 2: type=complex, RMSE=0.02525
+  Segment 3: type=plane, RMSE=0.01277
+  Segment 5: type=complex, RMSE=0.01982
+  Segment 6: type=complex, RMSE=0.02942
+  Segment 7: type=tube, RMSE=0.01741
+  Segment 9: type=complex, RMSE=0.01725
+File valve_0441_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01716
+  Segment 1: type=complex, RMSE=0.01874
+  Segment 2: type=complex, RMSE=0.02289
+  Segment 3: type=tube, RMSE=0.01308
+  Segment 4: type=complex, RMSE=0.02298
+  Segment 5: type=complex, RMSE=0.02258
+  Segment 6: type=complex, RMSE=0.03022
+  Segment 7: type=tube, RMSE=0.01681
+  Segment 8: type=plane, RMSE=0.01173
+  Segment 9: type=complex, RMSE=0.01638
+File valve_0442_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01523
+  Segment 1: type=complex, RMSE=0.01980
+  Segment 2: type=complex, RMSE=0.01860
+  Segment 3: type=plane, RMSE=0.01797
+  Segment 4: type=complex, RMSE=0.01582
+  Segment 5: type=complex, RMSE=0.01713
+  Segment 6: type=complex, RMSE=0.02324
+  Segment 7: type=tube, RMSE=0.01350
+  Segment 9: type=complex, RMSE=0.01586
+File valve_0443_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01589
+  Segment 1: type=complex, RMSE=0.01994
+  Segment 2: type=tube, RMSE=0.01323
+  Segment 3: type=complex, RMSE=0.02515
+  Segment 4: type=complex, RMSE=0.02024
+  Segment 5: type=complex, RMSE=0.01804
+  Segment 6: type=complex, RMSE=0.02252
+  Segment 7: type=tube, RMSE=0.01556
+  Segment 9: type=complex, RMSE=0.01491
+File valve_0444_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01669
+  Segment 1: type=complex, RMSE=0.02039
+  Segment 2: type=complex, RMSE=0.02015
+  Segment 3: type=plane, RMSE=0.03550
+  Segment 4: type=plane, RMSE=0.01602
+  Segment 5: type=complex, RMSE=0.02605
+  Segment 6: type=complex, RMSE=0.02632
+  Segment 7: type=tube, RMSE=0.02869
+  Segment 9: type=complex, RMSE=0.01540
+File valve_0445_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01647
+  Segment 1: type=complex, RMSE=0.02080
+  Segment 2: type=complex, RMSE=0.02219
+  Segment 3: type=plane, RMSE=0.01698
+  Segment 4: type=complex, RMSE=0.01899
+  Segment 5: type=complex, RMSE=0.01846
+  Segment 6: type=complex, RMSE=0.02536
+  Segment 7: type=tube, RMSE=0.01293
+  Segment 9: type=complex, RMSE=0.01933
+File valve_0446_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01663
+  Segment 1: type=complex, RMSE=0.01777
+  Segment 2: type=complex, RMSE=0.01861
+  Segment 3: type=complex, RMSE=0.01405
+  Segment 4: type=complex, RMSE=0.01741
+  Segment 5: type=complex, RMSE=0.01632
+  Segment 6: type=complex, RMSE=0.02326
+  Segment 7: type=tube, RMSE=0.03001
+  Segment 9: type=complex, RMSE=0.01600
+File valve_0447_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01835
+  Segment 1: type=complex, RMSE=0.02324
+  Segment 2: type=complex, RMSE=0.02387
+  Segment 3: type=plane, RMSE=0.01562
+  Segment 4: type=plane, RMSE=0.01849
+  Segment 5: type=tube, RMSE=0.02483
+  Segment 6: type=complex, RMSE=0.02991
+  Segment 7: type=tube, RMSE=0.02348
+  Segment 9: type=complex, RMSE=0.01836
+File valve_0448_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01550
+  Segment 1: type=complex, RMSE=0.01918
+  Segment 2: type=complex, RMSE=0.02028
+  Segment 3: type=complex, RMSE=0.01695
+  Segment 4: type=plane, RMSE=0.01724
+  Segment 5: type=complex, RMSE=0.02152
+  Segment 6: type=complex, RMSE=0.02065
+  Segment 7: type=tube, RMSE=0.02429
+  Segment 9: type=complex, RMSE=0.01532
+File valve_0449_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01719
+  Segment 1: type=complex, RMSE=0.01942
+  Segment 2: type=tube, RMSE=0.01528
+  Segment 3: type=plane, RMSE=0.01559
+  Segment 4: type=complex, RMSE=0.01796
+  Segment 5: type=complex, RMSE=0.01797
+  Segment 6: type=complex, RMSE=0.02337
+  Segment 7: type=tube, RMSE=0.01514
+  Segment 9: type=complex, RMSE=0.01526
+File valve_0450_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01573
+  Segment 1: type=complex, RMSE=0.01774
+  Segment 2: type=tube, RMSE=0.01354
+  Segment 3: type=complex, RMSE=0.02159
+  Segment 4: type=complex, RMSE=0.01776
+  Segment 5: type=plane, RMSE=0.01589
+  Segment 6: type=complex, RMSE=0.02329
+  Segment 7: type=tube, RMSE=0.01443
+  Segment 9: type=complex, RMSE=0.01597
+File valve_0451_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01754
+  Segment 1: type=complex, RMSE=0.01942
+  Segment 2: type=tube, RMSE=0.01497
+  Segment 3: type=complex, RMSE=0.01730
+  Segment 4: type=plane, RMSE=0.02069
+  Segment 5: type=complex, RMSE=0.02142
+  Segment 6: type=complex, RMSE=0.02869
+  Segment 7: type=tube, RMSE=0.02519
+  Segment 9: type=complex, RMSE=0.01803
+File valve_0452_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01766
+  Segment 1: type=complex, RMSE=0.01996
+  Segment 2: type=tube, RMSE=0.01489
+  Segment 3: type=tube, RMSE=0.01311
+  Segment 4: type=complex, RMSE=0.02059
+  Segment 5: type=complex, RMSE=0.02388
+  Segment 6: type=complex, RMSE=0.02498
+  Segment 7: type=tube, RMSE=0.01478
+  Segment 8: type=plane, RMSE=0.01208
+  Segment 9: type=complex, RMSE=0.01538
+File valve_0453_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01856
+  Segment 1: type=complex, RMSE=0.01814
+  Segment 2: type=complex, RMSE=0.02291
+  Segment 3: type=complex, RMSE=0.01635
+  Segment 4: type=plane, RMSE=0.01361
+  Segment 5: type=complex, RMSE=0.02262
+  Segment 6: type=complex, RMSE=0.02431
+  Segment 7: type=tube, RMSE=0.01632
+  Segment 9: type=complex, RMSE=0.01771
+File valve_0454_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01794
+  Segment 1: type=complex, RMSE=0.01870
+  Segment 2: type=tube, RMSE=0.01314
+  Segment 3: type=tube, RMSE=0.01231
+  Segment 5: type=complex, RMSE=0.01784
+  Segment 6: type=complex, RMSE=0.02539
+  Segment 7: type=tube, RMSE=0.01521
+  Segment 9: type=complex, RMSE=0.01419
+File valve_0455_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01698
+  Segment 1: type=complex, RMSE=0.01597
+  Segment 2: type=complex, RMSE=0.01800
+  Segment 3: type=complex, RMSE=0.01433
+  Segment 4: type=complex, RMSE=0.01556
+  Segment 5: type=tube, RMSE=0.01787
+  Segment 6: type=complex, RMSE=0.02301
+  Segment 7: type=tube, RMSE=0.01781
+  Segment 8: type=plane, RMSE=0.01241
+  Segment 9: type=complex, RMSE=0.01531
+File valve_0456_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01769
+  Segment 1: type=complex, RMSE=0.01840
+  Segment 2: type=complex, RMSE=0.01991
+  Segment 3: type=tube, RMSE=0.01435
+  Segment 5: type=complex, RMSE=0.02037
+  Segment 6: type=complex, RMSE=0.02566
+  Segment 7: type=tube, RMSE=0.01312
+  Segment 9: type=complex, RMSE=0.01569
+File valve_0457_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01753
+  Segment 1: type=complex, RMSE=0.02021
+  Segment 2: type=tube, RMSE=0.01469
+  Segment 3: type=tube, RMSE=0.01227
+  Segment 4: type=complex, RMSE=0.01942
+  Segment 5: type=complex, RMSE=0.02211
+  Segment 6: type=complex, RMSE=0.02662
+  Segment 7: type=tube, RMSE=0.02095
+  Segment 8: type=plane, RMSE=0.01334
+  Segment 9: type=complex, RMSE=0.01547
+File valve_0458_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01505
+  Segment 1: type=complex, RMSE=0.01723
+  Segment 2: type=tube, RMSE=0.01285
+  Segment 3: type=tube, RMSE=0.01302
+  Segment 4: type=complex, RMSE=0.01692
+  Segment 5: type=tube, RMSE=0.01811
+  Segment 6: type=complex, RMSE=0.02230
+  Segment 7: type=tube, RMSE=0.01440
+  Segment 8: type=plane, RMSE=0.01221
+  Segment 9: type=complex, RMSE=0.01374
+File valve_0459_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01611
+  Segment 1: type=complex, RMSE=0.01742
+  Segment 2: type=complex, RMSE=0.02313
+  Segment 3: type=tube, RMSE=0.01253
+  Segment 5: type=complex, RMSE=0.01901
+  Segment 6: type=complex, RMSE=0.02656
+  Segment 7: type=tube, RMSE=0.01266
+  Segment 9: type=complex, RMSE=0.01466
+File valve_0460_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01938
+  Segment 1: type=complex, RMSE=0.02058
+  Segment 2: type=complex, RMSE=0.02245
+  Segment 3: type=plane, RMSE=0.01383
+  Segment 5: type=tube, RMSE=0.02015
+  Segment 6: type=complex, RMSE=0.03365
+  Segment 7: type=tube, RMSE=0.02057
+  Segment 9: type=complex, RMSE=0.01884
+File valve_0461_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01917
+  Segment 1: type=complex, RMSE=0.02219
+  Segment 2: type=complex, RMSE=0.02232
+  Segment 3: type=plane, RMSE=0.01630
+  Segment 4: type=complex, RMSE=0.02260
+  Segment 5: type=complex, RMSE=0.01975
+  Segment 6: type=complex, RMSE=0.03527
+  Segment 7: type=tube, RMSE=0.01850
+  Segment 9: type=complex, RMSE=0.01625
+File valve_0462_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01684
+  Segment 1: type=complex, RMSE=0.01813
+  Segment 2: type=complex, RMSE=0.01952
+  Segment 3: type=plane, RMSE=0.02058
+  Segment 4: type=plane, RMSE=0.02046
+  Segment 5: type=complex, RMSE=0.02082
+  Segment 6: type=complex, RMSE=0.02339
+  Segment 7: type=tube, RMSE=0.01979
+  Segment 9: type=complex, RMSE=0.01570
+File valve_0463_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01526
+  Segment 1: type=complex, RMSE=0.01818
+  Segment 2: type=tube, RMSE=0.01271
+  Segment 3: type=complex, RMSE=0.01489
+  Segment 4: type=complex, RMSE=0.01544
+  Segment 5: type=complex, RMSE=0.01801
+  Segment 6: type=complex, RMSE=0.02417
+  Segment 7: type=tube, RMSE=0.01436
+  Segment 8: type=plane, RMSE=0.01232
+  Segment 9: type=complex, RMSE=0.01522
+File valve_0464_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01657
+  Segment 1: type=complex, RMSE=0.01959
+  Segment 2: type=tube, RMSE=0.01327
+  Segment 3: type=plane, RMSE=0.01730
+  Segment 4: type=complex, RMSE=0.01831
+  Segment 5: type=complex, RMSE=0.01759
+  Segment 6: type=complex, RMSE=0.02174
+  Segment 7: type=tube, RMSE=0.01573
+  Segment 9: type=complex, RMSE=0.01547
+File valve_0465_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01859
+  Segment 1: type=complex, RMSE=0.01716
+  Segment 2: type=tube, RMSE=0.01324
+  Segment 3: type=complex, RMSE=0.01607
+  Segment 4: type=complex, RMSE=0.02151
+  Segment 5: type=complex, RMSE=0.02014
+  Segment 6: type=complex, RMSE=0.02502
+  Segment 7: type=tube, RMSE=0.01484
+  Segment 9: type=complex, RMSE=0.01746
+File valve_0466_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02115
+  Segment 1: type=complex, RMSE=0.02127
+  Segment 2: type=complex, RMSE=0.02428
+  Segment 3: type=plane, RMSE=0.01434
+  Segment 5: type=complex, RMSE=0.01850
+  Segment 6: type=complex, RMSE=0.02569
+  Segment 7: type=tube, RMSE=0.01951
+  Segment 9: type=complex, RMSE=0.01552
+File valve_0467_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01763
+  Segment 1: type=complex, RMSE=0.01886
+  Segment 2: type=complex, RMSE=0.02160
+  Segment 3: type=plane, RMSE=0.01837
+  Segment 4: type=plane, RMSE=0.01651
+  Segment 5: type=complex, RMSE=0.01930
+  Segment 6: type=complex, RMSE=0.02195
+  Segment 7: type=tube, RMSE=0.02085
+  Segment 8: type=plane, RMSE=0.01229
+  Segment 9: type=complex, RMSE=0.01565
+File valve_0468_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01499
+  Segment 1: type=complex, RMSE=0.01842
+  Segment 2: type=tube, RMSE=0.01334
+  Segment 3: type=tube, RMSE=0.01166
+  Segment 4: type=complex, RMSE=0.01693
+  Segment 5: type=tube, RMSE=0.01852
+  Segment 6: type=complex, RMSE=0.02556
+  Segment 7: type=tube, RMSE=0.01572
+  Segment 8: type=plane, RMSE=0.01214
+  Segment 9: type=complex, RMSE=0.01450
+File valve_0469_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01798
+  Segment 1: type=complex, RMSE=0.01901
+  Segment 2: type=complex, RMSE=0.01953
+  Segment 3: type=complex, RMSE=0.01548
+  Segment 4: type=complex, RMSE=0.02064
+  Segment 5: type=complex, RMSE=0.01919
+  Segment 6: type=complex, RMSE=0.02579
+  Segment 7: type=tube, RMSE=0.01484
+  Segment 9: type=complex, RMSE=0.01734
+File valve_0470_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01738
+  Segment 1: type=complex, RMSE=0.02072
+  Segment 2: type=complex, RMSE=0.02537
+  Segment 3: type=tube, RMSE=0.01363
+  Segment 5: type=complex, RMSE=0.01986
+  Segment 6: type=complex, RMSE=0.02868
+  Segment 7: type=tube, RMSE=0.01320
+  Segment 9: type=sphere, RMSE=0.01520
+File valve_0471_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01575
+  Segment 1: type=complex, RMSE=0.01984
+  Segment 2: type=tube, RMSE=0.01275
+  Segment 3: type=complex, RMSE=0.02206
+  Segment 4: type=complex, RMSE=0.01632
+  Segment 5: type=complex, RMSE=0.01643
+  Segment 6: type=complex, RMSE=0.02212
+  Segment 7: type=tube, RMSE=0.01394
+  Segment 9: type=complex, RMSE=0.01391
+File valve_0472_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01744
+  Segment 1: type=complex, RMSE=0.01918
+  Segment 2: type=complex, RMSE=0.02528
+  Segment 3: type=plane, RMSE=0.01818
+  Segment 5: type=plane, RMSE=0.01404
+  Segment 6: type=complex, RMSE=0.02313
+  Segment 7: type=tube, RMSE=0.01701
+  Segment 9: type=complex, RMSE=0.01565
+File valve_0473_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01762
+  Segment 1: type=complex, RMSE=0.02079
+  Segment 2: type=tube, RMSE=0.01454
+  Segment 3: type=tube, RMSE=0.01373
+  Segment 4: type=plane, RMSE=0.01495
+  Segment 5: type=complex, RMSE=0.01780
+  Segment 6: type=complex, RMSE=0.02812
+  Segment 7: type=tube, RMSE=0.01454
+  Segment 8: type=plane, RMSE=0.01301
+  Segment 9: type=complex, RMSE=0.01534
+File valve_0474_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01648
+  Segment 1: type=complex, RMSE=0.01542
+  Segment 2: type=tube, RMSE=0.01210
+  Segment 3: type=complex, RMSE=0.01517
+  Segment 4: type=plane, RMSE=0.01973
+  Segment 5: type=complex, RMSE=0.01673
+  Segment 6: type=complex, RMSE=0.02313
+  Segment 7: type=tube, RMSE=0.03070
+  Segment 8: type=plane, RMSE=0.01120
+  Segment 9: type=complex, RMSE=0.01522
+File valve_0475_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01697
+  Segment 1: type=complex, RMSE=0.01870
+  Segment 2: type=tube, RMSE=0.01487
+  Segment 3: type=plane, RMSE=0.01417
+  Segment 4: type=complex, RMSE=0.02106
+  Segment 5: type=complex, RMSE=0.02341
+  Segment 6: type=complex, RMSE=0.02624
+  Segment 7: type=tube, RMSE=0.01571
+  Segment 9: type=sphere, RMSE=0.01635
+File valve_0476_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02243
+  Segment 1: type=complex, RMSE=0.02098
+  Segment 2: type=complex, RMSE=0.01818
+  Segment 3: type=tube, RMSE=0.01326
+  Segment 5: type=complex, RMSE=0.01743
+  Segment 6: type=complex, RMSE=0.02907
+  Segment 7: type=tube, RMSE=0.01181
+  Segment 9: type=complex, RMSE=0.01559
+File valve_0477_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01885
+  Segment 1: type=complex, RMSE=0.01861
+  Segment 2: type=complex, RMSE=0.01978
+  Segment 3: type=complex, RMSE=0.01482
+  Segment 4: type=plane, RMSE=0.01888
+  Segment 5: type=complex, RMSE=0.01784
+  Segment 6: type=complex, RMSE=0.02803
+  Segment 7: type=tube, RMSE=0.02225
+  Segment 9: type=complex, RMSE=0.01694
+File valve_0478_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02975
+  Segment 1: type=complex, RMSE=0.02069
+  Segment 2: type=complex, RMSE=0.02298
+  Segment 3: type=tube, RMSE=0.01367
+  Segment 5: type=complex, RMSE=0.02070
+  Segment 6: type=complex, RMSE=0.02932
+  Segment 7: type=tube, RMSE=0.01189
+  Segment 9: type=complex, RMSE=0.01549
+File valve_0479_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01852
+  Segment 1: type=complex, RMSE=0.02160
+  Segment 2: type=tube, RMSE=0.01412
+  Segment 3: type=plane, RMSE=0.01490
+  Segment 5: type=tube, RMSE=0.01828
+  Segment 6: type=complex, RMSE=0.02709
+  Segment 7: type=tube, RMSE=0.01802
+  Segment 9: type=complex, RMSE=0.01726
+File valve_0480_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01640
+  Segment 1: type=complex, RMSE=0.02016
+  Segment 2: type=complex, RMSE=0.02174
+  Segment 3: type=complex, RMSE=0.01617
+  Segment 4: type=complex, RMSE=0.02269
+  Segment 5: type=complex, RMSE=0.01940
+  Segment 6: type=complex, RMSE=0.02629
+  Segment 7: type=tube, RMSE=0.01558
+  Segment 9: type=complex, RMSE=0.01702
+File valve_0481_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01542
+  Segment 1: type=complex, RMSE=0.01907
+  Segment 2: type=complex, RMSE=0.01805
+  Segment 3: type=plane, RMSE=0.02408
+  Segment 4: type=plane, RMSE=0.01536
+  Segment 5: type=complex, RMSE=0.02109
+  Segment 6: type=complex, RMSE=0.02263
+  Segment 7: type=tube, RMSE=0.02080
+  Segment 9: type=complex, RMSE=0.01491
+File valve_0482_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01681
+  Segment 1: type=complex, RMSE=0.01794
+  Segment 2: type=complex, RMSE=0.01878
+  Segment 3: type=complex, RMSE=0.01402
+  Segment 4: type=plane, RMSE=0.01593
+  Segment 5: type=complex, RMSE=0.02441
+  Segment 6: type=complex, RMSE=0.02188
+  Segment 7: type=tube, RMSE=0.02464
+  Segment 8: type=plane, RMSE=0.01285
+  Segment 9: type=complex, RMSE=0.01553
+File valve_0483_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01813
+  Segment 1: type=complex, RMSE=0.02099
+  Segment 2: type=complex, RMSE=0.02443
+  Segment 3: type=plane, RMSE=0.01396
+  Segment 4: type=plane, RMSE=0.01660
+  Segment 5: type=tube, RMSE=0.02364
+  Segment 6: type=complex, RMSE=0.02915
+  Segment 7: type=tube, RMSE=0.02528
+  Segment 9: type=complex, RMSE=0.01905
+File valve_0484_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01594
+  Segment 1: type=complex, RMSE=0.02031
+  Segment 2: type=tube, RMSE=0.01250
+  Segment 3: type=tube, RMSE=0.01185
+  Segment 4: type=complex, RMSE=0.01767
+  Segment 5: type=tube, RMSE=0.02608
+  Segment 6: type=complex, RMSE=0.02506
+  Segment 7: type=tube, RMSE=0.01415
+  Segment 8: type=plane, RMSE=0.01045
+  Segment 9: type=complex, RMSE=0.01455
+File valve_0485_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01549
+  Segment 1: type=complex, RMSE=0.01909
+  Segment 2: type=tube, RMSE=0.01365
+  Segment 3: type=tube, RMSE=0.01423
+  Segment 4: type=complex, RMSE=0.01893
+  Segment 5: type=complex, RMSE=0.01678
+  Segment 6: type=complex, RMSE=0.02514
+  Segment 7: type=tube, RMSE=0.01508
+  Segment 9: type=complex, RMSE=0.01454
+File valve_0486_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02641
+  Segment 1: type=complex, RMSE=0.01967
+  Segment 2: type=complex, RMSE=0.02189
+  Segment 3: type=tube, RMSE=0.01346
+  Segment 4: type=complex, RMSE=0.02316
+  Segment 5: type=complex, RMSE=0.02298
+  Segment 6: type=complex, RMSE=0.02683
+  Segment 7: type=tube, RMSE=0.01076
+  Segment 9: type=sphere, RMSE=0.01510
+File valve_0487_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01441
+  Segment 1: type=complex, RMSE=0.01840
+  Segment 2: type=tube, RMSE=0.01284
+  Segment 3: type=tube, RMSE=0.01250
+  Segment 4: type=complex, RMSE=0.01949
+  Segment 5: type=tube, RMSE=0.01901
+  Segment 6: type=complex, RMSE=0.02410
+  Segment 7: type=tube, RMSE=0.01502
+  Segment 8: type=complex, RMSE=0.01395
+  Segment 9: type=complex, RMSE=0.01405
+File valve_0488_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01801
+  Segment 1: type=complex, RMSE=0.02501
+  Segment 2: type=complex, RMSE=0.02093
+  Segment 3: type=plane, RMSE=0.01707
+  Segment 4: type=complex, RMSE=0.02148
+  Segment 5: type=complex, RMSE=0.02029
+  Segment 6: type=complex, RMSE=0.02910
+  Segment 7: type=tube, RMSE=0.02058
+  Segment 9: type=complex, RMSE=0.01774
+File valve_0489_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01934
+  Segment 1: type=complex, RMSE=0.02164
+  Segment 2: type=complex, RMSE=0.02334
+  Segment 3: type=complex, RMSE=0.01807
+  Segment 5: type=complex, RMSE=0.02279
+  Segment 6: type=complex, RMSE=0.02509
+  Segment 7: type=tube, RMSE=0.02896
+  Segment 9: type=complex, RMSE=0.01726
+File valve_0490_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01465
+  Segment 1: type=complex, RMSE=0.01773
+  Segment 2: type=tube, RMSE=0.01211
+  Segment 3: type=complex, RMSE=0.02164
+  Segment 4: type=complex, RMSE=0.01719
+  Segment 5: type=tube, RMSE=0.01549
+  Segment 6: type=complex, RMSE=0.02389
+  Segment 7: type=tube, RMSE=0.01402
+  Segment 8: type=plane, RMSE=0.01035
+  Segment 9: type=complex, RMSE=0.01451
+File valve_0491_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01557
+  Segment 1: type=complex, RMSE=0.01764
+  Segment 2: type=tube, RMSE=0.01247
+  Segment 3: type=complex, RMSE=0.01353
+  Segment 4: type=plane, RMSE=0.01568
+  Segment 5: type=complex, RMSE=0.01725
+  Segment 6: type=complex, RMSE=0.02185
+  Segment 7: type=tube, RMSE=0.02056
+  Segment 8: type=plane, RMSE=0.01075
+  Segment 9: type=complex, RMSE=0.01528
+File valve_0492_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01979
+  Segment 1: type=complex, RMSE=0.02096
+  Segment 2: type=complex, RMSE=0.02301
+  Segment 3: type=plane, RMSE=0.01327
+  Segment 4: type=complex, RMSE=0.02348
+  Segment 5: type=tube, RMSE=0.02074
+  Segment 6: type=complex, RMSE=0.02844
+  Segment 7: type=tube, RMSE=0.01858
+  Segment 9: type=complex, RMSE=0.01720
+File valve_0493_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01631
+  Segment 1: type=complex, RMSE=0.02024
+  Segment 2: type=complex, RMSE=0.02173
+  Segment 3: type=tube, RMSE=0.01468
+  Segment 4: type=plane, RMSE=0.01388
+  Segment 5: type=complex, RMSE=0.01966
+  Segment 6: type=complex, RMSE=0.02773
+  Segment 7: type=tube, RMSE=0.01307
+  Segment 9: type=sphere, RMSE=0.01544
+File valve_0494_lidar_classes.ply:
+  Segment 0: type=plane, RMSE=0.02826
+  Segment 1: type=complex, RMSE=0.02071
+  Segment 2: type=complex, RMSE=0.02037
+  Segment 3: type=tube, RMSE=0.01539
+  Segment 4: type=complex, RMSE=0.01995
+  Segment 5: type=complex, RMSE=0.02038
+  Segment 6: type=complex, RMSE=0.03055
+  Segment 7: type=tube, RMSE=0.01324
+  Segment 9: type=sphere, RMSE=0.01566
+File valve_0495_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01502
+  Segment 1: type=complex, RMSE=0.01876
+  Segment 2: type=complex, RMSE=0.01945
+  Segment 3: type=complex, RMSE=0.01400
+  Segment 4: type=plane, RMSE=0.01551
+  Segment 5: type=complex, RMSE=0.01938
+  Segment 6: type=complex, RMSE=0.02180
+  Segment 7: type=tube, RMSE=0.02318
+  Segment 8: type=plane, RMSE=0.01245
+  Segment 9: type=complex, RMSE=0.01588
+File valve_0496_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01662
+  Segment 1: type=complex, RMSE=0.02000
+  Segment 2: type=complex, RMSE=0.02271
+  Segment 3: type=plane, RMSE=0.02883
+  Segment 4: type=complex, RMSE=0.01906
+  Segment 5: type=plane, RMSE=0.01768
+  Segment 6: type=complex, RMSE=0.02233
+  Segment 7: type=tube, RMSE=0.02144
+  Segment 8: type=plane, RMSE=0.01079
+  Segment 9: type=complex, RMSE=0.01525
+File valve_0497_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01529
+  Segment 1: type=complex, RMSE=0.01739
+  Segment 2: type=complex, RMSE=0.02114
+  Segment 3: type=complex, RMSE=0.01433
+  Segment 4: type=plane, RMSE=0.01379
+  Segment 5: type=complex, RMSE=0.01647
+  Segment 6: type=complex, RMSE=0.02459
+  Segment 7: type=tube, RMSE=0.02921
+  Segment 8: type=plane, RMSE=0.01272
+  Segment 9: type=complex, RMSE=0.01537
+File valve_0498_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01576
+  Segment 1: type=complex, RMSE=0.01689
+  Segment 2: type=tube, RMSE=0.01227
+  Segment 3: type=complex, RMSE=0.01532
+  Segment 4: type=plane, RMSE=0.01492
+  Segment 5: type=complex, RMSE=0.01661
+  Segment 6: type=complex, RMSE=0.02398
+  Segment 7: type=tube, RMSE=0.02403
+  Segment 8: type=plane, RMSE=0.01182
+  Segment 9: type=complex, RMSE=0.01600
+File valve_0499_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01875
+  Segment 1: type=complex, RMSE=0.01905
+  Segment 2: type=complex, RMSE=0.02186
+  Segment 3: type=complex, RMSE=0.01607
+  Segment 4: type=complex, RMSE=0.02196
+  Segment 5: type=complex, RMSE=0.02041
+  Segment 6: type=complex, RMSE=0.02480
+  Segment 7: type=tube, RMSE=0.02464
+  Segment 9: type=complex, RMSE=0.01742
+File valve_0500_lidar_classes.ply:
+  Segment 0: type=complex, RMSE=0.01883
+  Segment 1: type=complex, RMSE=0.02018
+  Segment 2: type=complex, RMSE=0.02273
+  Segment 3: type=plane, RMSE=0.01608
+  Segment 4: type=complex, RMSE=0.02079
+  Segment 5: type=complex, RMSE=0.02743
+  Segment 6: type=complex, RMSE=0.03393
+  Segment 7: type=tube, RMSE=0.02090
+  Segment 9: type=complex, RMSE=0.01796
