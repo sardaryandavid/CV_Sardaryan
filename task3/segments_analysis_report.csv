@@ -1,0 +1,12 @@
+file,num_points,density_qual,mean_neighbor_dist,shape_type,elongation,surface_class,mean_curvature,normals_consistency,n_components,integrity_qual
+13.01.obj,1204,medium,4.0116,planar,2.12,slightly curved,0.0828,low (complex geometry or noise),57,fragmented or many components
+13.02.obj,1204,medium,4.0176,planar,2.12,slightly curved,0.0935,low (complex geometry or noise),51,mostly intact with small outliers
+13.03.obj,376,medium,4.5409,planar,4.79,smooth,0.0142,high (planar/smooth),52,fragmented or many components
+13.04.obj,376,medium,4.5118,planar,4.81,smooth,0.0122,high (planar/smooth),71,fragmented or many components
+13.05.obj,316,medium,2.7173,planar,2.23,smooth,0.0013,high (planar/smooth),76,fragmented or many components
+13.06.obj,733,medium,2.4762,planar,2.06,smooth,0.0358,medium (cylindrical/spherical),150,fragmented or many components
+13.07.obj,744,high,1.9722,linear,125.62,smooth,0.0110,high (planar/smooth),171,fragmented or many components
+13.08.obj,1700,high,0.9162,linear,191.10,smooth,0.0145,medium (cylindrical/spherical),308,fragmented or many components
+13.09.obj,298,low,2.3589,planar,3.10,smooth,0.0179,medium (cylindrical/spherical),7,fragmented or many components
+13.10.obj,7587,medium,3.8440,volumetric,2.46,smooth,0.0472,medium (cylindrical/spherical),756,fragmented or many components
+13.obj,14538,high,3.0170,volumetric,16.39,smooth,0.0382,medium (cylindrical/spherical),2689,fragmented or many components
